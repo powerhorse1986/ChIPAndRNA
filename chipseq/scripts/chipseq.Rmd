@@ -1,0 +1,76 @@
+---
+title: "chipseq"
+date: '`r format(Sys.Date(), "%m/%d/%Y")`'
+output:
+  html_document:
+    toc: yes
+    df_print: paged
+geometry: margin=0.25cm
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+knit_hooks$set(crop = knitr::hook_pdfcrop)
+opts_chunk$set(echo=FALSE, results='hide', message=FALSE, warning=FALSE, fig.align="center", fig.width=8, fig.height=8)
+```
+
+```{r}
+# Loading necessary libraries
+library(genomation)
+library(rtracklayer)
+library(IRanges)
+library(chipseq)
+library(Gviz)
+library(biomaRt)
+library(BSgenome.Hsapiens.UCSC.hg19)
+```
+
+```{r}
+# Promoter isolation
+mart <- biomaRt::useMart(biomart = "ensembl", 
+                         dataset = "hsapiens_gene_ensembl",
+                         host = "https://grch37.ensembl.org")
+```
+
+```{r}
+listAttributes(mart = mart)
+
+# The object egs contains the annotation of the most external 5 and 3 prime
+# UTRs for each gene model
+egs <- getBM(attributes = c('ensembl_gene_id','external_gene_name',
+                           'chromosome_name','start_position',
+                           'end_position','strand'),
+             mart = mart)
+```
+
+```{r}
+# Read in the peak file
+peaks <- readNarrowPeak("/home/mali/NewDrive/Practice/ChIPAndRNA/chipseq/results/macs2/GSE156591_peaks.narrowPeak",
+                        track.line = FALSE,
+                        zero.based = TRUE)
+# peaks <- import.bed("/home/mali/NewDrive/Practice/ChIPAndRNA/chipseq/results/macs2/GSE156591_peaks.narrowPeak")
+```
+
+```{r}
+egs$TSS <- ifelse(egs$strand == "1", egs$start_position, egs$end_position)
+head(egs)
+```
+
+```{r}
+# Considering regions of 200 bp around the TSS as promoters
+promoter_regions <- GRanges(seqnames = Rle(paste0("chr", egs$chromosome_name)),
+                            ranges = IRanges(start = egs$TSS - 200,
+                                             end = egs$TSS + 200),
+                            strand = Rle(rep("*", nrow(egs))),
+                            gene = egs$external_gene_name)
+promoter_regions
+```
+
+```{r}
+# Find the overlap between the promoter regions and the peaks
+tmp_df <- data.frame(peaks)
+tmp_df$seqnames <-paste0("chr", tmp_df$seqnames)
+peaks <- makeGRangesFromDataFrame(tmp_df)
+ovlp <- findOverlaps(peaks, promoter_regions)
+```
+
