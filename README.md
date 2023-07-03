@@ -1,4 +1,4 @@
-#ChIPAndRNA
+<head>ChIPAndRNA</head>
 
 This project aims to repeat the ChIP-Seq and RNA-Seq analyses using data GSE156591, for ChIP-Seq, and GSE156654, for RNA-Seq.
 
