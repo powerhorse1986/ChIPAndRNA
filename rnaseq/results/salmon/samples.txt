@@ -1,0 +1,13 @@
+mpps_id 	condition	shortname	pca_name	data_color
+SRR12492510	Group_CT	CT1	CT1	blue
+SRR12492511	Group_CT	CT2	CT2	blue
+SRR12492512	Group_CT	CT3	CT3	blue
+SRR12492513	Group_RAS	RAS1	RAS1	deeppink
+SRR12492514	Group_RAS	RAS2	RAS2	deeppink
+SRR12492515	Group_RAS	RAS3	RAS3	deeppink
+SRR12492516	Group_KD	KD1	KD1	green
+SRR12492517	Group_KD	KD2	KD2	green
+SRR12492518	Group_KD	KD3	KD3	green
+SRR12492519	Group_OE	OE1	OE1	darkorange1
+SRR12492520	Group_OE	OE2	OE2	darkorange1
+SRR12492521	Group_OE	OE3	OE3	darkorange1

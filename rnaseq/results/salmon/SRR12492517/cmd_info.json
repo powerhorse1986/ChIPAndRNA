@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "/home/mali/NewDrive/Practice/ChIPAndRNA/reference_data/index/salmon",
+    "libType": "A",
+    "mates1": "/home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492517/SRR12492517_1.fastq.gz",
+    "mates2": "/home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492517/SRR12492517_2.fastq.gz",
+    "threads": "8",
+    "validateMappings": [],
+    "output": "/home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/results/salmon/SRR12492517",
+    "auxDir": "aux_info"
+}

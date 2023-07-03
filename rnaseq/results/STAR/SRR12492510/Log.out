@@ -1,0 +1,223 @@
+STAR version=2.7.10a
+STAR compilation time,server,dir=2022-01-16T16:35:44+00:00 <place not set in Debian package>
+##### Command Line:
+/usr/lib/rna-star/bin/STAR-avx2 --runThreadN 16 --genomeDir /home/mali/NewDrive/Practice/ChIPAndRNA/reference_data/index/STAR --readFilesCommand zcat --readFilesIn /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_1.fastq.gz /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_2.fastq.gz --outFileNamePrefix /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/results/STAR/SRR12492510/ --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within --outSAMattributes Standard
+##### Initial USER parameters from Command Line:
+outFileNamePrefix                 /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/results/STAR/SRR12492510/
+###### All USER parameters from Command Line:
+runThreadN                    16     ~RE-DEFINED
+genomeDir                     /home/mali/NewDrive/Practice/ChIPAndRNA/reference_data/index/STAR     ~RE-DEFINED
+readFilesCommand              zcat        ~RE-DEFINED
+readFilesIn                   /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_1.fastq.gz   /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_2.fastq.gz        ~RE-DEFINED
+outFileNamePrefix             /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/results/STAR/SRR12492510/     ~RE-DEFINED
+outSAMtype                    BAM   SortedByCoordinate        ~RE-DEFINED
+outSAMunmapped                Within        ~RE-DEFINED
+outSAMattributes              Standard        ~RE-DEFINED
+##### Finished reading parameters from all sources
+
+##### Final user re-defined parameters-----------------:
+runThreadN                        16
+genomeDir                         /home/mali/NewDrive/Practice/ChIPAndRNA/reference_data/index/STAR
+readFilesIn                       /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_1.fastq.gz   /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_2.fastq.gz   
+readFilesCommand                  zcat   
+outFileNamePrefix                 /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/results/STAR/SRR12492510/
+outSAMtype                        BAM   SortedByCoordinate   
+outSAMattributes                  Standard   
+outSAMunmapped                    Within   
+
+-------------------------------
+##### Final effective command line:
+/usr/lib/rna-star/bin/STAR-avx2   --runThreadN 16   --genomeDir /home/mali/NewDrive/Practice/ChIPAndRNA/reference_data/index/STAR   --readFilesIn /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_1.fastq.gz   /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_2.fastq.gz      --readFilesCommand zcat      --outFileNamePrefix /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/results/STAR/SRR12492510/   --outSAMtype BAM   SortedByCoordinate      --outSAMattributes Standard      --outSAMunmapped Within   
+----------------------------------------
+
+Number of fastq files for each mate = 1
+
+   Input read files for mate 1 :
+-rw-rw-r-- 1 mali mali 1649989057 Jun 29 10:52 /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_1.fastq.gz
+
+   readsCommandsFile:
+exec > "/home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/results/STAR/SRR12492510/_STARtmp/tmp.fifo.read1"
+echo FILE 0
+zcat      "/home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_1.fastq.gz"
+
+
+   Input read files for mate 2 :
+-rw-rw-r-- 1 mali mali 1720684395 Jun 29 10:52 /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_2.fastq.gz
+
+   readsCommandsFile:
+exec > "/home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/results/STAR/SRR12492510/_STARtmp/tmp.fifo.read2"
+echo FILE 0
+zcat      "/home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_2.fastq.gz"
+
+ParametersSolo: --soloCellFilterType CellRanger2.2 filtering parameters:  3000 0.99 10
+WARNING: --limitBAMsortRAM=0, will use genome size as RAM limit for BAM sorting
+Finished loading and checking parameters
+Reading genome generation parameters:
+### STAR   --runMode genomeGenerate      --runThreadN 24   --genomeDir .   --genomeFastaFiles /uamsgenomics/genomes/Homo_sapiens/Ensembl/GRCh37_Release75/Sequence/WholeGenomeFasta/genome.fa      --sjdbGTFfile /uamsgenomics/genomes/Homo_sapiens/Ensembl/GRCh37_Release75/Annotation/Genes/genes.gtf   --sjdbOverhang 145
+### GstrandBit=32
+versionGenome                 2.7.4a     ~RE-DEFINED
+genomeType                    Full     ~RE-DEFINED
+genomeFastaFiles              /uamsgenomics/genomes/Homo_sapiens/Ensembl/GRCh37_Release75/Sequence/WholeGenomeFasta/genome.fa        ~RE-DEFINED
+genomeSAindexNbases           14     ~RE-DEFINED
+genomeChrBinNbits             18     ~RE-DEFINED
+genomeSAsparseD               1     ~RE-DEFINED
+genomeTransformType           None     ~RE-DEFINED
+genomeTransformVCF            -     ~RE-DEFINED
+sjdbOverhang                  145     ~RE-DEFINED
+sjdbFileChrStartEnd           -        ~RE-DEFINED
+sjdbGTFfile                   /uamsgenomics/genomes/Homo_sapiens/Ensembl/GRCh37_Release75/Annotation/Genes/genes.gtf     ~RE-DEFINED
+sjdbGTFchrPrefix              -     ~RE-DEFINED
+sjdbGTFfeatureExon            exon     ~RE-DEFINED
+sjdbGTFtagExonParentTranscripttranscript_id     ~RE-DEFINED
+sjdbGTFtagExonParentGene      gene_id     ~RE-DEFINED
+sjdbInsertSave                Basic     ~RE-DEFINED
+genomeFileSizes               3199527669   24407865829        ~RE-DEFINED
+Genome version is compatible with current STAR
+Number of real (reference) chromosomes= 25
+1	1	249250621	0
+2	2	243199373	249298944
+3	3	198022430	492568576
+4	4	191154276	690749440
+5	5	180915260	882114560
+6	6	171115067	1063256064
+7	7	159138663	1234436096
+8	8	146364022	1393819648
+9	9	141213431	1540358144
+10	10	135534747	1681653760
+11	11	135006516	1817444352
+12	12	133851895	1952710656
+13	13	115169878	2086666240
+14	14	107349540	2202009600
+15	15	102531392	2309488640
+16	16	90354753	2412249088
+17	17	81195210	2502688768
+18	18	78077248	2583953408
+19	19	59128983	2662072320
+20	20	63025520	2721316864
+21	21	48129895	2784493568
+22	22	51304566	2832728064
+23	X	155270560	2884108288
+24	Y	59373566	3039559680
+25	MT	16569	3099066368
+--sjdbOverhang = 145 taken from the generated genome
+Started loading the genome: Fri Jun 30 13:47:28 2023
+
+Genome: size given as a parameter = 3199527669
+SA: size given as a parameter = 24407865829
+SAindex: size given as a parameter = 1
+Read from SAindex: pGe.gSAindexNbases=14  nSAi=357913940
+nGenome=3199527669;  nSAbyte=24407865829
+GstrandBit=32   SA number of indices=5917058382
+Shared memory is not used for genomes. Allocated a private copy of the genome.
+Genome file size: 3199527669 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading Genome ... done! state: good=1 eof=0 fail=0 bad=0; loaded 3199527669 bytes
+SA file size: 24407865829 bytes; state: good=1 eof=0 fail=0 bad=0
+Loading SA ... done! state: good=1 eof=0 fail=0 bad=0; loaded 24407865829 bytes
+Loading SAindex ... done: 1565873619 bytes
+Finished loading the genome: Fri Jun 30 13:48:33 2023
+
+Processing splice junctions database sjdbN=344327,   pGe.sjdbOverhang=145 
+alignIntronMax=alignMatesGapMax=0, the max intron size will be approximately determined by (2^winBinNbits)*winAnchorDistNbins=589824
+Created thread # 1
+Created thread # 2
+Created thread # 3
+Created thread # 4
+Created thread # 5
+Created thread # 6
+Starting to map file # 0
+mate 1:   /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_1.fastq.gz
+mate 2:   /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492510/SRR12492510_2.fastq.gz
+Created thread # 7
+Created thread # 8
+Created thread # 9
+Created thread # 10
+Created thread # 11
+Created thread # 12
+Created thread # 13
+Created thread # 14
+Created thread # 15
+BAM sorting: 155940 mapped reads
+BAM sorting bins genomic start loci:
+1	0	28562740
+2	0	89417076
+3	0	156084573
+4	0	226033636
+5	1	65316072
+6	1	172544079
+7	1	230631954
+8	2	48510509
+9	2	128533065
+10	3	25930915
+11	4	10680761
+12	4	135391496
+13	4	176764487
+14	5	33282249
+15	5	74229195
+16	6	5567288
+17	6	44839399
+18	6	100883074
+19	7	22926356
+20	7	144103656
+21	8	110045889
+22	9	3154461
+23	9	81073546
+24	10	6415803
+25	10	61732035
+26	10	69466115
+27	10	122930895
+28	11	49521942
+29	11	57107320
+30	11	124827699
+31	13	23345027
+32	14	25220543
+33	14	72492075
+34	15	8738616
+35	15	66968809
+36	16	7210968
+37	16	40555138
+38	16	57760363
+39	16	80858585
+40	18	3983188
+41	18	18277987
+42	18	49119344
+43	19	11899756
+44	19	61579325
+45	21	30730546
+46	21	45595857
+47	22	100088361
+48	24	5090
+Thread #9 end of input stream, nextChar=-1
+Completed: thread #2
+Completed: thread #13
+Completed: thread #4
+Completed: thread #1
+Completed: thread #15
+Completed: thread #8
+Completed: thread #3
+Completed: thread #5
+Completed: thread #7
+Completed: thread #12
+Completed: thread #10
+Completed: thread #9
+Completed: thread #14
+Completed: thread #11
+Completed: thread #0
+Joined thread # 1
+Joined thread # 2
+Joined thread # 3
+Joined thread # 4
+Joined thread # 5
+Completed: thread #6
+Joined thread # 6
+Joined thread # 7
+Joined thread # 8
+Joined thread # 9
+Joined thread # 10
+Joined thread # 11
+Joined thread # 12
+Joined thread # 13
+Joined thread # 14
+Joined thread # 15
+Jun 30 13:54:07 ..... started sorting BAM
+Max memory needed for sorting = 331020978
+ALL DONE!

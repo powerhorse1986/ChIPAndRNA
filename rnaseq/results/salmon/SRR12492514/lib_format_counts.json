@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492514/SRR12492514_1.fastq.gz, /home/mali/NewDrive/Practice/ChIPAndRNA/rnaseq/raw_data/SRR12492514/SRR12492514_2.fastq.gz]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 21156729,
+    "num_assigned_fragments": 21156729,
+    "num_frags_with_concordant_consistent_mappings": 20611915,
+    "num_frags_with_inconsistent_or_orphan_mappings": 660659,
+    "strand_mapping_bias": 0.5034734036114549,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 10377551,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 10234364,
+    "SF": 335779,
+    "SR": 324880,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
