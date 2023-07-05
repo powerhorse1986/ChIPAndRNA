@@ -16,30 +16,30 @@ FILTERED_CTRL="/home/mali/NewDrive/Practice/ChIPAndRNA/chipseq/results/macs2/SRR
 BLACKLIST="/home/mali/NewDrive/Practice/ChIPAndRNA/reference_data/blacklist/hg19-blacklist.v2.bed"
 
 # Filter the peaks against the blacklist bed file
-#bedtools intersect \
-#-v \
-#-a $COMPARE_PEAK \
-#-b $BLACKLIST \
-#> $FILTERED_COMPARE
+bedtools intersect \
+-v \
+-a $COMPARE_PEAK \
+-b $BLACKLIST \
+> $FILTERED_COMPARE
 
-#bedtools intersect \
-#-v \
-#-a $CASE_PEAK \
-#-b $BLACKLIST \
-#> $FILTERED_CASE
+bedtools intersect \
+-v \
+-a $CASE_PEAK \
+-b $BLACKLIST \
+> $FILTERED_CASE
 
-#bedtools intersect \
-#-v \
-#-a $CTRL_PEAK \
-#-b $BLACKLIST \
-#> $FILTERED_CTRL
+bedtools intersect \
+-v \
+-a $CTRL_PEAK \
+-b $BLACKLIST \
+> $FILTERED_CTRL
 
 # Find the overlapping peaks between the case and control
-#bedtools intersect \
-#-wo -f 0.3 -r \
-#-a $CASE_PEAK \
-#-b $CASE_PEAK \
-#> /home/mali/NewDrive/Practice/ChIPAndRNA/chipseq/results/macs2/peaks_final.bed
+bedtools intersect \
+-wo -f 0.3 -r \
+-a $CASE_PEAK \
+-b $CASE_PEAK \
+> /home/mali/NewDrive/Practice/ChIPAndRNA/chipseq/results/macs2/peaks_final.bed
 
 # Index the bam files using samtools
 samtools index \
