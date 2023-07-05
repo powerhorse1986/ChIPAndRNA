@@ -41,20 +41,20 @@ do
 	fi
 
 	# Align the reads
-        #STAR --runThreadN 16 \
-	#--genomeDir $INDEX_PATH \
-	#--readFilesCommand zcat \
-	#--readFilesIn $FASTQ_PATH/$LINE/*1.fastq.gz $FASTQ_PATH/$LINE/*2.fastq.gz \
-	#--outFileNamePrefix $OUT_PATH \
-	#--outSAMtype BAM SortedByCoordinate \
-	#--outSAMunmapped Within \
-	#--outSAMattributes Standard
+        STAR --runThreadN 16 \
+	--genomeDir $INDEX_PATH \
+	--readFilesCommand zcat \
+	--readFilesIn $FASTQ_PATH/$LINE/*1.fastq.gz $FASTQ_PATH/$LINE/*2.fastq.gz \
+	--outFileNamePrefix $OUT_PATH \
+	--outSAMtype BAM SortedByCoordinate \
+	--outSAMunmapped Within \
+	--outSAMattributes Standard
 	
 	# Build index for the bam file
 	samtools index $OUT_PATH/*.out.bam
 
 	# Counting reads per feature
-	#echo "Counting $LINE"
+	echo "Counting $LINE"
 	htseq-count \
 	-f bam \
 	-m union \
