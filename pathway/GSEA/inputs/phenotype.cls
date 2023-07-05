@@ -1,0 +1,3 @@
+6	2	1
+#	CT	RAS
+CT	CT	CT	RAS	RAS	RAS

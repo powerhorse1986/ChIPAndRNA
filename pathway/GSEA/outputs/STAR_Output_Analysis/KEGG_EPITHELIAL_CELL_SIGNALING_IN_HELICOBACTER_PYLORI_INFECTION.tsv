@@ -1,0 +1,67 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MET	MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]	116	3.2705554962158203	0.04300436	No	
+row_1	ADAM10	ADAM metallopeptidase domain 10 [Source:HGNC Symbol;Acc:HGNC:188]	772	2.056781768798828	0.05531604	No	
+row_2	NOD1	nucleotide binding oligomerization domain containing 1 [Source:HGNC Symbol;Acc:HGNC:16390]	1341	1.6529077291488647	0.064156756	No	
+row_3	MAP2K4	mitogen-activated protein kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6844]	1571	1.536406397819519	0.07994177	No	
+row_4	TJP1	tight junction protein 1 [Source:HGNC Symbol;Acc:HGNC:11827]	2228	1.2760733366012573	0.081261754	No	
+row_5	MAPK9	mitogen-activated protein kinase 9 [Source:HGNC Symbol;Acc:HGNC:6886]	2420	1.206459403038025	0.093373954	No	
+row_6	PTPN11	protein tyrosine phosphatase non-receptor type 11 [Source:HGNC Symbol;Acc:HGNC:9644]	2604	1.1445338726043701	0.104818806	No	
+row_7	PAK1	p21 (RAC1) activated kinase 1 [Source:HGNC Symbol;Acc:HGNC:8590]	2886	1.0638184547424316	0.11264929	No	
+row_8	ATP6V0A4	ATPase H+ transporting V0 subunit a4 [Source:HGNC Symbol;Acc:HGNC:866]	3640	0.895563542842865	0.1061691	No	
+row_9	ADAM17	ADAM metallopeptidase domain 17 [Source:HGNC Symbol;Acc:HGNC:195]	3680	0.8897796273231506	0.11768041	No	
+row_10	CHUK	component of inhibitor of nuclear factor kappa B kinase complex [Source:HGNC Symbol;Acc:HGNC:1974]	3762	0.8728745579719543	0.12789115	No	
+row_11	MAP3K14	mitogen-activated protein kinase kinase kinase 14 [Source:HGNC Symbol;Acc:HGNC:6853]	4413	0.7583966851234436	0.12209135	No	
+row_12	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	4896	0.6694005727767944	0.11929386	No	
+row_13	CASP3	caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504]	5325	0.5898382663726807	0.11674563	No	
+row_14	IGSF5	immunoglobulin superfamily member 5 [Source:HGNC Symbol;Acc:HGNC:5952]	6097	0.5269612073898315	0.10463217	No	
+row_15	ATP6V1B1	ATPase H+ transporting V1 subunit B1 [Source:HGNC Symbol;Acc:HGNC:853]	6444	0.5025523900985718	0.10293344	No	
+row_16	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	6515	0.4903712272644043	0.108049706	No	
+row_17	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	6866	0.48135650157928467	0.10595199	No	
+row_18	ATP6V1A	ATPase H+ transporting V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	7336	0.41813725233078003	0.09995413	No	
+row_19	ATP6V1D	ATPase H+ transporting V1 subunit D [Source:HGNC Symbol;Acc:HGNC:13527]	8202	0.32895562052726746	0.08268002	No	
+row_20	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	8274	0.3192247450351715	0.08536693	No	
+row_21	LYN	LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]	8764	0.2459670603275299	0.0764444	No	
+row_22	ATP6V0A2	ATPase H+ transporting V0 subunit a2 [Source:HGNC Symbol;Acc:HGNC:18481]	8869	0.23058100044727325	0.07705086	No	
+row_23	ATP6V1E2	ATPase H+ transporting V1 subunit E2 [Source:HGNC Symbol;Acc:HGNC:18125]	9122	0.189369335770607	0.07333226	No	
+row_24	MAPK11	mitogen-activated protein kinase 11 [Source:HGNC Symbol;Acc:HGNC:6873]	9350	0.15401875972747803	0.0697499	No	
+row_25	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	10030	0.05590216815471649	0.053348314	No	
+row_26	PTPRZ1	protein tyrosine phosphatase receptor type Z1 [Source:HGNC Symbol;Acc:HGNC:9685]	13639	0.0	-0.037977275	No	
+row_27	ATP6V1G3	ATPase H+ transporting V1 subunit G3 [Source:HGNC Symbol;Acc:HGNC:18265]	16423	0.0	-0.10842049	No	
+row_28	CXCR1	C-X-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:6026]	18702	0.0	-0.16608116	No	
+row_29	CXCR2	C-X-C motif chemokine receptor 2 [Source:HGNC Symbol;Acc:HGNC:6027]	18704	0.0	-0.16610648	No	
+row_30	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	30674	-0.10683972388505936	-0.4675647	No	
+row_31	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	30851	-0.1359519362449646	-0.47010994	No	
+row_32	ATP6V0E2	ATPase H+ transporting V0 subunit e2 [Source:HGNC Symbol;Acc:HGNC:21723]	30936	-0.14991797506809235	-0.4701303	No	
+row_33	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	31241	-0.2012159377336502	-0.4749987	No	
+row_34	ATP6V1H	ATPase H+ transporting V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	31406	-0.22260330617427826	-0.47602302	No	
+row_35	ATP6V1C2	ATPase H+ transporting V1 subunit C2 [Source:HGNC Symbol;Acc:HGNC:18264]	31479	-0.23200355470180511	-0.4745866	No	
+row_36	MAPK10	mitogen-activated protein kinase 10 [Source:HGNC Symbol;Acc:HGNC:6872]	32301	-0.3512336313724518	-0.49043405	No	
+row_37	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	32312	-0.3526044189929962	-0.48573422	No	
+row_38	ATP6V1E1	ATPase H+ transporting V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	33792	-0.5070429444313049	-0.5160484	No	
+row_39	ATP6V1C1	ATPase H+ transporting V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	34968	-0.6311242580413818	-0.5369247	Yes	
+row_40	PLCG2	phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	35271	-0.6899033188819885	-0.534878	Yes	
+row_41	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	35667	-0.7647125720977783	-0.53413457	Yes	
+row_42	ATP6V0E1	ATPase H+ transporting V0 subunit e1 [Source:HGNC Symbol;Acc:HGNC:863]	35734	-0.7774016261100769	-0.52488524	Yes	
+row_43	ATP6V1G1	ATPase H+ transporting V1 subunit G1 [Source:HGNC Symbol;Acc:HGNC:864]	36103	-0.8566170334815979	-0.5221674	Yes	
+row_44	PLCG1	phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065]	36828	-1.0185351371765137	-0.52618617	Yes	
+row_45	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	37045	-1.0746461153030396	-0.5165583	Yes	
+row_46	GIT1	GIT ArfGAP 1 [Source:HGNC Symbol;Acc:HGNC:4272]	37060	-1.0812592506408691	-0.50172454	Yes	
+row_47	ATP6V0C	ATPase H+ transporting V0 subunit c [Source:HGNC Symbol;Acc:HGNC:855]	37094	-1.0903664827346802	-0.48724377	Yes	
+row_48	ATP6AP1	ATPase H+ transporting accessory protein 1 [Source:HGNC Symbol;Acc:HGNC:868]	37381	-1.1784088611602783	-0.47793022	Yes	
+row_49	ATP6V1G2	ATPase H+ transporting V1 subunit G2 [Source:HGNC Symbol;Acc:HGNC:862]	37428	-1.1963492631912231	-0.4622898	Yes	
+row_50	JAM2	junctional adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:14686]	37563	-1.2497954368591309	-0.4481261	Yes	
+row_51	CSK	C-terminal Src kinase [Source:HGNC Symbol;Acc:HGNC:2444]	37801	-1.3437432050704956	-0.43524987	Yes	
+row_52	ATP6V0A1	ATPase H+ transporting V0 subunit a1 [Source:HGNC Symbol;Acc:HGNC:865]	38126	-1.5029774904251099	-0.42233905	Yes	
+row_53	ATP6V0D1	ATPase H+ transporting V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	38239	-1.5632145404815674	-0.40321597	Yes	
+row_54	MAPK12	mitogen-activated protein kinase 12 [Source:HGNC Symbol;Acc:HGNC:6874]	38273	-1.5794302225112915	-0.38186547	Yes	
+row_55	ATP6V1F	ATPase H+ transporting V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	38411	-1.6726884841918945	-0.36183742	Yes	
+row_56	HBEGF	heparin binding EGF like growth factor [Source:HGNC Symbol;Acc:HGNC:3059]	38457	-1.706721305847168	-0.33900264	Yes	
+row_57	ATP6V1B2	ATPase H+ transporting V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	38555	-1.7737913131713867	-0.31654197	Yes	
+row_58	TCIRG1	T cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [Source:HGNC Symbol;Acc:HGNC:11647]	38641	-1.837152361869812	-0.29288754	Yes	
+row_59	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	38698	-1.9034391641616821	-0.26756793	Yes	
+row_60	ATP6V0B	ATPase H+ transporting V0 subunit b [Source:HGNC Symbol;Acc:HGNC:861]	39026	-2.3516435623168945	-0.2428121	Yes	
+row_61	ATP6V0D2	ATPase H+ transporting V0 subunit d2 [Source:HGNC Symbol;Acc:HGNC:18266]	39127	-2.5655839443206787	-0.20930529	Yes	
+row_62	MAPK13	mitogen-activated protein kinase 13 [Source:HGNC Symbol;Acc:HGNC:6875]	39165	-2.6496009826660156	-0.17302364	Yes	
+row_63	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	39283	-3.0774128437042236	-0.13275762	Yes	
+row_64	CXCL8	C-X-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:6025]	39565	-4.97961950302124	-0.069923	Yes	
+row_65	CXCL1	C-X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:4602]	39568	-4.988707065582275	1.0130874E-4	Yes	

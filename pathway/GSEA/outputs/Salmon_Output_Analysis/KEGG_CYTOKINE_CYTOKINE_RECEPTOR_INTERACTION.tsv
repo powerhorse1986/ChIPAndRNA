@@ -1,0 +1,255 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFSF4	TNF superfamily member 4 [Source:HGNC Symbol;Acc:HGNC:11934]	3	4.308008193969727	0.017103352	No	
+row_1	KIT	KIT proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6342]	5	4.2461676597595215	0.034029957	No	
+row_2	CXCL14	C-X-C motif chemokine ligand 14 [Source:HGNC Symbol;Acc:HGNC:10640]	17	4.007242679595947	0.049650744	No	
+row_3	EGF	epidermal growth factor [Source:HGNC Symbol;Acc:HGNC:3229]	32	3.7153594493865967	0.06400015	No	
+row_4	CXCL12	C-X-C motif chemokine ligand 12 [Source:HGNC Symbol;Acc:HGNC:10672]	61	3.498788833618164	0.076992474	No	
+row_5	MET	MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]	173	2.911123752593994	0.084720634	No	
+row_6	GDF5	growth differentiation factor 5 [Source:HGNC Symbol;Acc:HGNC:4220]	209	2.7924299240112305	0.09464535	No	
+row_7	FAS	Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	290	2.590290069580078	0.10218126	No	
+row_8	CCL2	C-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:10618]	320	2.5288710594177246	0.11126401	No	
+row_9	BMPR1A	bone morphogenetic protein receptor type 1A [Source:HGNC Symbol;Acc:HGNC:1076]	529	2.153254985809326	0.11255614	No	
+row_10	TGFB2	transforming growth factor beta 2 [Source:HGNC Symbol;Acc:HGNC:11768]	538	2.13993763923645	0.120823205	No	
+row_11	TNFSF10	TNF superfamily member 10 [Source:HGNC Symbol;Acc:HGNC:11925]	630	2.0156548023223877	0.12567714	No	
+row_12	LEPR	leptin receptor [Source:HGNC Symbol;Acc:HGNC:6554]	647	1.9963451623916626	0.13308948	No	
+row_13	KITLG	KIT ligand [Source:HGNC Symbol;Acc:HGNC:6343]	753	1.9032410383224487	0.1370024	No	
+row_14	BMPR2	bone morphogenetic protein receptor type 2 [Source:HGNC Symbol;Acc:HGNC:1078]	1038	1.6823676824569702	0.13374282	No	
+row_15	IL15	interleukin 15 [Source:HGNC Symbol;Acc:HGNC:5977]	1156	1.6010562181472778	0.13602693	No	
+row_16	IL11RA	interleukin 11 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:5967]	1714	1.304063320159912	0.12166275	No	
+row_17	CSF1	colony stimulating factor 1 [Source:HGNC Symbol;Acc:HGNC:2432]	1738	1.2919185161590576	0.12601522	No	
+row_18	TNFSF12	TNF superfamily member 12 [Source:HGNC Symbol;Acc:HGNC:11927]	2039	1.1783794164657593	0.120180145	No	
+row_19	IL6ST	interleukin 6 cytokine family signal transducer [Source:HGNC Symbol;Acc:HGNC:6021]	2058	1.171226978302002	0.1242262	No	
+row_20	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	2065	1.1668142080307007	0.12867631	No	
+row_21	EDA2R	ectodysplasin A2 receptor [Source:HGNC Symbol;Acc:HGNC:17756]	2108	1.154396414756775	0.13181175	No	
+row_22	PDGFC	platelet derived growth factor C [Source:HGNC Symbol;Acc:HGNC:8801]	2169	1.1290804147720337	0.13421354	No	
+row_23	IL20RA	interleukin 20 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:6003]	2742	0.9628900289535522	0.117959395	No	
+row_24	INHBB	inhibin subunit beta B [Source:HGNC Symbol;Acc:HGNC:6067]	2854	0.9354593753814697	0.11779556	No	
+row_25	BMPR1B	bone morphogenetic protein receptor type 1B [Source:HGNC Symbol;Acc:HGNC:1077]	2862	0.9335623979568481	0.121278785	No	
+row_26	TNFRSF10C	TNF receptor superfamily member 10c [Source:HGNC Symbol;Acc:HGNC:11906]	3014	0.8934963941574097	0.11954169	No	
+row_27	IL12RB2	interleukin 12 receptor subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:5972]	3106	0.8701187968254089	0.11981966	No	
+row_28	GHR	growth hormone receptor [Source:HGNC Symbol;Acc:HGNC:4263]	3199	0.8457192778587341	0.119965024	No	
+row_29	IFNAR1	interferon alpha and beta receptor subunit 1 [Source:HGNC Symbol;Acc:HGNC:5432]	3616	0.7602565288543701	0.1083834	No	
+row_30	TNFSF13B	TNF superfamily member 13b [Source:HGNC Symbol;Acc:HGNC:11929]	3800	0.7241847515106201	0.10484547	No	
+row_31	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	3834	0.7166233062744141	0.10654845	No	
+row_32	IL7R	interleukin 7 receptor [Source:HGNC Symbol;Acc:HGNC:6024]	3839	0.7162764072418213	0.10926913	No	
+row_33	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	4062	0.6674450039863586	0.10413406	No	
+row_34	IFNLR1	interferon lambda receptor 1 [Source:HGNC Symbol;Acc:HGNC:18584]	4200	0.6422013640403748	0.10188512	No	
+row_35	CD40	CD40 molecule [Source:HGNC Symbol;Acc:HGNC:11919]	4285	0.6255432367324829	0.10143209	No	
+row_36	IL18	interleukin 18 [Source:HGNC Symbol;Acc:HGNC:5986]	4309	0.6193062663078308	0.10309774	No	
+row_37	IL12B	interleukin 12B [Source:HGNC Symbol;Acc:HGNC:5970]	4872	0.5385961532592773	0.08550011	No	
+row_38	TNFRSF13C	TNF receptor superfamily member 13C [Source:HGNC Symbol;Acc:HGNC:17755]	5388	0.4893275797367096	0.069357306	No	
+row_39	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	5420	0.4884381592273712	0.070219055	No	
+row_40	IL2RG	interleukin 2 receptor subunit gamma [Source:HGNC Symbol;Acc:HGNC:6010]	5436	0.4862547516822815	0.07163434	No	
+row_41	TGFBR2	transforming growth factor beta receptor 2 [Source:HGNC Symbol;Acc:HGNC:11773]	5571	0.48022550344467163	0.06884379	No	
+row_42	TNFRSF9	TNF receptor superfamily member 9 [Source:HGNC Symbol;Acc:HGNC:11924]	5599	0.47660401463508606	0.069798835	No	
+row_43	FLT4	fms related receptor tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	5668	0.4660263955593109	0.06927085	No	
+row_44	IL12A	interleukin 12A [Source:HGNC Symbol;Acc:HGNC:5969]	5713	0.4573693573474884	0.06955167	No	
+row_45	TSLP	thymic stromal lymphopoietin [Source:HGNC Symbol;Acc:HGNC:30743]	5736	0.4550314247608185	0.07059624	No	
+row_46	IL17RB	interleukin 17 receptor B [Source:HGNC Symbol;Acc:HGNC:18015]	5787	0.44751113653182983	0.07062683	No	
+row_47	IFNA8	interferon alpha 8 [Source:HGNC Symbol;Acc:HGNC:5429]	5970	0.42459407448768616	0.065927304	No	
+row_48	CNTFR	ciliary neurotrophic factor receptor [Source:HGNC Symbol;Acc:HGNC:2170]	5988	0.42459407448768616	0.06702599	No	
+row_49	IL9R	interleukin 9 receptor [Source:HGNC Symbol;Acc:HGNC:6030]	6056	0.41998815536499023	0.066349246	No	
+row_50	NGFR	nerve growth factor receptor [Source:HGNC Symbol;Acc:HGNC:7809]	6086	0.41998815536499023	0.067007855	No	
+row_51	CCR4	C-C motif chemokine receptor 4 [Source:HGNC Symbol;Acc:HGNC:1605]	6226	0.41683125495910645	0.06378836	No	
+row_52	CXCR6	C-X-C motif chemokine receptor 6 [Source:HGNC Symbol;Acc:HGNC:16647]	6564	0.36836203932762146	0.053417392	No	
+row_53	FLT3LG	fms related receptor tyrosine kinase 3 ligand [Source:HGNC Symbol;Acc:HGNC:3766]	6998	0.29562944173812866	0.039382376	No	
+row_54	TNFRSF18	TNF receptor superfamily member 18 [Source:HGNC Symbol;Acc:HGNC:11914]	7064	0.2814861536026001	0.038222652	No	
+row_55	IFNAR2	interferon alpha and beta receptor subunit 2 [Source:HGNC Symbol;Acc:HGNC:5433]	7098	0.27513840794563293	0.038162075	No	
+row_56	LIFR	LIF receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:6597]	7150	0.26693928241729736	0.037436213	No	
+row_57	ACVR1	activin A receptor type 1 [Source:HGNC Symbol;Acc:HGNC:171]	7278	0.24727201461791992	0.03396109	No	
+row_58	IL10RB	interleukin 10 receptor subunit beta [Source:HGNC Symbol;Acc:HGNC:5965]	7527	0.20866639912128448	0.026079727	No	
+row_59	CCL28	C-C motif chemokine ligand 28 [Source:HGNC Symbol;Acc:HGNC:17700]	7634	0.19328804314136505	0.023126919	No	
+row_60	CNTF	ciliary neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:2169]	7709	0.17952972650527954	0.021243652	No	
+row_61	EDA	ectodysplasin A [Source:HGNC Symbol;Acc:HGNC:3157]	7878	0.15093716979026794	0.015942942	No	
+row_62	IL15RA	interleukin 15 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:5978]	8400	0.06888992339372635	-0.0020901954	No	
+row_63	IFNGR1	interferon gamma receptor 1 [Source:HGNC Symbol;Acc:HGNC:5439]	8689	0.018765542656183243	-0.012135767	No	
+row_64	IL1RAP	interleukin 1 receptor accessory protein [Source:HGNC Symbol;Acc:HGNC:5995]	8709	0.015632877126336098	-0.012740995	No	
+row_65	TNFRSF19	TNF receptor superfamily member 19 [Source:HGNC Symbol;Acc:HGNC:11915]	8791	9.333009948022664E-4	-0.015583666	No	
+row_66	TNFRSF13B	TNF receptor superfamily member 13B [Source:HGNC Symbol;Acc:HGNC:18153]	9146	0.0	-0.028023489	No	
+row_67	CX3CR1	C-X3-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:2558]	9289	0.0	-0.033013474	No	
+row_68	CRLF2	cytokine receptor like factor 2 [Source:HGNC Symbol;Acc:HGNC:14281]	9512	0.0	-0.040814716	No	
+row_69	PPBP	pro-platelet basic protein [Source:HGNC Symbol;Acc:HGNC:9240]	9552	0.0	-0.042185206	No	
+row_70	CSF2RB	colony stimulating factor 2 receptor subunit beta [Source:HGNC Symbol;Acc:HGNC:2436]	10129	0.0	-0.062426273	No	
+row_71	CSF2RA	colony stimulating factor 2 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:2435]	10130	0.0	-0.062426273	No	
+row_72	IFNW1	interferon omega 1 [Source:HGNC Symbol;Acc:HGNC:5448]	11054	0.0	-0.09486117	No	
+row_73	IFNA5	interferon alpha 5 [Source:HGNC Symbol;Acc:HGNC:5426]	11328	0.0	-0.1044546	No	
+row_74	IFNA4	interferon alpha 4 [Source:HGNC Symbol;Acc:HGNC:5425]	11329	0.0	-0.1044546	No	
+row_75	IFNA7	interferon alpha 7 [Source:HGNC Symbol;Acc:HGNC:5428]	11330	0.0	-0.1044546	No	
+row_76	IFNA6	interferon alpha 6 [Source:HGNC Symbol;Acc:HGNC:5427]	11331	0.0	-0.1044546	No	
+row_77	IFNA1	interferon alpha 1 [Source:HGNC Symbol;Acc:HGNC:5417]	11332	0.0	-0.1044546	No	
+row_78	IFNA2	interferon alpha 2 [Source:HGNC Symbol;Acc:HGNC:5423]	11334	0.0	-0.104489736	No	
+row_79	IFNB1	interferon beta 1 [Source:HGNC Symbol;Acc:HGNC:5434]	11356	0.0	-0.105227694	No	
+row_80	IFNL2	interferon lambda 2 [Source:HGNC Symbol;Acc:HGNC:18364]	11474	0.0	-0.10933916	No	
+row_81	IFNL1	interferon lambda 1 [Source:HGNC Symbol;Acc:HGNC:18363]	11476	0.0	-0.1093743	No	
+row_82	IFNL3	interferon lambda 3 [Source:HGNC Symbol;Acc:HGNC:18365]	11487	0.0	-0.10972571	No	
+row_83	IL2RA	interleukin 2 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:6008]	11788	0.0	-0.12026793	No	
+row_84	XCL2	X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:10646]	11956	0.0	-0.12613644	No	
+row_85	XCL1	X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10645]	11957	0.0	-0.12613644	No	
+row_86	IL23R	interleukin 23 receptor [Source:HGNC Symbol;Acc:HGNC:19100]	12004	0.0	-0.12775292	No	
+row_87	XCR1	X-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:1625]	12022	0.0	-0.1283503	No	
+row_88	AMHR2	anti-Mullerian hormone receptor type 2 [Source:HGNC Symbol;Acc:HGNC:465]	12653	0.0	-0.15048897	No	
+row_89	GH2	growth hormone 2 [Source:HGNC Symbol;Acc:HGNC:4262]	12666	0.0	-0.15091066	No	
+row_90	GH1	growth hormone 1 [Source:HGNC Symbol;Acc:HGNC:4261]	12667	0.0	-0.15091066	No	
+row_91	IL5RA	interleukin 5 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:6017]	12725	0.0	-0.15291367	No	
+row_92	IL2	interleukin 2 [Source:HGNC Symbol;Acc:HGNC:6001]	13019	0.0	-0.16320992	No	
+row_93	IL4	interleukin 4 [Source:HGNC Symbol;Acc:HGNC:6014]	13020	0.0	-0.16320992	No	
+row_94	IL3	interleukin 3 [Source:HGNC Symbol;Acc:HGNC:6011]	13021	0.0	-0.16320992	No	
+row_95	IL5	interleukin 5 [Source:HGNC Symbol;Acc:HGNC:6016]	13022	0.0	-0.16320992	No	
+row_96	IL9	interleukin 9 [Source:HGNC Symbol;Acc:HGNC:6029]	13024	0.0	-0.16324505	No	
+row_97	IFNA13	interferon alpha 13 [Source:HGNC Symbol;Acc:HGNC:5419]	13254	0.0	-0.17129229	No	
+row_98	IFNA14	interferon alpha 14 [Source:HGNC Symbol;Acc:HGNC:5420]	13256	0.0	-0.17132743	No	
+row_99	IFNA16	interferon alpha 16 [Source:HGNC Symbol;Acc:HGNC:5421]	13257	0.0	-0.17132743	No	
+row_100	IFNA17	interferon alpha 17 [Source:HGNC Symbol;Acc:HGNC:5422]	13258	0.0	-0.17132743	No	
+row_101	IFNA10	interferon alpha 10 [Source:HGNC Symbol;Acc:HGNC:5418]	13262	0.0	-0.17143285	No	
+row_102	IFNA21	interferon alpha 21 [Source:HGNC Symbol;Acc:HGNC:5424]	13264	0.0	-0.17146799	No	
+row_103	LEP	leptin [Source:HGNC Symbol;Acc:HGNC:6553]	13443	0.0	-0.17772304	No	
+row_104	CD40LG	CD40 ligand [Source:HGNC Symbol;Acc:HGNC:11935]	13514	0.0	-0.18018289	No	
+row_105	LTA	lymphotoxin alpha [Source:HGNC Symbol;Acc:HGNC:6709]	13543	0.0	-0.18116683	No	
+row_106	CXCL13	C-X-C motif chemokine ligand 13 [Source:HGNC Symbol;Acc:HGNC:10639]	13605	0.0	-0.18331042	No	
+row_107	CXCR5	C-X-C motif chemokine receptor 5 [Source:HGNC Symbol;Acc:HGNC:1060]	13824	0.0	-0.19097109	No	
+row_108	CXCR1	C-X-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:6026]	13830	0.0	-0.1911468	No	
+row_109	CXCR3	C-X-C motif chemokine receptor 3 [Source:HGNC Symbol;Acc:HGNC:4540]	13831	0.0	-0.1911468	No	
+row_110	CXCR2	C-X-C motif chemokine receptor 2 [Source:HGNC Symbol;Acc:HGNC:6027]	13832	0.0	-0.1911468	No	
+row_111	CXCL9	C-X-C motif chemokine ligand 9 [Source:HGNC Symbol;Acc:HGNC:7098]	13853	0.0	-0.19184962	No	
+row_112	OSM	oncostatin M [Source:HGNC Symbol;Acc:HGNC:8506]	13980	0.0	-0.19627735	No	
+row_113	FASLG	Fas ligand [Source:HGNC Symbol;Acc:HGNC:11936]	14190	0.0	-0.20362176	No	
+row_114	INHBC	inhibin subunit beta C [Source:HGNC Symbol;Acc:HGNC:6068]	14247	0.0	-0.20558965	No	
+row_115	IFNG	interferon gamma [Source:HGNC Symbol;Acc:HGNC:5438]	14450	0.0	-0.21268807	No	
+row_116	IFNK	interferon kappa [Source:HGNC Symbol;Acc:HGNC:21714]	14453	0.0	-0.21275836	No	
+row_117	TNFSF11	TNF superfamily member 11 [Source:HGNC Symbol;Acc:HGNC:11926]	14525	0.0	-0.21525335	No	
+row_118	IL10RA	interleukin 10 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:5964]	14646	0.0	-0.21947023	No	
+row_119	IL21	interleukin 21 [Source:HGNC Symbol;Acc:HGNC:6005]	15285	0.0	-0.24189003	No	
+row_120	IL22	interleukin 22 [Source:HGNC Symbol;Acc:HGNC:14900]	15286	0.0	-0.24189003	No	
+row_121	IL25	interleukin 25 [Source:HGNC Symbol;Acc:HGNC:13765]	15288	0.0	-0.24192517	No	
+row_122	IL26	interleukin 26 [Source:HGNC Symbol;Acc:HGNC:17119]	15289	0.0	-0.24192517	No	
+row_123	IL13	interleukin 13 [Source:HGNC Symbol;Acc:HGNC:5973]	15293	0.0	-0.24203059	No	
+row_124	VEGFD	vascular endothelial growth factor D [Source:HGNC Symbol;Acc:HGNC:3708]	15304	0.0	-0.242382	No	
+row_125	IL22RA2	interleukin 22 receptor subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:14901]	15589	0.0	-0.25236198	No	
+row_126	IL22RA1	interleukin 22 receptor subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:13700]	15594	0.0	-0.25250253	No	
+row_127	EDAR	ectodysplasin A receptor [Source:HGNC Symbol;Acc:HGNC:2895]	16151	0.0	-0.27204078	No	
+row_128	CCL8	C-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:10635]	16985	0.0	-0.301313	No	
+row_129	CCL1	C-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10609]	16991	0.0	-0.30148873	No	
+row_130	CCR9	C-C motif chemokine receptor 9 [Source:HGNC Symbol;Acc:HGNC:1610]	17020	0.0	-0.30247265	No	
+row_131	CCR8	C-C motif chemokine receptor 8 [Source:HGNC Symbol;Acc:HGNC:1609]	17021	0.0	-0.30247265	No	
+row_132	CCR5	C-C motif chemokine receptor 5 [Source:HGNC Symbol;Acc:HGNC:1606]	17023	0.0	-0.30250782	No	
+row_133	CCR3	C-C motif chemokine receptor 3 [Source:HGNC Symbol;Acc:HGNC:1604]	17025	0.0	-0.30254295	No	
+row_134	CCR2	C-C motif chemokine receptor 2 [Source:HGNC Symbol;Acc:HGNC:1603]	17026	0.0	-0.30254295	No	
+row_135	TNFRSF4	TNF receptor superfamily member 4 [Source:HGNC Symbol;Acc:HGNC:11918]	17310	0.0	-0.31248778	No	
+row_136	CCL13	C-C motif chemokine ligand 13 [Source:HGNC Symbol;Acc:HGNC:10611]	17410	0.0	-0.3159667	No	
+row_137	CCL11	C-C motif chemokine ligand 11 [Source:HGNC Symbol;Acc:HGNC:10610]	17412	0.0	-0.31600186	No	
+row_138	CCL19	C-C motif chemokine ligand 19 [Source:HGNC Symbol;Acc:HGNC:10617]	17420	0.0	-0.31624785	No	
+row_139	CCL17	C-C motif chemokine ligand 17 [Source:HGNC Symbol;Acc:HGNC:10615]	17421	0.0	-0.31624785	No	
+row_140	CCL25	C-C motif chemokine ligand 25 [Source:HGNC Symbol;Acc:HGNC:10624]	17422	0.0	-0.31624785	No	
+row_141	CCL24	C-C motif chemokine ligand 24 [Source:HGNC Symbol;Acc:HGNC:10623]	17425	0.0	-0.31631812	No	
+row_142	CCL22	C-C motif chemokine ligand 22 [Source:HGNC Symbol;Acc:HGNC:10621]	17428	0.0	-0.3163884	No	
+row_143	CCL21	C-C motif chemokine ligand 21 [Source:HGNC Symbol;Acc:HGNC:10620]	17430	0.0	-0.31642354	No	
+row_144	PPBPP1	pro-platelet basic protein pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:9241]	18109	0.0	-0.34024897	No	
+row_145	TNFRSF17	TNF receptor superfamily member 17 [Source:HGNC Symbol;Acc:HGNC:11913]	19078	0.0	-0.3742652	No	
+row_146	CSF3R	colony stimulating factor 3 receptor [Source:HGNC Symbol;Acc:HGNC:2439]	19775	0.0	-0.39872316	No	
+row_147	FLT3	fms related receptor tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	20233	0.0	-0.41478246	No	
+row_148	IL17A	interleukin 17A [Source:HGNC Symbol;Acc:HGNC:5981]	20318	0.0	-0.4177343	No	
+row_149	IL18RAP	interleukin 18 receptor accessory protein [Source:HGNC Symbol;Acc:HGNC:5989]	20497	0.0	-0.42398936	No	
+row_150	IL13RA1	interleukin 13 receptor subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:5974]	20567	-0.005964069161564112	-0.42639023	No	
+row_151	IL3RA	interleukin 3 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:6012]	20701	-0.028076449409127235	-0.4309518	No	
+row_152	TNFRSF8	TNF receptor superfamily member 8 [Source:HGNC Symbol;Acc:HGNC:11923]	20727	-0.032429393380880356	-0.43170077	No	
+row_153	HGF	hepatocyte growth factor [Source:HGNC Symbol;Acc:HGNC:4893]	20991	-0.07112463563680649	-0.44065866	No	
+row_154	PRLR	prolactin receptor [Source:HGNC Symbol;Acc:HGNC:9446]	21160	-0.09999135881662369	-0.44616288	No	
+row_155	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	21206	-0.10711498558521271	-0.44731635	No	
+row_156	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	21313	-0.12469445914030075	-0.45054317	No	
+row_157	IL20RB	interleukin 20 receptor subunit beta [Source:HGNC Symbol;Acc:HGNC:6004]	21456	-0.14806228876113892	-0.4549417	No	
+row_158	FLT1	fms related receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:3763]	22155	-0.2653433084487915	-0.47840998	No	
+row_159	TNFRSF10A	TNF receptor superfamily member 10a [Source:HGNC Symbol;Acc:HGNC:11904]	22330	-0.2951214909553528	-0.48334557	No	
+row_160	IL17B	interleukin 17B [Source:HGNC Symbol;Acc:HGNC:5982]	22373	-0.30230724811553955	-0.4836139	No	
+row_161	IL19	interleukin 19 [Source:HGNC Symbol;Acc:HGNC:5990]	22674	-0.3572496771812439	-0.49272904	No	
+row_162	TNFRSF10B	TNF receptor superfamily member 10b [Source:HGNC Symbol;Acc:HGNC:11905]	22687	-0.3606135845184326	-0.49171022	No	
+row_163	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	22828	-0.3809140920639038	-0.49510834	No	
+row_164	CD27	CD27 molecule [Source:HGNC Symbol;Acc:HGNC:11922]	22836	-0.3821859359741211	-0.49382764	No	
+row_165	CXCL16	C-X-C motif chemokine ligand 16 [Source:HGNC Symbol;Acc:HGNC:16642]	22890	-0.3939671218395233	-0.49411637	No	
+row_166	ACVR2A	activin A receptor type 2A [Source:HGNC Symbol;Acc:HGNC:173]	22953	-0.4074004888534546	-0.49466768	No	
+row_167	PRL	prolactin [Source:HGNC Symbol;Acc:HGNC:9445]	23175	-0.43478140234947205	-0.500697	No	
+row_168	TNFSF14	TNF superfamily member 14 [Source:HGNC Symbol;Acc:HGNC:11930]	23178	-0.43478140234947205	-0.4990305	No	
+row_169	CCL7	C-C motif chemokine ligand 7 [Source:HGNC Symbol;Acc:HGNC:10634]	23194	-0.43478140234947205	-0.49782085	No	
+row_170	IL1R2	interleukin 1 receptor type 2 [Source:HGNC Symbol;Acc:HGNC:5994]	23298	-0.4421011209487915	-0.49967432	No	
+row_171	MPL	MPL proto-oncogene, thrombopoietin receptor [Source:HGNC Symbol;Acc:HGNC:7217]	23307	-0.4421011209487915	-0.49818942	No	
+row_172	PF4	platelet factor 4 [Source:HGNC Symbol;Acc:HGNC:8861]	23312	-0.4421011209487915	-0.49656397	No	
+row_173	CCL26	C-C motif chemokine ligand 26 [Source:HGNC Symbol;Acc:HGNC:10625]	23437	-0.4520472288131714	-0.49911568	No	
+row_174	TNFSF13	TNF superfamily member 13 [Source:HGNC Symbol;Acc:HGNC:11928]	23568	-0.47460171580314636	-0.50178814	No	
+row_175	EPOR	erythropoietin receptor [Source:HGNC Symbol;Acc:HGNC:3416]	24140	-0.5357550382614136	-0.51971334	No	
+row_176	IL2RB	interleukin 2 receptor subunit beta [Source:HGNC Symbol;Acc:HGNC:6009]	24146	-0.5363311767578125	-0.5177466	No	
+row_177	CCL27	C-C motif chemokine ligand 27 [Source:HGNC Symbol;Acc:HGNC:10626]	24169	-0.5363311767578125	-0.51637733	No	
+row_178	CCR6	C-C motif chemokine receptor 6 [Source:HGNC Symbol;Acc:HGNC:1607]	24194	-0.5393704175949097	-0.5150661	No	
+row_179	CLCF1	cardiotrophin like cytokine factor 1 [Source:HGNC Symbol;Acc:HGNC:17412]	24256	-0.5457613468170166	-0.5150296	No	
+row_180	CD70	CD70 molecule [Source:HGNC Symbol;Acc:HGNC:11937]	24492	-0.5719066858291626	-0.5210031	No	
+row_181	IL12RB1	interleukin 12 receptor subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:5971]	24581	-0.5952606797218323	-0.52171767	No	
+row_182	CXCL11	C-X-C motif chemokine ligand 11 [Source:HGNC Symbol;Acc:HGNC:10638]	24681	-0.6124759912490845	-0.52275	No	
+row_183	TNFSF18	TNF superfamily member 18 [Source:HGNC Symbol;Acc:HGNC:11932]	24703	-0.6167019009590149	-0.5210245	No	
+row_184	TNFSF8	TNF superfamily member 8 [Source:HGNC Symbol;Acc:HGNC:11938]	25041	-0.6928591728210449	-0.5300992	Yes	
+row_185	TNFRSF11A	TNF receptor superfamily member 11a [Source:HGNC Symbol;Acc:HGNC:11908]	25052	-0.6965006589889526	-0.5276684	Yes	
+row_186	ACVR2B	activin A receptor type 2B [Source:HGNC Symbol;Acc:HGNC:174]	25061	-0.6983100771903992	-0.5251601	Yes	
+row_187	IL10	interleukin 10 [Source:HGNC Symbol;Acc:HGNC:5962]	25120	-0.7164116501808167	-0.52433646	Yes	
+row_188	EPO	erythropoietin [Source:HGNC Symbol;Acc:HGNC:3415]	25210	-0.7374486327171326	-0.52451813	Yes	
+row_189	TPO	thyroid peroxidase [Source:HGNC Symbol;Acc:HGNC:12015]	25268	-0.7498365044593811	-0.5235259	Yes	
+row_190	TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	25320	-0.7644616961479187	-0.52226436	Yes	
+row_191	IL18R1	interleukin 18 receptor 1 [Source:HGNC Symbol;Acc:HGNC:5988]	25330	-0.7681088447570801	-0.5195123	Yes	
+row_192	VEGFB	vascular endothelial growth factor B [Source:HGNC Symbol;Acc:HGNC:12681]	25352	-0.7725749611854553	-0.5171642	Yes	
+row_193	IL17RA	interleukin 17 receptor A [Source:HGNC Symbol;Acc:HGNC:5985]	25448	-0.7931135296821594	-0.51733434	Yes	
+row_194	ACVR1B	activin A receptor type 1B [Source:HGNC Symbol;Acc:HGNC:172]	25469	-0.7983637452125549	-0.514848	Yes	
+row_195	AMH	anti-Mullerian hormone [Source:HGNC Symbol;Acc:HGNC:464]	25562	-0.8220486044883728	-0.5147972	Yes	
+row_196	CTF1	cardiotrophin 1 [Source:HGNC Symbol;Acc:HGNC:2499]	25583	-0.8287503123283386	-0.5121895	Yes	
+row_197	IL7	interleukin 7 [Source:HGNC Symbol;Acc:HGNC:6023]	25661	-0.8452785611152649	-0.5115188	Yes	
+row_198	CSF1R	colony stimulating factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:2433]	25719	-0.859780490398407	-0.5100873	Yes	
+row_199	IL1R1	interleukin 1 receptor type 1 [Source:HGNC Symbol;Acc:HGNC:5993]	26073	-0.9368270039558411	-0.5187498	Yes	
+row_200	PLEKHO2	pleckstrin homology domain containing O2 [Source:HGNC Symbol;Acc:HGNC:30026]	26150	-0.958057165145874	-0.5175934	Yes	
+row_201	IL6R	interleukin 6 receptor [Source:HGNC Symbol;Acc:HGNC:6019]	26152	-0.9583636522293091	-0.51380026	Yes	
+row_202	TNFSF9	TNF superfamily member 9 [Source:HGNC Symbol;Acc:HGNC:11939]	26273	-0.9935344457626343	-0.51404834	Yes	
+row_203	TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	26303	-1.000333309173584	-0.5110715	Yes	
+row_204	TNFRSF14	TNF receptor superfamily member 14 [Source:HGNC Symbol;Acc:HGNC:11912]	26323	-1.0060125589370728	-0.5077206	Yes	
+row_205	IFNGR2	interferon gamma receptor 2 [Source:HGNC Symbol;Acc:HGNC:5440]	26351	-1.0156596899032593	-0.5046122	Yes	
+row_206	INHBE	inhibin subunit beta E [Source:HGNC Symbol;Acc:HGNC:24029]	26392	-1.026295781135559	-0.5019182	Yes	
+row_207	IL20	interleukin 20 [Source:HGNC Symbol;Acc:HGNC:6002]	26579	-1.0824131965637207	-0.50413054	Yes	
+row_208	CX3CL1	C-X3-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10647]	26623	-1.097467064857483	-0.50125766	Yes	
+row_209	CCR10	C-C motif chemokine receptor 10 [Source:HGNC Symbol;Acc:HGNC:4474]	27034	-1.2607693672180176	-0.5106291	Yes	
+row_210	KDR	kinase insert domain receptor [Source:HGNC Symbol;Acc:HGNC:6307]	27097	-1.2908118963241577	-0.50765157	Yes	
+row_211	CCR7	C-C motif chemokine receptor 7 [Source:HGNC Symbol;Acc:HGNC:1608]	27362	-1.428916335105896	-0.51122075	Yes	
+row_212	BMP7	bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074]	27504	-1.51148521900177	-0.51013786	Yes	
+row_213	CXCL10	C-X-C motif chemokine ligand 10 [Source:HGNC Symbol;Acc:HGNC:10637]	27640	-1.6148089170455933	-0.5084313	Yes	
+row_214	LTBR	lymphotoxin beta receptor [Source:HGNC Symbol;Acc:HGNC:6718]	27685	-1.6545612812042236	-0.5033682	Yes	
+row_215	IFNE	interferon epsilon [Source:HGNC Symbol;Acc:HGNC:18163]	27703	-1.6678999662399292	-0.49730298	Yes	
+row_216	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	27715	-1.6780078411102295	-0.49098656	Yes	
+row_217	IL23A	interleukin 23 subunit alpha [Source:HGNC Symbol;Acc:HGNC:15488]	27846	-1.7791898250579834	-0.4884477	Yes	
+row_218	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	27882	-1.8160120248794556	-0.4824234	Yes	
+row_219	OSMR	oncostatin M receptor [Source:HGNC Symbol;Acc:HGNC:8507]	27906	-1.840861201286316	-0.47587812	Yes	
+row_220	VEGFC	vascular endothelial growth factor C [Source:HGNC Symbol;Acc:HGNC:12682]	28003	-1.9695686101913452	-0.471384	Yes	
+row_221	RELT	RELT TNF receptor [Source:HGNC Symbol;Acc:HGNC:13764]	28052	-2.032118558883667	-0.46495324	Yes	
+row_222	TNFRSF10D	TNF receptor superfamily member 10d [Source:HGNC Symbol;Acc:HGNC:11907]	28062	-2.0450356006622314	-0.45710042	Yes	
+row_223	LTB	lymphotoxin beta [Source:HGNC Symbol;Acc:HGNC:6711]	28094	-2.0860788822174072	-0.44985673	Yes	
+row_224	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	28183	-2.2374789714813232	-0.44401127	Yes	
+row_225	PF4V1	platelet factor 4 variant 1 [Source:HGNC Symbol;Acc:HGNC:8862]	28245	-2.380826234817505	-0.4366444	Yes	
+row_226	CXCR4	C-X-C motif chemokine receptor 4 [Source:HGNC Symbol;Acc:HGNC:2561]	28315	-2.514798164367676	-0.4290235	Yes	
+row_227	TNFRSF11B	TNF receptor superfamily member 11b [Source:HGNC Symbol;Acc:HGNC:11909]	28432	-2.914247512817383	-0.42145857	Yes	
+row_228	TNFRSF1B	TNF receptor superfamily member 1B [Source:HGNC Symbol;Acc:HGNC:11917]	28438	-2.9333207607269287	-0.40991682	Yes	
+row_229	IL21R	interleukin 21 receptor [Source:HGNC Symbol;Acc:HGNC:6006]	28439	-2.9336321353912354	-0.39819813	Yes	
+row_230	TNFRSF25	TNF receptor superfamily member 25 [Source:HGNC Symbol;Acc:HGNC:11910]	28455	-3.006545305252075	-0.3867153	Yes	
+row_231	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	28474	-3.1112680435180664	-0.37491956	Yes	
+row_232	IL4R	interleukin 4 receptor [Source:HGNC Symbol;Acc:HGNC:6015]	28490	-3.185659885406494	-0.36272123	Yes	
+row_233	ACVRL1	activin A receptor like type 1 [Source:HGNC Symbol;Acc:HGNC:175]	28502	-3.2245562076568604	-0.35022697	Yes	
+row_234	CXCL3	C-X-C motif chemokine ligand 3 [Source:HGNC Symbol;Acc:HGNC:4604]	28509	-3.2621524333953857	-0.3374068	Yes	
+row_235	TNFRSF6B	TNF receptor superfamily member 6b [Source:HGNC Symbol;Acc:HGNC:11921]	28533	-3.4123339653015137	-0.32458413	Yes	
+row_236	TNFRSF21	TNF receptor superfamily member 21 [Source:HGNC Symbol;Acc:HGNC:13469]	28549	-3.4821279048919678	-0.31120154	Yes	
+row_237	CXCL6	C-X-C motif chemokine ligand 6 [Source:HGNC Symbol;Acc:HGNC:10643]	28583	-3.7478137016296387	-0.29739016	Yes	
+row_238	BMP2	bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	28591	-3.8234963417053223	-0.2823628	Yes	
+row_239	CCR1	C-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:1602]	28600	-3.894733190536499	-0.26708603	Yes	
+row_240	IL11	interleukin 11 [Source:HGNC Symbol;Acc:HGNC:5966]	28617	-4.068958282470703	-0.2513944	Yes	
+row_241	LIF	LIF interleukin 6 family cytokine [Source:HGNC Symbol;Acc:HGNC:6596]	28642	-4.372247695922852	-0.2347724	Yes	
+row_242	IL24	interleukin 24 [Source:HGNC Symbol;Acc:HGNC:11346]	28683	-4.852804183959961	-0.21679302	Yes	
+row_243	CCL20	C-C motif chemokine ligand 20 [Source:HGNC Symbol;Acc:HGNC:10619]	28684	-4.862412452697754	-0.1973696	Yes	
+row_244	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	28687	-4.870111465454102	-0.17798574	Yes	
+row_245	CXCL5	C-X-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10642]	28689	-4.886636257171631	-0.15850072	Yes	
+row_246	CSF2	colony stimulating factor 2 [Source:HGNC Symbol;Acc:HGNC:2434]	28693	-4.923666477203369	-0.13893805	Yes	
+row_247	TNFSF15	TNF superfamily member 15 [Source:HGNC Symbol;Acc:HGNC:11931]	28694	-4.938148498535156	-0.11921212	Yes	
+row_248	CXCL8	C-X-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:6025]	28700	-4.972911357879639	-0.09952303	Yes	
+row_249	CXCL2	C-X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:4603]	28704	-4.985106945037842	-0.07971494	Yes	
+row_250	IL1A	interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	28705	-4.986754894256592	-0.059794843	Yes	
+row_251	CXCL1	C-X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:4602]	28706	-4.989145278930664	-0.039865196	Yes	
+row_252	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	28709	-4.997740268707275	-0.019971501	Yes	
+row_253	CSF3	colony stimulating factor 3 [Source:HGNC Symbol;Acc:HGNC:2438]	28710	-4.999632835388184	3.752848E-8	Yes	

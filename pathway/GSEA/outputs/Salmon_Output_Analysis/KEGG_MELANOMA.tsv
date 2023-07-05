@@ -1,0 +1,71 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EGF	epidermal growth factor [Source:HGNC Symbol;Acc:HGNC:3229]	32	3.7153594493865967	0.051277705	Yes	
+row_1	FGF1	fibroblast growth factor 1 [Source:HGNC Symbol;Acc:HGNC:3665]	34	3.710902214050293	0.10357491	Yes	
+row_2	PDGFD	platelet derived growth factor D [Source:HGNC Symbol;Acc:HGNC:30620]	146	3.01094388961792	0.14216048	Yes	
+row_3	CDK6	cyclin dependent kinase 6 [Source:HGNC Symbol;Acc:HGNC:1777]	149	3.0012102127075195	0.1844145	Yes	
+row_4	MET	MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]	173	2.911123752593994	0.2246649	Yes	
+row_5	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	449	2.2628111839294434	0.24697404	Yes	
+row_6	IGF1R	insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465]	568	2.09627103805542	0.27241623	Yes	
+row_7	E2F2	E2F transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:3114]	729	1.924369215965271	0.2939678	Yes	
+row_8	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	852	1.8094639778137207	0.31522572	Yes	
+row_9	BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	876	1.789946436882019	0.33966497	Yes	
+row_10	MITF	melanocyte inducing transcription factor [Source:HGNC Symbol;Acc:HGNC:7105]	903	1.7668571472167969	0.36367387	Yes	
+row_11	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	1112	1.628165364265442	0.37937236	Yes	
+row_12	FGF9	fibroblast growth factor 9 [Source:HGNC Symbol;Acc:HGNC:3687]	1146	1.6043827533721924	0.4008456	Yes	
+row_13	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	1235	1.5452014207839966	0.41956392	Yes	
+row_14	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	1261	1.5323456525802612	0.44030058	Yes	
+row_15	NRAS	NRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:7989]	1834	1.2518084049224854	0.43798256	Yes	
+row_16	FGF5	fibroblast growth factor 5 [Source:HGNC Symbol;Acc:HGNC:3683]	2051	1.1721891164779663	0.44697145	Yes	
+row_17	PDGFC	platelet derived growth factor C [Source:HGNC Symbol;Acc:HGNC:8801]	2169	1.1290804147720337	0.458809	Yes	
+row_18	E2F3	E2F transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:3115]	2856	0.9350177049636841	0.44804317	Yes	
+row_19	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	2859	0.9342029690742493	0.46114773	Yes	
+row_20	FGF12	fibroblast growth factor 12 [Source:HGNC Symbol;Acc:HGNC:3668]	2930	0.9140157699584961	0.47159335	Yes	
+row_21	FGFR1	fibroblast growth factor receptor 1 [Source:HGNC Symbol;Acc:HGNC:3688]	3434	0.7988895177841187	0.46529728	Yes	
+row_22	FGF20	fibroblast growth factor 20 [Source:HGNC Symbol;Acc:HGNC:3677]	3574	0.7684828042984009	0.47128144	Yes	
+row_23	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	3834	0.7166233062744141	0.47234446	Yes	
+row_24	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	4062	0.6674450039863586	0.47383127	Yes	
+row_25	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	4293	0.6228342652320862	0.4745842	Yes	
+row_26	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	4607	0.5627491474151611	0.47159183	No	
+row_27	IGF1	insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464]	4836	0.5412223935127258	0.47126368	No	
+row_28	FGF14	fibroblast growth factor 14 [Source:HGNC Symbol;Acc:HGNC:3671]	5285	0.5070250034332275	0.46277195	No	
+row_29	AKT3	AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	5898	0.42844656109809875	0.44744605	No	
+row_30	PIK3R5	phosphoinositide-3-kinase regulatory subunit 5 [Source:HGNC Symbol;Acc:HGNC:30035]	5981	0.42459407448768616	0.45057076	No	
+row_31	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	6464	0.38706663250923157	0.43920025	No	
+row_32	E2F1	E2F transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3113]	7198	0.2591562569141388	0.4172623	No	
+row_33	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	7632	0.19358967244625092	0.40487415	No	
+row_34	ARAF	A-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:646]	7757	0.1714508831501007	0.40296254	No	
+row_35	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	7901	0.14681166410446167	0.40004006	No	
+row_36	PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	8015	0.13040301203727722	0.39793366	No	
+row_37	FGF23	fibroblast growth factor 23 [Source:HGNC Symbol;Acc:HGNC:3680]	17685	0.0	0.060340695	No	
+row_38	FGF21	fibroblast growth factor 21 [Source:HGNC Symbol;Acc:HGNC:3678]	17688	0.0	0.060270865	No	
+row_39	FGF16	fibroblast growth factor 16 [Source:HGNC Symbol;Acc:HGNC:3672]	17689	0.0	0.060270865	No	
+row_40	FGF19	fibroblast growth factor 19 [Source:HGNC Symbol;Acc:HGNC:3675]	17690	0.0	0.060270865	No	
+row_41	FGF13	fibroblast growth factor 13 [Source:HGNC Symbol;Acc:HGNC:3670]	17691	0.0	0.060270865	No	
+row_42	FGF10	fibroblast growth factor 10 [Source:HGNC Symbol;Acc:HGNC:3666]	17692	0.0	0.060270865	No	
+row_43	FGF4	fibroblast growth factor 4 [Source:HGNC Symbol;Acc:HGNC:3682]	19340	0.0	0.002765889	No	
+row_44	FGF6	fibroblast growth factor 6 [Source:HGNC Symbol;Acc:HGNC:3684]	19341	0.0	0.002765889	No	
+row_45	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	19343	0.0	0.002730974	No	
+row_46	HGF	hepatocyte growth factor [Source:HGNC Symbol;Acc:HGNC:4893]	20991	-0.07112463563680649	-0.05377098	No	
+row_47	FGF22	fibroblast growth factor 22 [Source:HGNC Symbol;Acc:HGNC:3679]	21087	-0.08926013112068176	-0.055829134	No	
+row_48	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	21206	-0.10711498558521271	-0.05843854	No	
+row_49	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	21313	-0.12469445914030075	-0.060381055	No	
+row_50	PTEN	phosphatase and tensin homolog [Source:HGNC Symbol;Acc:HGNC:9588]	21724	-0.19333487749099731	-0.07196973	No	
+row_51	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	22828	-0.3809140920639038	-0.10510921	No	
+row_52	PIK3R3	phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981]	23275	-0.4391351640224457	-0.11448849	No	
+row_53	FGF17	fibroblast growth factor 17 [Source:HGNC Symbol;Acc:HGNC:3673]	23687	-0.4951895475387573	-0.12185525	No	
+row_54	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	25028	-0.690275251865387	-0.15890689	No	
+row_55	BAD	BCL2 associated agonist of cell death [Source:HGNC Symbol;Acc:HGNC:936]	25445	-0.7926589250564575	-0.16225323	No	
+row_56	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	25522	-0.813481330871582	-0.15343484	No	
+row_57	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	25893	-0.8952920436859131	-0.15372774	No	
+row_58	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	25952	-0.9105194807052612	-0.14291242	No	
+row_59	FGF2	fibroblast growth factor 2 [Source:HGNC Symbol;Acc:HGNC:3676]	25972	-0.9143494963645935	-0.13068141	No	
+row_60	PIK3R2	phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980]	26046	-0.930411159992218	-0.1201093	No	
+row_61	PIK3CG	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:8978]	26101	-0.9451002478599548	-0.10866665	No	
+row_62	FGF18	fibroblast growth factor 18 [Source:HGNC Symbol;Acc:HGNC:3674]	26120	-0.95125412940979	-0.095880285	No	
+row_63	FGF11	fibroblast growth factor 11 [Source:HGNC Symbol;Acc:HGNC:3667]	27081	-1.2825127840042114	-0.11131234	No	
+row_64	CDKN1A	cyclin dependent kinase inhibitor 1A [Source:HGNC Symbol;Acc:HGNC:1784]	27116	-1.3037358522415161	-0.09411381	No	
+row_65	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	27647	-1.6223351955413818	-0.08974016	No	
+row_66	PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	27774	-1.7278008460998535	-0.06977354	No	
+row_67	CDK4	cyclin dependent kinase 4 [Source:HGNC Symbol;Acc:HGNC:1773]	27858	-1.7927528619766235	-0.047389608	No	
+row_68	CDKN2A	cyclin dependent kinase inhibitor 2A [Source:HGNC Symbol;Acc:HGNC:1787]	27940	-1.8791544437408447	-0.023717389	No	
+row_69	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	28566	-3.5857443809509277	0.005027862	No	

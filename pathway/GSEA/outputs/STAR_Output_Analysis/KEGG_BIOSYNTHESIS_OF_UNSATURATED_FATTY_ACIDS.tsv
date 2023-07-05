@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ELOVL2	ELOVL fatty acid elongase 2 [Source:HGNC Symbol;Acc:HGNC:14416]	210	2.916091203689575	0.12913242	Yes	
+row_1	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	307	2.702432632446289	0.2512968	Yes	
+row_2	SCD5	stearoyl-CoA desaturase 5 [Source:HGNC Symbol;Acc:HGNC:21088]	566	2.283708095550537	0.3500605	Yes	
+row_3	HACD1	3-hydroxyacyl-CoA dehydratase 1 [Source:HGNC Symbol;Acc:HGNC:9639]	585	2.2632787227630615	0.45395046	Yes	
+row_4	FADS2	fatty acid desaturase 2 [Source:HGNC Symbol;Acc:HGNC:3575]	1761	1.4550968408584595	0.49132705	Yes	
+row_5	ELOVL5	ELOVL fatty acid elongase 5 [Source:HGNC Symbol;Acc:HGNC:21308]	2154	1.2992064952850342	0.54131377	Yes	
+row_6	HACD2	3-hydroxyacyl-CoA dehydratase 2 [Source:HGNC Symbol;Acc:HGNC:9640]	2180	1.2896329164505005	0.60013825	Yes	
+row_7	HSD17B12	hydroxysteroid 17-beta dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	2337	1.2345200777053833	0.65310967	Yes	
+row_8	ELOVL6	ELOVL fatty acid elongase 6 [Source:HGNC Symbol;Acc:HGNC:15829]	4665	0.7133076786994934	0.62716025	No	
+row_9	ACOT4	acyl-CoA thioesterase 4 [Source:HGNC Symbol;Acc:HGNC:19748]	5247	0.6053513884544373	0.64037913	No	
+row_10	ACOX3	acyl-CoA oxidase 3, pristanoyl [Source:HGNC Symbol;Acc:HGNC:121]	6062	0.5289198756217957	0.64418316	No	
+row_11	YOD1	YOD1 deubiquitinase [Source:HGNC Symbol;Acc:HGNC:25035]	8560	0.2787450850009918	0.5939006	No	
+row_12	PECR	peroxisomal trans-2-enoyl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:18281]	9338	0.15544092655181885	0.5814215	No	
+row_13	FADS1	fatty acid desaturase 1 [Source:HGNC Symbol;Acc:HGNC:3574]	10037	0.05477733165025711	0.5662988	No	
+row_14	BAAT	bile acid-CoA:amino acid N-acyltransferase [Source:HGNC Symbol;Acc:HGNC:932]	27063	0.0	0.13584194	No	
+row_15	ACOT1	acyl-CoA thioesterase 1 [Source:HGNC Symbol;Acc:HGNC:33128]	30447	-0.07159346342086792	0.05360751	No	
+row_16	HADHA	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:4801]	30903	-0.14404642581939697	0.048744418	No	
+row_17	ACOT2	acyl-CoA thioesterase 2 [Source:HGNC Symbol;Acc:HGNC:18431]	32466	-0.37596583366394043	0.026584448	No	
+row_18	ACOX1	acyl-CoA oxidase 1 [Source:HGNC Symbol;Acc:HGNC:119]	33946	-0.5255516767501831	0.013419465	No	
+row_19	ACAA1	acetyl-CoA acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:82]	35065	-0.6485365033149719	0.015051968	No	
+row_20	TECR	trans-2,3-enoyl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:4551]	36563	-0.9638304710388184	0.021638064	No	
+row_21	ACOT7	acyl-CoA thioesterase 7 [Source:HGNC Symbol;Acc:HGNC:24157]	37392	-1.1802927255630493	0.055118695	No	

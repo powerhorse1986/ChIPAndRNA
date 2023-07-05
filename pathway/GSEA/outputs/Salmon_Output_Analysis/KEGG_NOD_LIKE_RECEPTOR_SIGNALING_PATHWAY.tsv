@@ -1,0 +1,62 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CCL2	C-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:10618]	320	2.5288710594177246	0.025020916	No	
+row_1	NLRP1	NLR family pyrin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:14374]	692	1.9527387619018555	0.040016808	No	
+row_2	NOD1	nucleotide binding oligomerization domain containing 1 [Source:HGNC Symbol;Acc:HGNC:16390]	1151	1.603426218032837	0.0469771	No	
+row_3	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	2360	1.0658562183380127	0.02006632	No	
+row_4	CASP1	caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	2601	1.0026832818984985	0.026038568	No	
+row_5	CHUK	component of inhibitor of nuclear factor kappa B kinase complex [Source:HGNC Symbol;Acc:HGNC:1974]	2701	0.9747797846794128	0.03653296	No	
+row_6	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	3162	0.853705108165741	0.03269433	No	
+row_7	TAB2	TGF-beta activated kinase 1 (MAP3K7) binding protein 2 [Source:HGNC Symbol;Acc:HGNC:17075]	3369	0.8137415051460266	0.037149407	No	
+row_8	ERBIN	erbb2 interacting protein [Source:HGNC Symbol;Acc:HGNC:15842]	3470	0.791928231716156	0.04499214	No	
+row_9	BIRC2	baculoviral IAP repeat containing 2 [Source:HGNC Symbol;Acc:HGNC:590]	3557	0.7718194127082825	0.05303576	No	
+row_10	MAPK9	mitogen-activated protein kinase 9 [Source:HGNC Symbol;Acc:HGNC:6886]	3857	0.7124181985855103	0.05279474	No	
+row_11	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	3919	0.6972628831863403	0.060643993	No	
+row_12	IL18	interleukin 18 [Source:HGNC Symbol;Acc:HGNC:5986]	4309	0.6193062663078308	0.05592911	No	
+row_13	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	4566	0.5681203603744507	0.055123948	No	
+row_14	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	4607	0.5627491474151611	0.061781183	No	
+row_15	XIAP	X-linked inhibitor of apoptosis [Source:HGNC Symbol;Acc:HGNC:592]	5064	0.524250328540802	0.053367402	No	
+row_16	PSTPIP1	proline-serine-threonine phosphatase interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:9580]	5997	0.42459407448768616	0.026913147	No	
+row_17	MEFV	MEFV innate immuity regulator, pyrin [Source:HGNC Symbol;Acc:HGNC:6998]	6179	0.41683125495910645	0.026560714	No	
+row_18	TAB3	TGF-beta activated kinase 1 (MAP3K7) binding protein 3 [Source:HGNC Symbol;Acc:HGNC:30681]	6419	0.3951631784439087	0.023873763	No	
+row_19	CASP8	caspase 8 [Source:HGNC Symbol;Acc:HGNC:1509]	6862	0.31636953353881836	0.012973693	No	
+row_20	NLRC4	NLR family CARD domain containing 4 [Source:HGNC Symbol;Acc:HGNC:16412]	7314	0.24071992933750153	6.768816E-4	No	
+row_21	TRIP6	thyroid hormone receptor interactor 6 [Source:HGNC Symbol;Acc:HGNC:12311]	7525	0.20900794863700867	-0.0036618877	No	
+row_22	SUGT1	SGT1 homolog, MIS12 kinetochore complex assembly cochaperone [Source:HGNC Symbol;Acc:HGNC:16987]	7621	0.19510573148727417	-0.0041856472	No	
+row_23	MAP3K7	mitogen-activated protein kinase kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6859]	8385	0.0715615302324295	-0.029793305	No	
+row_24	MAPK10	mitogen-activated protein kinase 10 [Source:HGNC Symbol;Acc:HGNC:6872]	8580	0.03825962543487549	-0.036017157	No	
+row_25	CARD18	caspase recruitment domain family member 18 [Source:HGNC Symbol;Acc:HGNC:28861]	8863	0.0	-0.04586009	No	
+row_26	NOD2	nucleotide binding oligomerization domain containing 2 [Source:HGNC Symbol;Acc:HGNC:5331]	10407	0.0	-0.099716984	No	
+row_27	CCL8	C-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:10635]	16985	0.0	-0.32928067	No	
+row_28	CCL13	C-C motif chemokine ligand 13 [Source:HGNC Symbol;Acc:HGNC:10611]	17410	0.0	-0.34407997	No	
+row_29	CCL11	C-C motif chemokine ligand 11 [Source:HGNC Symbol;Acc:HGNC:10610]	17412	0.0	-0.34411487	No	
+row_30	IKBKG	inhibitor of nuclear factor kappa B kinase regulatory subunit gamma [Source:HGNC Symbol;Acc:HGNC:5961]	17855	0.0	-0.35954246	No	
+row_31	PYDC1	pyrin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30261]	18296	0.0	-0.37490022	No	
+row_32	HSP90B1	heat shock protein 90 beta family member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	21700	-0.18962480127811432	-0.4909649	No	
+row_33	MAPK11	mitogen-activated protein kinase 11 [Source:HGNC Symbol;Acc:HGNC:6873]	22258	-0.28369781374931335	-0.50634646	No	
+row_34	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	22316	-0.29268935322761536	-0.5041474	No	
+row_35	NAIP	NLR family apoptosis inhibitory protein [Source:HGNC Symbol;Acc:HGNC:7634]	22510	-0.3261708617210388	-0.5062161	No	
+row_36	CCL7	C-C motif chemokine ligand 7 [Source:HGNC Symbol;Acc:HGNC:10634]	23194	-0.43478140234947205	-0.52383345	No	
+row_37	HSP90AB1	heat shock protein 90 alpha family class B member 1 [Source:HGNC Symbol;Acc:HGNC:5258]	23565	-0.47391992807388306	-0.52996576	No	
+row_38	CASP5	caspase 5 [Source:HGNC Symbol;Acc:HGNC:1506]	24415	-0.5588070750236511	-0.5516023	No	
+row_39	PYCARD	PYD and CARD domain containing [Source:HGNC Symbol;Acc:HGNC:16608]	25007	-0.6856939792633057	-0.56241775	No	
+row_40	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	25546	-0.8185496926307678	-0.56948197	Yes	
+row_41	TAB1	TGF-beta activated kinase 1 (MAP3K7) binding protein 1 [Source:HGNC Symbol;Acc:HGNC:18157]	25696	-0.8551957607269287	-0.5624441	Yes	
+row_42	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	25893	-0.8952920436859131	-0.55647296	Yes	
+row_43	CARD8	caspase recruitment domain family member 8 [Source:HGNC Symbol;Acc:HGNC:17057]	25913	-0.8994839787483215	-0.5442638	Yes	
+row_44	NLRP3	NLR family pyrin domain containing 3 [Source:HGNC Symbol;Acc:HGNC:16400]	26216	-0.9769363403320312	-0.54082406	Yes	
+row_45	TNFAIP3	TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896]	26967	-1.2329007387161255	-0.54935825	Yes	
+row_46	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	27070	-1.2770663499832153	-0.5346426	Yes	
+row_47	NFKBIB	NFKB inhibitor beta [Source:HGNC Symbol;Acc:HGNC:7798]	27135	-1.3102980852127075	-0.518125	Yes	
+row_48	MAPK12	mitogen-activated protein kinase 12 [Source:HGNC Symbol;Acc:HGNC:6874]	27344	-1.4177721738815308	-0.5050956	Yes	
+row_49	RIPK2	receptor interacting serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:10020]	27384	-1.4434823989868164	-0.48579943	Yes	
+row_50	CARD6	caspase recruitment domain family member 6 [Source:HGNC Symbol;Acc:HGNC:16394]	27420	-1.4642198085784912	-0.4660669	Yes	
+row_51	BIRC3	baculoviral IAP repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:591]	27769	-1.7205506563186646	-0.45359102	Yes	
+row_52	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	27882	-1.8160120248794556	-0.43151167	Yes	
+row_53	CARD9	caspase recruitment domain family member 9 [Source:HGNC Symbol;Acc:HGNC:16391]	27916	-1.8529478311538696	-0.4061463	Yes	
+row_54	MAPK13	mitogen-activated protein kinase 13 [Source:HGNC Symbol;Acc:HGNC:6875]	28351	-2.6024158000946045	-0.38405195	Yes	
+row_55	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	28425	-2.882441282272339	-0.34534988	Yes	
+row_56	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	28687	-4.870111465454102	-0.2847646	Yes	
+row_57	CXCL8	C-X-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:6025]	28700	-4.972911357879639	-0.21401702	Yes	
+row_58	CXCL2	C-X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:4603]	28704	-4.985106945037842	-0.1427808	Yes	
+row_59	CXCL1	C-X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:4602]	28706	-4.989145278930664	-0.07141698	Yes	
+row_60	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	28709	-4.997740268707275	3.4933655E-5	Yes	

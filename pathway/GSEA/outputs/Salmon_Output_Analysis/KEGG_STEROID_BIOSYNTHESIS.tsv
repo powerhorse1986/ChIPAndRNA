@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SC5D	sterol-C5-desaturase [Source:HGNC Symbol;Acc:HGNC:10547]	164	2.938749313354492	0.14883538	Yes	
+row_1	DHCR24	24-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2859]	286	2.614149332046509	0.28209838	Yes	
+row_2	LIPA	lipase A, lysosomal acid type [Source:HGNC Symbol;Acc:HGNC:6617]	400	2.3658640384674072	0.4025827	Yes	
+row_3	MSMO1	methylsterol monooxygenase 1 [Source:HGNC Symbol;Acc:HGNC:10545]	487	2.211366653442383	0.51588285	Yes	
+row_4	EBP	EBP cholestenol delta-isomerase [Source:HGNC Symbol;Acc:HGNC:3133]	2149	1.1372826099395752	0.51780665	Yes	
+row_5	CYP51A1	cytochrome P450 family 51 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2649]	2188	1.12138831615448	0.5754569	Yes	
+row_6	SQLE	squalene epoxidase [Source:HGNC Symbol;Acc:HGNC:11279]	2250	1.102839469909668	0.63133013	Yes	
+row_7	HSD17B7	hydroxysteroid 17-beta dehydrogenase 7 [Source:HGNC Symbol;Acc:HGNC:5215]	3582	0.766823410987854	0.6252719	No	
+row_8	TM7SF2	transmembrane 7 superfamily member 2 [Source:HGNC Symbol;Acc:HGNC:11863]	6857	0.3170159161090851	0.5278435	No	
+row_9	DHCR7	7-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2860]	7556	0.20440414547920227	0.5142676	No	
+row_10	FDFT1	farnesyl-diphosphate farnesyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:3629]	8476	0.05686027556657791	0.48523033	No	
+row_11	LSS	lanosterol synthase [Source:HGNC Symbol;Acc:HGNC:6708]	21347	-0.12925487756729126	0.043502104	No	
+row_12	SOAT1	sterol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:11177]	22151	-0.2649550437927246	0.02945133	No	
+row_13	CEL	carboxyl ester lipase [Source:HGNC Symbol;Acc:HGNC:1848]	23439	-0.4523007571697235	0.008385558	No	
+row_14	SOAT2	sterol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:11178]	24740	-0.6249483227729797	-0.0040536174	No	
+row_15	NSDHL	NAD(P) dependent steroid dehydrogenase-like [Source:HGNC Symbol;Acc:HGNC:13398]	25715	-0.8591287136077881	0.0071841767	No	
+row_16	CYP27B1	cytochrome P450 family 27 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2606]	27909	-1.8474398851394653	0.02791519	No	

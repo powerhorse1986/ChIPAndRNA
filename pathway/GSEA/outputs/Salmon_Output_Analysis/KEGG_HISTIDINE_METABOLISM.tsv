@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	1449	1.4313263893127441	0.056537636	Yes	
+row_1	HNMT	histamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:5028]	1598	1.355514407157898	0.15276432	Yes	
+row_2	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	1744	1.2882819175720215	0.2440669	Yes	
+row_3	ALDH7A1	aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877]	2912	0.917931079864502	0.2720367	Yes	
+row_4	HAL	histidine ammonia-lyase [Source:HGNC Symbol;Acc:HGNC:4806]	3037	0.8877534866333008	0.3341136	Yes	
+row_5	TRMT11	tRNA methyltransferase 11 homolog [Source:HGNC Symbol;Acc:HGNC:21080]	3280	0.8315809965133667	0.387875	Yes	
+row_6	ASPA	aspartoacylase [Source:HGNC Symbol;Acc:HGNC:756]	3429	0.8002375364303589	0.44256932	Yes	
+row_7	FTCD	formimidoyltransferase cyclodeaminase [Source:HGNC Symbol;Acc:HGNC:3974]	3734	0.7367982268333435	0.4870797	Yes	
+row_8	METTL6	methyltransferase 6, methylcytidine [Source:HGNC Symbol;Acc:HGNC:28343]	4028	0.6744456887245178	0.5273099	Yes	
+row_9	ALDH3B1	aldehyde dehydrogenase 3 family member B1 [Source:HGNC Symbol;Acc:HGNC:410]	6296	0.4153747260570526	0.47933903	No	
+row_10	METTL2B	methyltransferase 2B, methylcytidine [Source:HGNC Symbol;Acc:HGNC:18272]	7014	0.2924586236476898	0.47621545	No	
+row_11	ALDH1A3	aldehyde dehydrogenase 1 family member A3 [Source:HGNC Symbol;Acc:HGNC:409]	7376	0.23093430697917938	0.48090208	No	
+row_12	AMDHD1	amidohydrolase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28577]	8018	0.1300758570432663	0.46828267	No	
+row_13	ACY3	aminoacylase 3 [Source:HGNC Symbol;Acc:HGNC:24104]	9557	0.0	0.4146602	No	
+row_14	CNDP1	carnosine dipeptidase 1 [Source:HGNC Symbol;Acc:HGNC:20675]	10456	0.0	0.38335136	No	
+row_15	DDC	dopa decarboxylase [Source:HGNC Symbol;Acc:HGNC:2719]	12088	0.0	0.32648644	No	
+row_16	HDC	histidine decarboxylase [Source:HGNC Symbol;Acc:HGNC:4855]	12836	0.0	0.30044222	No	
+row_17	UROC1	urocanate hydratase 1 [Source:HGNC Symbol;Acc:HGNC:26444]	14519	0.0	0.24179916	No	
+row_18	AOC1	amine oxidase copper containing 1 [Source:HGNC Symbol;Acc:HGNC:80]	17426	0.0	0.14048126	No	
+row_19	ALDH3A1	aldehyde dehydrogenase 3 family member A1 [Source:HGNC Symbol;Acc:HGNC:405]	19868	0.0	0.05537563	No	
+row_20	ALDH3B2	aldehyde dehydrogenase 3 family member B2 [Source:HGNC Symbol;Acc:HGNC:411]	19869	0.0	0.05537563	No	
+row_21	MAOB	monoamine oxidase B [Source:HGNC Symbol;Acc:HGNC:6834]	20472	0.0	0.034386855	No	
+row_22	MAOA	monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	20671	-0.023091938346624374	0.02921075	No	
+row_23	LCMT2	leucine carboxyl methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:17558]	21293	-0.12106247246265411	0.016614499	No	
+row_24	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	21588	-0.17102429270744324	0.019156056	No	
+row_25	BUD23	BUD23 rRNA methyltransferase and ribosome maturation factor [Source:HGNC Symbol;Acc:HGNC:16405]	21917	-0.22420969605445862	0.024490243	No	
+row_26	LCMT1	leucine carboxyl methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:17557]	23457	-0.4554234445095062	0.0048966357	No	
+row_27	HEMK1	HemK methyltransferase family member 1 [Source:HGNC Symbol;Acc:HGNC:24923]	25685	-0.8515335321426392	-0.009056793	No	
+row_28	ALDH3A2	aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	27527	-1.5306861400604248	0.04124542	No	

@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MCM6	minichromosome maintenance complex component 6 [Source:HGNC Symbol;Acc:HGNC:6949]	172	3.0234670639038086	0.07918857	Yes	
+row_1	DNA2	DNA replication helicase/nuclease 2 [Source:HGNC Symbol;Acc:HGNC:2939]	214	2.89626145362854	0.15817578	Yes	
+row_2	RFC4	replication factor C subunit 4 [Source:HGNC Symbol;Acc:HGNC:9972]	451	2.4443647861480713	0.21974492	Yes	
+row_3	RFC1	replication factor C subunit 1 [Source:HGNC Symbol;Acc:HGNC:9969]	883	1.9690536260604858	0.26324904	Yes	
+row_4	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]	1004	1.8679630756378174	0.31182605	Yes	
+row_5	POLE2	DNA polymerase epsilon 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9178]	1111	1.7817479372024536	0.35837504	Yes	
+row_6	MCM3	minichromosome maintenance complex component 3 [Source:HGNC Symbol;Acc:HGNC:6945]	1238	1.709268569946289	0.40241554	Yes	
+row_7	RFC3	replication factor C subunit 3 [Source:HGNC Symbol;Acc:HGNC:9971]	1751	1.4608948230743408	0.4298304	Yes	
+row_8	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	1770	1.450992465019226	0.46946633	Yes	
+row_9	POLA1	DNA polymerase alpha 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9173]	1861	1.4126513004302979	0.5062218	Yes	
+row_10	PRIM1	DNA primase subunit 1 [Source:HGNC Symbol;Acc:HGNC:9369]	1909	1.3916419744491577	0.54348433	Yes	
+row_11	RFC5	replication factor C subunit 5 [Source:HGNC Symbol;Acc:HGNC:9973]	2567	1.1565874814987183	0.5588237	Yes	
+row_12	FEN1	flap structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3650]	2583	1.1528013944625854	0.5902964	Yes	
+row_13	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	2748	1.1016013622283936	0.61658585	Yes	
+row_14	PRIM2	DNA primase subunit 2 [Source:HGNC Symbol;Acc:HGNC:9370]	2875	1.0658055543899536	0.64284736	Yes	
+row_15	MCM2	minichromosome maintenance complex component 2 [Source:HGNC Symbol;Acc:HGNC:6944]	3768	0.8721446394920349	0.6443837	Yes	
+row_16	RNASEH2B	ribonuclease H2 subunit B [Source:HGNC Symbol;Acc:HGNC:25671]	4104	0.814202606678009	0.6584072	Yes	
+row_17	RNASEH2A	ribonuclease H2 subunit A [Source:HGNC Symbol;Acc:HGNC:18518]	4827	0.6833010911941528	0.65902555	Yes	
+row_18	RPA4	replication protein A4 [Source:HGNC Symbol;Acc:HGNC:30305]	6201	0.5259144902229309	0.6388297	No	
+row_19	LIG1	DNA ligase 1 [Source:HGNC Symbol;Acc:HGNC:6598]	6972	0.4609571099281311	0.63209057	No	
+row_20	MCM7	minichromosome maintenance complex component 7 [Source:HGNC Symbol;Acc:HGNC:6950]	8884	0.2272113561630249	0.590034	No	
+row_21	RNASEH1	ribonuclease H1 [Source:HGNC Symbol;Acc:HGNC:18466]	8947	0.21703031659126282	0.59446245	No	
+row_22	POLE	DNA polymerase epsilon, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9177]	9125	0.18867339193820953	0.5951987	No	
+row_23	RPA1	replication protein A1 [Source:HGNC Symbol;Acc:HGNC:10289]	9533	0.12981988489627838	0.5884915	No	
+row_24	RFC2	replication factor C subunit 2 [Source:HGNC Symbol;Acc:HGNC:9970]	9616	0.11725379526615143	0.58965725	No	
+row_25	SSBP1	single stranded DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11317]	9793	0.09222861379384995	0.587754	No	
+row_26	MCM5	minichromosome maintenance complex component 5 [Source:HGNC Symbol;Acc:HGNC:6948]	9998	0.059722691774368286	0.58424443	No	
+row_27	POLA2	DNA polymerase alpha 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:30073]	30062	-0.02632923610508442	0.07752318	No	
+row_28	POLE4	DNA polymerase epsilon 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:18755]	31980	-0.30367791652679443	0.037427623	No	
+row_29	RPA3	replication protein A3 [Source:HGNC Symbol;Acc:HGNC:10291]	32719	-0.4174315929412842	0.030295271	No	
+row_30	RPA2	replication protein A2 [Source:HGNC Symbol;Acc:HGNC:10290]	33794	-0.5072256326675415	0.017145576	No	
+row_31	POLE3	DNA polymerase epsilon 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:13546]	35039	-0.6450099945068359	0.0035031186	No	
+row_32	POLD2	DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]	35043	-0.6454996466636658	0.02126251	No	
+row_33	RNASEH2C	ribonuclease H2 subunit C [Source:HGNC Symbol;Acc:HGNC:24116]	36250	-0.8924291729927063	0.01541741	No	
+row_34	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	36303	-0.902226448059082	0.03903086	No	
+row_35	POLD4	DNA polymerase delta 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:14106]	38270	-1.578926920890808	0.032931317	No	

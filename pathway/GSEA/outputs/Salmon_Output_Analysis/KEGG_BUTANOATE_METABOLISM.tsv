@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACAT2	acetyl-CoA acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:94]	143	3.0329031944274902	0.10751278	Yes	
+row_1	OXCT1	3-oxoacid CoA-transferase 1 [Source:HGNC Symbol;Acc:HGNC:8527]	206	2.8069472312927246	0.20946875	Yes	
+row_2	EHHADH	enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3247]	259	2.6695423126220703	0.3066767	Yes	
+row_3	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	494	2.2034401893615723	0.38024893	Yes	
+row_4	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	1449	1.4313263893127441	0.400074	Yes	
+row_5	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	1744	1.2882819175720215	0.43760806	Yes	
+row_6	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	1777	1.2723783254623413	0.48368847	Yes	
+row_7	PDHA1	pyruvate dehydrogenase E1 subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:8806]	2308	1.082292079925537	0.5053522	Yes	
+row_8	ALDH7A1	aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877]	2912	0.917931079864502	0.51837367	Yes	
+row_9	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	3002	0.8959383368492126	0.54850316	Yes	
+row_10	PDHB	pyruvate dehydrogenase E1 subunit beta [Source:HGNC Symbol;Acc:HGNC:8808]	3064	0.8814404606819153	0.5790712	Yes	
+row_11	ACADS	acyl-CoA dehydrogenase short chain [Source:HGNC Symbol;Acc:HGNC:90]	3079	0.8777401447296143	0.611141	Yes	
+row_12	ALDH5A1	aldehyde dehydrogenase 5 family member A1 [Source:HGNC Symbol;Acc:HGNC:408]	3792	0.7253915071487427	0.6132197	Yes	
+row_13	BDH2	3-hydroxybutyrate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:32389]	4059	0.6679573655128479	0.62872046	Yes	
+row_14	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	4932	0.5347330570220947	0.6181477	No	
+row_15	L2HGDH	L-2-hydroxyglutarate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:20499]	6527	0.3744751811027527	0.57645345	No	
+row_16	OXCT2	3-oxoacid CoA-transferase 2 [Source:HGNC Symbol;Acc:HGNC:18606]	6643	0.3541433811187744	0.58557945	No	
+row_17	ACSM1	acyl-CoA synthetase medium chain family member 1 [Source:HGNC Symbol;Acc:HGNC:18049]	10880	0.0	0.4378653	No	
+row_18	ACSM5	acyl-CoA synthetase medium chain family member 5 [Source:HGNC Symbol;Acc:HGNC:26060]	10882	0.0	0.43783042	No	
+row_19	ACSM4	acyl-CoA synthetase medium chain family member 4 [Source:HGNC Symbol;Acc:HGNC:32016]	10883	0.0	0.43783042	No	
+row_20	HMGCS2	3-hydroxy-3-methylglutaryl-CoA synthase 2 [Source:HGNC Symbol;Acc:HGNC:5008]	14087	0.0	0.3261381	No	
+row_21	GAD2	glutamate decarboxylase 2 [Source:HGNC Symbol;Acc:HGNC:4093]	14547	0.0	0.31013227	No	
+row_22	PDHA2	pyruvate dehydrogenase E1 subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:8807]	15334	0.0	0.28272352	No	
+row_23	ACSM2A	acyl-CoA synthetase medium chain family member 2A [Source:HGNC Symbol;Acc:HGNC:32017]	17079	0.0	0.22190824	No	
+row_24	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	20999	-0.07291311025619507	0.08795276	No	
+row_25	GAD1	glutamate decarboxylase 1 [Source:HGNC Symbol;Acc:HGNC:4092]	21057	-0.08479078114032745	0.08911025	No	
+row_26	BDH1	3-hydroxybutyrate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:1027]	21149	-0.09837746620178223	0.08958609	No	
+row_27	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	21588	-0.17102429270744324	0.08065632	No	
+row_28	HADHA	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:4801]	21763	-0.1990707516670227	0.08197286	No	
+row_29	AACS	acetoacetyl-CoA synthetase [Source:HGNC Symbol;Acc:HGNC:21298]	22895	-0.39526858925819397	0.05719527	No	
+row_30	ACSM3	acyl-CoA synthetase medium chain family member 3 [Source:HGNC Symbol;Acc:HGNC:10522]	23659	-0.4938887357711792	0.048908375	No	
+row_31	ECHS1	enoyl-CoA hydratase, short chain 1 [Source:HGNC Symbol;Acc:HGNC:3151]	25707	-0.8575339317321777	0.009335604	No	
+row_32	HMGCL	3-hydroxy-3-methylglutaryl-CoA lyase [Source:HGNC Symbol;Acc:HGNC:5005]	26442	-1.038878083229065	0.022275241	No	
+row_33	ALDH3A2	aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	27527	-1.5306861400604248	0.041252594	No	

@@ -1,0 +1,33 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACAT2	acetyl-CoA acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:94]	143	3.0329031944274902	0.119971685	Yes	
+row_1	EHHADH	enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3247]	259	2.6695423126220703	0.22594894	Yes	
+row_2	SUCLG2	succinate-CoA ligase GDP-forming subunit beta [Source:HGNC Symbol;Acc:HGNC:11450]	1353	1.4850140810012817	0.24902114	Yes	
+row_3	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	1449	1.4313263893127441	0.30468035	Yes	
+row_4	SUCLA2	succinate-CoA ligase ADP-forming subunit beta [Source:HGNC Symbol;Acc:HGNC:11448]	1486	1.409142255783081	0.3614828	Yes	
+row_5	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	1744	1.2882819175720215	0.4055997	Yes	
+row_6	MCEE	methylmalonyl-CoA epimerase [Source:HGNC Symbol;Acc:HGNC:16732]	2044	1.174831509590149	0.44357792	Yes	
+row_7	ALDH6A1	aldehyde dehydrogenase 6 family member A1 [Source:HGNC Symbol;Acc:HGNC:7179]	2647	0.9924924969673157	0.4634784	Yes	
+row_8	MMUT	methylmalonyl-CoA mutase [Source:HGNC Symbol;Acc:HGNC:7526]	2893	0.9242271184921265	0.49301443	Yes	
+row_9	ALDH7A1	aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877]	2912	0.917931079864502	0.53020626	Yes	
+row_10	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	3002	0.8959383368492126	0.5640163	Yes	
+row_11	ACADM	acyl-CoA dehydrogenase medium chain [Source:HGNC Symbol;Acc:HGNC:89]	4248	0.6324692964553833	0.5466629	Yes	
+row_12	LDHC	lactate dehydrogenase C [Source:HGNC Symbol;Acc:HGNC:6544]	4742	0.549127459526062	0.5520971	Yes	
+row_13	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	4932	0.5347330570220947	0.5675383	Yes	
+row_14	LDHAL6A	lactate dehydrogenase A like 6A [Source:HGNC Symbol;Acc:HGNC:28335]	5034	0.5266480445861816	0.5857149	Yes	
+row_15	ACSS3	acyl-CoA synthetase short chain family member 3 [Source:HGNC Symbol;Acc:HGNC:24723]	6321	0.41142722964286804	0.5578248	No	
+row_16	HIBCH	3-hydroxyisobutyryl-CoA hydrolase [Source:HGNC Symbol;Acc:HGNC:4908]	6325	0.41026005148887634	0.5746232	No	
+row_17	PCCB	propionyl-CoA carboxylase subunit beta [Source:HGNC Symbol;Acc:HGNC:8654]	6905	0.3097664415836334	0.56719685	No	
+row_18	PCCA	propionyl-CoA carboxylase subunit alpha [Source:HGNC Symbol;Acc:HGNC:8653]	7681	0.1835932433605194	0.5477378	No	
+row_19	SUCLG1	succinate-CoA ligase GDP/ADP-forming subunit alpha [Source:HGNC Symbol;Acc:HGNC:11449]	7745	0.17339377105236053	0.552685	No	
+row_20	ACACB	acetyl-CoA carboxylase beta [Source:HGNC Symbol;Acc:HGNC:85]	8012	0.13071022927761078	0.5487953	No	
+row_21	ACSS1	acyl-CoA synthetase short chain family member 1 [Source:HGNC Symbol;Acc:HGNC:16091]	8249	0.09387373924255371	0.54443395	No	
+row_22	LDHAL6B	lactate dehydrogenase A like 6B [Source:HGNC Symbol;Acc:HGNC:21481]	14534	0.0	0.3253189	No	
+row_23	SUCLG2P2	SUCLG2 pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:43997]	14679	0.0	0.3202978	No	
+row_24	ACSS2	acyl-CoA synthetase short chain family member 2 [Source:HGNC Symbol;Acc:HGNC:15814]	21408	-0.13867740333080292	0.09141466	No	
+row_25	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	21581	-0.16934005916118622	0.09239418	No	
+row_26	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	21588	-0.17102429270744324	0.099231295	No	
+row_27	MLYCD	malonyl-CoA decarboxylase [Source:HGNC Symbol;Acc:HGNC:7150]	21663	-0.18473584949970245	0.10426227	No	
+row_28	HADHA	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:4801]	21763	-0.1990707516670227	0.109012134	No	
+row_29	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	25646	-0.8426976799964905	0.008371541	No	
+row_30	ECHS1	enoyl-CoA hydratase, short chain 1 [Source:HGNC Symbol;Acc:HGNC:3151]	25707	-0.8575339317321777	0.04161047	No	
+row_31	ALDH3A2	aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	27527	-1.5306861400604248	0.04124969	No	

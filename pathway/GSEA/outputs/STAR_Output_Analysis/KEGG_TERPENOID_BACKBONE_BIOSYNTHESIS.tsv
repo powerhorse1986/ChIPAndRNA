@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACAT2	acetyl-CoA acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:94]	797	2.040137767791748	0.14022544	Yes	
+row_1	MVK	mevalonate kinase [Source:HGNC Symbol;Acc:HGNC:7530]	1081	1.8026028871536255	0.2747721	Yes	
+row_2	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	2098	1.3155537843704224	0.35250258	Yes	
+row_3	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	2576	1.1547242403030396	0.431216	Yes	
+row_4	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	2710	1.1119219064712524	0.5152608	Yes	
+row_5	GGPS1	geranylgeranyl diphosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:4249]	2821	1.080297827720642	0.5974012	Yes	
+row_6	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	3040	1.0288699865341187	0.67276865	Yes	
+row_7	PDSS1	decaprenyl diphosphate synthase subunit 1 [Source:HGNC Symbol;Acc:HGNC:17759]	4736	0.7018925547599792	0.68509525	Yes	
+row_8	PMVK	phosphomevalonate kinase [Source:HGNC Symbol;Acc:HGNC:9141]	5462	0.5678778290748596	0.711408	Yes	
+row_9	PDSS2	decaprenyl diphosphate synthase subunit 2 [Source:HGNC Symbol;Acc:HGNC:23041]	7180	0.4261845350265503	0.7015053	No	
+row_10	DHDDS	dehydrodolichyl diphosphate synthase subunit [Source:HGNC Symbol;Acc:HGNC:20603]	9399	0.14960692822933197	0.65719616	No	
+row_11	HMGCS2	3-hydroxy-3-methylglutaryl-CoA synthase 2 [Source:HGNC Symbol;Acc:HGNC:5008]	19310	0.0	0.40667793	No	
+row_12	IDI2	isopentenyl-diphosphate delta isomerase 2 [Source:HGNC Symbol;Acc:HGNC:23487]	31105	-0.17749495804309845	0.122486144	No	
+row_13	MVD	mevalonate diphosphate decarboxylase [Source:HGNC Symbol;Acc:HGNC:7529]	34680	-0.5751323103904724	0.07734834	No	
+row_14	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	34743	-0.5889015197753906	0.12207395	No	

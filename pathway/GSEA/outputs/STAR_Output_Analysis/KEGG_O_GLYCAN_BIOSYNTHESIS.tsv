@@ -1,0 +1,31 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GALNT15	polypeptide N-acetylgalactosaminyltransferase 15 [Source:HGNC Symbol;Acc:HGNC:21531]	19	4.054978847503662	0.13208333	Yes	
+row_1	GALNT12	polypeptide N-acetylgalactosaminyltransferase 12 [Source:HGNC Symbol;Acc:HGNC:19877]	124	3.243396759033203	0.23548517	Yes	
+row_2	GALNT5	polypeptide N-acetylgalactosaminyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:4127]	286	2.752211332321167	0.3213879	Yes	
+row_3	GCNT4	glucosaminyl (N-acetyl) transferase 4 [Source:HGNC Symbol;Acc:HGNC:17973]	325	2.6757047176361084	0.40790004	Yes	
+row_4	GCNT1	glucosaminyl (N-acetyl) transferase 1 [Source:HGNC Symbol;Acc:HGNC:4203]	712	2.1064612865448	0.46700212	Yes	
+row_5	GALNT7	polypeptide N-acetylgalactosaminyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:4129]	847	1.9941617250442505	0.5288058	Yes	
+row_6	GALNT16	polypeptide N-acetylgalactosaminyltransferase 16 [Source:HGNC Symbol;Acc:HGNC:23233]	998	1.8763301372528076	0.5863527	Yes	
+row_7	GALNT10	polypeptide N-acetylgalactosaminyltransferase 10 [Source:HGNC Symbol;Acc:HGNC:19873]	2406	1.2130416631698608	0.5904275	Yes	
+row_8	GALNT2	polypeptide N-acetylgalactosaminyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:4124]	3102	1.0121384859085083	0.60594016	Yes	
+row_9	GALNT11	polypeptide N-acetylgalactosaminyltransferase 11 [Source:HGNC Symbol;Acc:HGNC:19875]	3269	0.9780570864677429	0.63371646	Yes	
+row_10	GALNT1	polypeptide N-acetylgalactosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4123]	3488	0.9306021928787231	0.6586263	Yes	
+row_11	GALNT3	polypeptide N-acetylgalactosaminyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:4125]	5558	0.5582391023635864	0.6245533	No	
+row_12	C1GALT1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24337]	5745	0.547700822353363	0.6377548	No	
+row_13	GALNT14	polypeptide N-acetylgalactosaminyltransferase 14 [Source:HGNC Symbol;Acc:HGNC:22946]	6528	0.4887087345123291	0.63395554	No	
+row_14	GCNT3	glucosaminyl (N-acetyl) transferase 3, mucin type [Source:HGNC Symbol;Acc:HGNC:4205]	7379	0.41761696338653564	0.6261125	No	
+row_15	C1GALT1C1	C1GALT1 specific chaperone 1 [Source:HGNC Symbol;Acc:HGNC:24338]	9587	0.1212972030043602	0.57426524	No	
+row_16	GALNT4	polypeptide N-acetylgalactosaminyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:4126]	10054	0.05214216560125351	0.5641852	No	
+row_17	ST6GALNAC1	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:23614]	13623	0.0	0.47395435	No	
+row_18	B3GNT6	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:24141]	13938	0.0	0.4660136	No	
+row_19	GALNTL5	polypeptide N-acetylgalactosaminyltransferase like 5 [Source:HGNC Symbol;Acc:HGNC:21725]	19674	0.0	0.32098162	No	
+row_20	GALNTL6	polypeptide N-acetylgalactosaminyltransferase like 6 [Source:HGNC Symbol;Acc:HGNC:33844]	19677	0.0	0.32093105	No	
+row_21	GALNT13	polypeptide N-acetylgalactosaminyltransferase 13 [Source:HGNC Symbol;Acc:HGNC:23242]	19913	0.0	0.31498814	No	
+row_22	GALNT17	polypeptide N-acetylgalactosaminyltransferase 17 [Source:HGNC Symbol;Acc:HGNC:16347]	19915	0.0	0.31496286	No	
+row_23	GALNT8	polypeptide N-acetylgalactosaminyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:4130]	24612	0.0	0.19620606	No	
+row_24	B4GALT5	beta-1,4-galactosyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:928]	30814	-0.13105106353759766	0.043673705	No	
+row_25	GALNT9	polypeptide N-acetylgalactosaminyltransferase 9 [Source:HGNC Symbol;Acc:HGNC:4131]	33301	-0.4641367793083191	-0.004021182	No	
+row_26	GALNT6	polypeptide N-acetylgalactosaminyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:4128]	35174	-0.6708397269248962	-0.029431215	No	
+row_27	GALNT18	polypeptide N-acetylgalactosaminyltransferase 18 [Source:HGNC Symbol;Acc:HGNC:30488]	35624	-0.7569970488548279	-0.016038483	No	
+row_28	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10862]	36944	-1.0491881370544434	-0.01509492	No	
+row_29	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10863]	39098	-2.493879795074463	0.011986991	No	

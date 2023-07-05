@@ -1,0 +1,45 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RFC4	replication factor C subunit 4 [Source:HGNC Symbol;Acc:HGNC:9972]	451	2.4443647861480713	0.05357368	Yes	
+row_1	RFC1	replication factor C subunit 1 [Source:HGNC Symbol;Acc:HGNC:9969]	883	1.9690536260604858	0.09501725	Yes	
+row_2	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]	1004	1.8679630756378174	0.14164099	Yes	
+row_3	RAD23B	RAD23 homolog B, nucleotide excision repair protein [Source:HGNC Symbol;Acc:HGNC:9813]	1102	1.785454273223877	0.18665309	Yes	
+row_4	POLE2	DNA polymerase epsilon 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9178]	1111	1.7817479372024536	0.23381817	Yes	
+row_5	RFC3	replication factor C subunit 3 [Source:HGNC Symbol;Acc:HGNC:9971]	1751	1.4608948230743408	0.25649047	Yes	
+row_6	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	1770	1.450992465019226	0.2946095	Yes	
+row_7	CUL4B	cullin 4B [Source:HGNC Symbol;Acc:HGNC:2555]	2075	1.322780966758728	0.32208484	Yes	
+row_8	ERCC8	ERCC excision repair 8, CSA ubiquitin ligase complex subunit [Source:HGNC Symbol;Acc:HGNC:3439]	2157	1.2981986999511719	0.35454813	Yes	
+row_9	CDK7	cyclin dependent kinase 7 [Source:HGNC Symbol;Acc:HGNC:1778]	2462	1.1858874559402466	0.37838417	Yes	
+row_10	RFC5	replication factor C subunit 5 [Source:HGNC Symbol;Acc:HGNC:9973]	2567	1.1565874814987183	0.40650088	Yes	
+row_11	XPA	XPA, DNA damage recognition and repair factor [Source:HGNC Symbol;Acc:HGNC:12814]	2987	1.0421830415725708	0.42360732	Yes	
+row_12	MNAT1	MNAT1 component of CDK activating kinase [Source:HGNC Symbol;Acc:HGNC:7181]	3170	0.9979219436645508	0.4455327	Yes	
+row_13	ERCC4	ERCC excision repair 4, endonuclease catalytic subunit [Source:HGNC Symbol;Acc:HGNC:3436]	3442	0.9394190907478333	0.46365127	Yes	
+row_14	CCNH	cyclin H [Source:HGNC Symbol;Acc:HGNC:1594]	3837	0.8579655885696411	0.47649276	Yes	
+row_15	GTF2H5	general transcription factor IIH subunit 5 [Source:HGNC Symbol;Acc:HGNC:21157]	4097	0.8152979612350464	0.49161518	Yes	
+row_16	GTF2H2	general transcription factor IIH subunit 2 [Source:HGNC Symbol;Acc:HGNC:4656]	4506	0.7427158951759338	0.5010386	Yes	
+row_17	GTF2H3	general transcription factor IIH subunit 3 [Source:HGNC Symbol;Acc:HGNC:4657]	5016	0.6482403874397278	0.50539535	Yes	
+row_18	RPA4	replication protein A4 [Source:HGNC Symbol;Acc:HGNC:30305]	6201	0.5259144902229309	0.48942402	No	
+row_19	LIG1	DNA ligase 1 [Source:HGNC Symbol;Acc:HGNC:6598]	6972	0.4609571099281311	0.4821991	No	
+row_20	CETN2	centrin 2 [Source:HGNC Symbol;Acc:HGNC:1867]	7012	0.4530283808708191	0.49325618	No	
+row_21	CUL4A	cullin 4A [Source:HGNC Symbol;Acc:HGNC:2554]	7751	0.40042465925216675	0.48523155	No	
+row_22	GTF2H1	general transcription factor IIH subunit 1 [Source:HGNC Symbol;Acc:HGNC:4655]	7835	0.38627466559410095	0.49340087	No	
+row_23	POLE	DNA polymerase epsilon, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9177]	9125	0.18867339193820953	0.46580777	No	
+row_24	RPA1	replication protein A1 [Source:HGNC Symbol;Acc:HGNC:10289]	9533	0.12981988489627838	0.45896277	No	
+row_25	RFC2	replication factor C subunit 2 [Source:HGNC Symbol;Acc:HGNC:9970]	9616	0.11725379526615143	0.4600055	No	
+row_26	RBX1	ring-box 1 [Source:HGNC Symbol;Acc:HGNC:9928]	10087	0.047194141894578934	0.44937015	No	
+row_27	XPC	XPC complex subunit, DNA damage recognition and repair factor [Source:HGNC Symbol;Acc:HGNC:12816]	10197	0.031771257519721985	0.4474573	No	
+row_28	ERCC6	ERCC excision repair 6, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:3438]	31781	-0.2751005291938782	-0.09123338	No	
+row_29	POLE4	DNA polymerase epsilon 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:18755]	31980	-0.30367791652679443	-0.088169135	No	
+row_30	DDB2	damage specific DNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:2718]	32210	-0.33540934324264526	-0.085045554	No	
+row_31	RPA3	replication protein A3 [Source:HGNC Symbol;Acc:HGNC:10291]	32719	-0.4174315929412842	-0.08679953	No	
+row_32	GTF2H4	general transcription factor IIH subunit 4 [Source:HGNC Symbol;Acc:HGNC:4658]	32892	-0.43460652232170105	-0.079596825	No	
+row_33	ERCC5	ERCC excision repair 5, endonuclease [Source:HGNC Symbol;Acc:HGNC:3437]	33215	-0.4502217471599579	-0.07577367	No	
+row_34	ERCC3	ERCC excision repair 3, TFIIH core complex helicase subunit [Source:HGNC Symbol;Acc:HGNC:3435]	33649	-0.49851667881011963	-0.073474675	No	
+row_35	RPA2	replication protein A2 [Source:HGNC Symbol;Acc:HGNC:10290]	33794	-0.5072256326675415	-0.06363306	No	
+row_36	RAD23A	RAD23 homolog A, nucleotide excision repair protein [Source:HGNC Symbol;Acc:HGNC:9812]	34112	-0.5348948240280151	-0.057432402	No	
+row_37	DDB1	damage specific DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2717]	34769	-0.5944623947143555	-0.058224134	No	
+row_38	ERCC2	ERCC excision repair 2, TFIIH core complex helicase subunit [Source:HGNC Symbol;Acc:HGNC:3434]	34893	-0.6162929534912109	-0.04495173	No	
+row_39	POLE3	DNA polymerase epsilon 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:13546]	35039	-0.6450099945068359	-0.03147244	No	
+row_40	POLD2	DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]	35043	-0.6454996466636658	-0.014387836	No	
+row_41	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	36303	-0.902226448059082	-0.022252332	No	
+row_42	POLD4	DNA polymerase delta 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:14106]	38270	-1.578926920890808	-0.030012464	No	
+row_43	ERCC1	ERCC excision repair 1, endonuclease non-catalytic subunit [Source:HGNC Symbol;Acc:HGNC:3433]	39041	-2.3669533729553223	0.013433222	No	

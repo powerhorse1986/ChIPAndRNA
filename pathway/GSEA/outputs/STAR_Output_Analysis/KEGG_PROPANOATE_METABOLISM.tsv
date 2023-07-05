@@ -1,0 +1,33 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EHHADH	enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3247]	166	3.0430047512054443	0.103527464	Yes	
+row_1	ACAT2	acetyl-CoA acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:94]	797	2.040137767791748	0.1598177	Yes	
+row_2	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	1346	1.6519087553024292	0.20443802	Yes	
+row_3	SUCLG2	succinate-CoA ligase GDP-forming subunit beta [Source:HGNC Symbol;Acc:HGNC:11450]	1507	1.564301609992981	0.25576955	Yes	
+row_4	ALDH6A1	aldehyde dehydrogenase 6 family member A1 [Source:HGNC Symbol;Acc:HGNC:7179]	1533	1.554086446762085	0.3101536	Yes	
+row_5	SUCLA2	succinate-CoA ligase ADP-forming subunit beta [Source:HGNC Symbol;Acc:HGNC:11448]	1926	1.3839166164398193	0.349232	Yes	
+row_6	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	1988	1.3642560243606567	0.39598542	Yes	
+row_7	ALDH1B1	aldehyde dehydrogenase 1 family member B1 [Source:HGNC Symbol;Acc:HGNC:407]	2492	1.175504446029663	0.42487857	Yes	
+row_8	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	2576	1.1547242403030396	0.46365795	Yes	
+row_9	LDHAL6A	lactate dehydrogenase A like 6A [Source:HGNC Symbol;Acc:HGNC:28335]	2867	1.0681084394454956	0.49413598	Yes	
+row_10	ACADM	acyl-CoA dehydrogenase medium chain [Source:HGNC Symbol;Acc:HGNC:89]	2889	1.0629069805145264	0.53123295	Yes	
+row_11	ALDH7A1	aldehyde dehydrogenase 7 family member A1 [Source:HGNC Symbol;Acc:HGNC:877]	3021	1.0343263149261475	0.56453615	Yes	
+row_12	MCEE	methylmalonyl-CoA epimerase [Source:HGNC Symbol;Acc:HGNC:16732]	3741	0.8769785165786743	0.5773985	Yes	
+row_13	MMUT	methylmalonyl-CoA mutase [Source:HGNC Symbol;Acc:HGNC:7526]	4772	0.6939383745193481	0.57591575	Yes	
+row_14	ACSS3	acyl-CoA synthetase short chain family member 3 [Source:HGNC Symbol;Acc:HGNC:24723]	4783	0.691703736782074	0.6001499	Yes	
+row_15	LDHC	lactate dehydrogenase C [Source:HGNC Symbol;Acc:HGNC:6544]	5793	0.544406533241272	0.5939047	Yes	
+row_16	HIBCH	3-hydroxyisobutyryl-CoA hydrolase [Source:HGNC Symbol;Acc:HGNC:4908]	6495	0.4927418828010559	0.5936198	Yes	
+row_17	SUCLG2P2	SUCLG2 pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:43997]	6667	0.484661728143692	0.60645276	Yes	
+row_18	ACACB	acetyl-CoA carboxylase beta [Source:HGNC Symbol;Acc:HGNC:85]	6941	0.4668208956718445	0.6160745	Yes	
+row_19	PCCA	propionyl-CoA carboxylase subunit alpha [Source:HGNC Symbol;Acc:HGNC:8653]	7955	0.3664534091949463	0.60342836	No	
+row_20	PCCB	propionyl-CoA carboxylase subunit beta [Source:HGNC Symbol;Acc:HGNC:8654]	8758	0.24707892537117004	0.5918925	No	
+row_21	SUCLG1	succinate-CoA ligase GDP/ADP-forming subunit alpha [Source:HGNC Symbol;Acc:HGNC:11449]	9669	0.11078104376792908	0.57280016	No	
+row_22	LDHAL6B	lactate dehydrogenase A like 6B [Source:HGNC Symbol;Acc:HGNC:21481]	20215	0.0	0.30611494	No	
+row_23	ACSS1	acyl-CoA synthetase short chain family member 1 [Source:HGNC Symbol;Acc:HGNC:16091]	30589	-0.09210474044084549	0.047040258	No	
+row_24	HADHA	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:4801]	30903	-0.14404642581939697	0.044223823	No	
+row_25	ACSS2	acyl-CoA synthetase short chain family member 2 [Source:HGNC Symbol;Acc:HGNC:15814]	31418	-0.22459574043750763	0.03917559	No	
+row_26	ALDH9A1	aldehyde dehydrogenase 9 family member A1 [Source:HGNC Symbol;Acc:HGNC:412]	31547	-0.23929363489151	0.044409692	No	
+row_27	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	31700	-0.26003044843673706	0.04977094	No	
+row_28	MLYCD	malonyl-CoA decarboxylase [Source:HGNC Symbol;Acc:HGNC:7150]	32563	-0.3913026750087738	0.041823316	No	
+row_29	ECHS1	enoyl-CoA hydratase, short chain 1 [Source:HGNC Symbol;Acc:HGNC:3151]	36116	-0.8586435317993164	-0.017610585	No	
+row_30	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	36293	-0.9003669023513794	0.0098122945	No	
+row_31	ALDH3A2	aldehyde dehydrogenase 3 family member A2 [Source:HGNC Symbol;Acc:HGNC:403]	38835	-2.06459379196167	0.018638724	No	

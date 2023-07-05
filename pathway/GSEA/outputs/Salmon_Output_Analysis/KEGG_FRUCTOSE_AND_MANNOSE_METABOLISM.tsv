@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MTMR6	myotubularin related protein 6 [Source:HGNC Symbol;Acc:HGNC:7453]	1704	1.306586742401123	-0.016565232	No	
+row_1	MTMR1	myotubularin related protein 1 [Source:HGNC Symbol;Acc:HGNC:7449]	3206	0.8443961143493652	-0.041211173	No	
+row_2	SORD	sorbitol dehydrogenase [Source:HGNC Symbol;Acc:HGNC:11184]	3813	0.721122682094574	-0.038690727	No	
+row_3	FPGT	fucose-1-phosphate guanylyltransferase [Source:HGNC Symbol;Acc:HGNC:3825]	4037	0.6726381778717041	-0.02440489	No	
+row_4	PFKFB2	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2 [Source:HGNC Symbol;Acc:HGNC:8873]	4460	0.5864253640174866	-0.019886138	No	
+row_5	FBP1	fructose-bisphosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3606]	6133	0.41998815536499023	-0.06441536	No	
+row_6	PHPT1	phosphohistidine phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:30033]	7637	0.19276361167430878	-0.11050417	No	
+row_7	GMDS	GDP-mannose 4,6-dehydratase [Source:HGNC Symbol;Acc:HGNC:4369]	7760	0.17089776694774628	-0.10915312	No	
+row_8	MTMR2	myotubularin related protein 2 [Source:HGNC Symbol;Acc:HGNC:7450]	8588	0.03708857670426369	-0.13677508	No	
+row_9	PMM2	phosphomannomutase 2 [Source:HGNC Symbol;Acc:HGNC:9115]	8735	0.010365588590502739	-0.14152628	No	
+row_10	ALDOB	aldolase, fructose-bisphosphate B [Source:HGNC Symbol;Acc:HGNC:417]	9337	0.0	-0.16248384	No	
+row_11	HK3	hexokinase 3 [Source:HGNC Symbol;Acc:HGNC:4925]	12874	0.0	-0.28578824	No	
+row_12	FBP2	fructose-bisphosphatase 2 [Source:HGNC Symbol;Acc:HGNC:3607]	18473	0.0	-0.48099694	No	
+row_13	AKR1B10	aldo-keto reductase family 1 member B10 [Source:HGNC Symbol;Acc:HGNC:382]	20999	-0.07291311025619507	-0.5666551	No	
+row_14	KHK	ketohexokinase [Source:HGNC Symbol;Acc:HGNC:6315]	22095	-0.2545282244682312	-0.5964906	No	
+row_15	PFKFB1	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1 [Source:HGNC Symbol;Acc:HGNC:8872]	23820	-0.5007540583610535	-0.6401841	No	
+row_16	PFKP	phosphofructokinase, platelet [Source:HGNC Symbol;Acc:HGNC:8878]	24618	-0.6005121469497681	-0.64827996	Yes	
+row_17	FCSK	fucose kinase [Source:HGNC Symbol;Acc:HGNC:29500]	24987	-0.6817848086357117	-0.63875043	Yes	
+row_18	PFKL	phosphofructokinase, liver type [Source:HGNC Symbol;Acc:HGNC:8876]	25156	-0.7247005105018616	-0.6208391	Yes	
+row_19	PMM1	phosphomannomutase 1 [Source:HGNC Symbol;Acc:HGNC:9114]	25271	-0.7506210803985596	-0.6001945	Yes	
+row_20	MTMR7	myotubularin related protein 7 [Source:HGNC Symbol;Acc:HGNC:7454]	25564	-0.8227748274803162	-0.5833904	Yes	
+row_21	GMPPA	GDP-mannose pyrophosphorylase A [Source:HGNC Symbol;Acc:HGNC:22923]	26068	-0.9358358979225159	-0.5702358	Yes	
+row_22	ALDOA	aldolase, fructose-bisphosphate A [Source:HGNC Symbol;Acc:HGNC:414]	26339	-1.0104624032974243	-0.54650843	Yes	
+row_23	PFKM	phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]	26362	-1.019470453262329	-0.51383764	Yes	
+row_24	GFUS	GDP-L-fucose synthase [Source:HGNC Symbol;Acc:HGNC:12390]	26500	-1.0577408075332642	-0.48392177	Yes	
+row_25	MPI	mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216]	26510	-1.0604780912399292	-0.4494526	Yes	
+row_26	ALDOC	aldolase, fructose-bisphosphate C [Source:HGNC Symbol;Acc:HGNC:418]	26697	-1.1272941827774048	-0.41896412	Yes	
+row_27	GMPPB	GDP-mannose pyrophosphorylase B [Source:HGNC Symbol;Acc:HGNC:22932]	27156	-1.3175021409988403	-0.39172187	Yes	
+row_28	HK1	hexokinase 1 [Source:HGNC Symbol;Acc:HGNC:4922]	27343	-1.4171979427337646	-0.3517247	Yes	
+row_29	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	27553	-1.5475832223892212	-0.30825302	Yes	
+row_30	PFKFB3	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3 [Source:HGNC Symbol;Acc:HGNC:8874]	27873	-1.807657241821289	-0.26008692	Yes	
+row_31	HK2	hexokinase 2 [Source:HGNC Symbol;Acc:HGNC:4923]	28128	-2.1471598148345947	-0.19851872	Yes	
+row_32	PFKFB4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4 [Source:HGNC Symbol;Acc:HGNC:8875]	28464	-3.0535876750946045	-0.11004484	Yes	
+row_33	AKR1B1	aldo-keto reductase family 1 member B [Source:HGNC Symbol;Acc:HGNC:381]	28569	-3.6155636310577393	0.0049167434	Yes	

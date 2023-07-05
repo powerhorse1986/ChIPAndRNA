@@ -1,0 +1,91 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC8A1	solute carrier family 8 member A1 [Source:HGNC Symbol;Acc:HGNC:11068]	86	3.408921241760254	0.04269007	Yes	
+row_1	ITGA4	integrin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6140]	253	2.81752872467041	0.07557004	Yes	
+row_2	CACNB4	calcium voltage-gated channel auxiliary subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:1404]	339	2.654684543609619	0.10835817	Yes	
+row_3	ITGA6	integrin subunit alpha 6 [Source:HGNC Symbol;Acc:HGNC:6142]	410	2.517261505126953	0.13971744	Yes	
+row_4	TGFB2	transforming growth factor beta 2 [Source:HGNC Symbol;Acc:HGNC:11768]	553	2.300215244293213	0.1663964	Yes	
+row_5	LAMA2	laminin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	594	2.2562668323516846	0.1950803	Yes	
+row_6	TNNT2	troponin T2, cardiac type [Source:HGNC Symbol;Acc:HGNC:11949]	608	2.235063076019287	0.22416893	Yes	
+row_7	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	863	1.986476182937622	0.24388179	Yes	
+row_8	ITGAV	integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	896	1.9611711502075195	0.26888424	Yes	
+row_9	CACNA2D1	calcium voltage-gated channel auxiliary subunit alpha2delta 1 [Source:HGNC Symbol;Acc:HGNC:1399]	1168	1.7419873476028442	0.28494856	Yes	
+row_10	SGCD	sarcoglycan delta [Source:HGNC Symbol;Acc:HGNC:10807]	1451	1.5917707681655884	0.29875714	Yes	
+row_11	ITGA7	integrin subunit alpha 7 [Source:HGNC Symbol;Acc:HGNC:6143]	1631	1.5119880437850952	0.31412432	Yes	
+row_12	TPM1	tropomyosin 1 [Source:HGNC Symbol;Acc:HGNC:12010]	1651	1.5028630495071411	0.3334238	Yes	
+row_13	TPM4	tropomyosin 4 [Source:HGNC Symbol;Acc:HGNC:12013]	1879	1.4049065113067627	0.34616587	Yes	
+row_14	DES	desmin [Source:HGNC Symbol;Acc:HGNC:2770]	2176	1.2907260656356812	0.35565752	Yes	
+row_15	PRKACB	protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	2329	1.2361857891082764	0.3680784	Yes	
+row_16	ITGA10	integrin subunit alpha 10 [Source:HGNC Symbol;Acc:HGNC:6135]	2926	1.0568569898605347	0.36689368	Yes	
+row_17	SGCB	sarcoglycan beta [Source:HGNC Symbol;Acc:HGNC:10806]	3031	1.0316499471664429	0.3778382	Yes	
+row_18	ITGB8	integrin subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:6163]	3037	1.0307016372680664	0.39127767	Yes	
+row_19	CACNG4	calcium voltage-gated channel auxiliary subunit gamma 4 [Source:HGNC Symbol;Acc:HGNC:1408]	3422	0.9441015124320984	0.3939782	Yes	
+row_20	TTN	titin [Source:HGNC Symbol;Acc:HGNC:12403]	3735	0.8776968717575073	0.39762834	Yes	
+row_21	ADCY7	adenylate cyclase 7 [Source:HGNC Symbol;Acc:HGNC:238]	3861	0.8546355962753296	0.4057111	Yes	
+row_22	TPM2	tropomyosin 2 [Source:HGNC Symbol;Acc:HGNC:12011]	3905	0.8447598814964294	0.4157408	Yes	
+row_23	CACNA1C	calcium voltage-gated channel subunit alpha1 C [Source:HGNC Symbol;Acc:HGNC:1390]	4310	0.778039813041687	0.41574907	Yes	
+row_24	ADCY3	adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	4743	0.7003608345985413	0.4140258	Yes	
+row_25	MYL3	myosin light chain 3 [Source:HGNC Symbol;Acc:HGNC:7584]	4942	0.661309003829956	0.41771516	Yes	
+row_26	GNAS	GNAS complex locus [Source:HGNC Symbol;Acc:HGNC:4392]	4977	0.6532791256904602	0.42545247	Yes	
+row_27	CACNB2	calcium voltage-gated channel auxiliary subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:1402]	5048	0.6414654850959778	0.43212253	Yes	
+row_28	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	5350	0.5850724577903748	0.43219972	Yes	
+row_29	ADCY1	adenylate cyclase 1 [Source:HGNC Symbol;Acc:HGNC:232]	5415	0.5748748183250427	0.43814528	Yes	
+row_30	DAG1	dystroglycan 1 [Source:HGNC Symbol;Acc:HGNC:2666]	5699	0.5506150722503662	0.43822482	Yes	
+row_31	MYH6	myosin heavy chain 6 [Source:HGNC Symbol;Acc:HGNC:7576]	5862	0.5420103073120117	0.44125575	Yes	
+row_32	ADCY5	adenylate cyclase 5 [Source:HGNC Symbol;Acc:HGNC:236]	6606	0.48864248394966125	0.42886904	No	
+row_33	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	6623	0.4875614643096924	0.43488106	No	
+row_34	IGF1	insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464]	6973	0.4609231948852539	0.4321085	No	
+row_35	CACNA1D	calcium voltage-gated channel subunit alpha1 D [Source:HGNC Symbol;Acc:HGNC:1391]	7581	0.4149986207485199	0.422197	No	
+row_36	ITGA9	integrin subunit alpha 9 [Source:HGNC Symbol;Acc:HGNC:6145]	7908	0.3749557137489319	0.41887546	No	
+row_37	CACNG8	calcium voltage-gated channel auxiliary subunit gamma 8 [Source:HGNC Symbol;Acc:HGNC:13628]	8593	0.27286672592163086	0.40514302	No	
+row_38	ITGA1	integrin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6134]	8753	0.24751365184783936	0.40437374	No	
+row_39	ADCY6	adenylate cyclase 6 [Source:HGNC Symbol;Acc:HGNC:237]	9117	0.19057141244411469	0.3976882	No	
+row_40	ITGB4	integrin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6158]	9144	0.18580962717533112	0.39947534	No	
+row_41	SGCA	sarcoglycan alpha [Source:HGNC Symbol;Acc:HGNC:10805]	9547	0.1275247186422348	0.3909722	No	
+row_42	ITGA2B	integrin subunit alpha 2b [Source:HGNC Symbol;Acc:HGNC:6138]	9574	0.12288352102041245	0.3919311	No	
+row_43	ADCY9	adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240]	9671	0.11055704206228256	0.39095482	No	
+row_44	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	9938	0.07019288092851639	0.3851416	No	
+row_45	CACNB3	calcium voltage-gated channel auxiliary subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:1403]	9957	0.06704813241958618	0.3855682	No	
+row_46	TPM3	tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]	10095	0.046283770352602005	0.38270754	No	
+row_47	PRKACG	protein kinase cAMP-activated catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9382]	10614	0.0	0.369588	No	
+row_48	RYR2	ryanodine receptor 2 [Source:HGNC Symbol;Acc:HGNC:10484]	15065	0.0	0.25688124	No	
+row_49	MYBPC3	myosin binding protein C3 [Source:HGNC Symbol;Acc:HGNC:7551]	15130	0.0	0.2552603	No	
+row_50	ADRB1	adrenoceptor beta 1 [Source:HGNC Symbol;Acc:HGNC:285]	17393	0.0	0.19796982	No	
+row_51	PLN	phospholamban [Source:HGNC Symbol;Acc:HGNC:9080]	19329	0.0	0.14896138	No	
+row_52	CACNG1	calcium voltage-gated channel auxiliary subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:1405]	19834	0.0	0.1361964	No	
+row_53	CACNG2	calcium voltage-gated channel auxiliary subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:1406]	19835	0.0	0.1361964	No	
+row_54	CACNG3	calcium voltage-gated channel auxiliary subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:1407]	19836	0.0	0.1361964	No	
+row_55	CACNG5	calcium voltage-gated channel auxiliary subunit gamma 5 [Source:HGNC Symbol;Acc:HGNC:1409]	19837	0.0	0.1361964	No	
+row_56	CACNA1F	calcium voltage-gated channel subunit alpha1 F [Source:HGNC Symbol;Acc:HGNC:1393]	21599	0.0	0.09159493	No	
+row_57	CACNA1S	calcium voltage-gated channel subunit alpha1 S [Source:HGNC Symbol;Acc:HGNC:1397]	21603	0.0	0.091518946	No	
+row_58	MYH7	myosin heavy chain 7 [Source:HGNC Symbol;Acc:HGNC:7577]	22010	0.0	0.081236035	No	
+row_59	MYL2	myosin light chain 2 [Source:HGNC Symbol;Acc:HGNC:7583]	22029	0.0	0.08078014	No	
+row_60	ADCY2	adenylate cyclase 2 [Source:HGNC Symbol;Acc:HGNC:233]	25311	0.0	-0.0023189092	No	
+row_61	TNNI3	troponin I3, cardiac type [Source:HGNC Symbol;Acc:HGNC:11947]	27466	0.0	-0.056874033	No	
+row_62	EMD	emerin [Source:HGNC Symbol;Acc:HGNC:3331]	30224	-0.04558244347572327	-0.1261016	No	
+row_63	ITGA8	integrin subunit alpha 8 [Source:HGNC Symbol;Acc:HGNC:6144]	30748	-0.11984331905841827	-0.13777043	No	
+row_64	DMD	dystrophin [Source:HGNC Symbol;Acc:HGNC:2928]	31205	-0.19541974365711212	-0.14674759	No	
+row_65	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	31265	-0.205136239528656	-0.14554189	No	
+row_66	CACNA2D2	calcium voltage-gated channel auxiliary subunit alpha2delta 2 [Source:HGNC Symbol;Acc:HGNC:1400]	31582	-0.24448637664318085	-0.15032741	No	
+row_67	ATP2A2	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:812]	31589	-0.24568288028240204	-0.14724569	No	
+row_68	TNNC1	troponin C1, slow skeletal and cardiac type [Source:HGNC Symbol;Acc:HGNC:11943]	31674	-0.25719180703163147	-0.14598803	No	
+row_69	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	32236	-0.34015294909477234	-0.1557196	No	
+row_70	CACNA2D4	calcium voltage-gated channel auxiliary subunit alpha2delta 4 [Source:HGNC Symbol;Acc:HGNC:20202]	32359	-0.36148735880851746	-0.15405163	No	
+row_71	ADCY8	adenylate cyclase 8 [Source:HGNC Symbol;Acc:HGNC:239]	32424	-0.3711411952972412	-0.15078762	No	
+row_72	ADCY4	adenylate cyclase 4 [Source:HGNC Symbol;Acc:HGNC:235]	34423	-0.5511605143547058	-0.1941373	No	
+row_73	CACNB1	calcium voltage-gated channel auxiliary subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:1401]	34661	-0.5719478726387024	-0.1926119	No	
+row_74	CACNG6	calcium voltage-gated channel auxiliary subunit gamma 6 [Source:HGNC Symbol;Acc:HGNC:13625]	34937	-0.624995768070221	-0.19135074	No	
+row_75	ITGB5	integrin subunit beta 5 [Source:HGNC Symbol;Acc:HGNC:6160]	35780	-0.7898380756378174	-0.20228052	No	
+row_76	PRKX	protein kinase cAMP-dependent X-linked catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9441]	35853	-0.8074310421943665	-0.19347668	No	
+row_77	ITGB7	integrin subunit beta 7 [Source:HGNC Symbol;Acc:HGNC:6162]	36487	-0.9484885931015015	-0.1970249	No	
+row_78	ITGA2	integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	36628	-0.979322612285614	-0.18768087	No	
+row_79	ACTC1	actin alpha cardiac muscle 1 [Source:HGNC Symbol;Acc:HGNC:143]	36896	-1.0374174118041992	-0.1807888	No	
+row_80	SGCG	sarcoglycan gamma [Source:HGNC Symbol;Acc:HGNC:10809]	37097	-1.09065580368042	-0.17149906	No	
+row_81	ITGA5	integrin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6141]	37298	-1.1520134210586548	-0.16140172	No	
+row_82	PRKACA	protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	37436	-1.1992745399475098	-0.14908671	No	
+row_83	ITGA3	integrin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6139]	37736	-1.3162641525268555	-0.13933493	No	
+row_84	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	38840	-2.078084945678711	-0.13991925	No	
+row_85	ITGB3	integrin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6156]	38976	-2.274888753890991	-0.113396354	No	
+row_86	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	38979	-2.2766218185424805	-0.08348212	No	
+row_87	ITGA11	integrin subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:6136]	38993	-2.296592950820923	-0.053583615	No	
+row_88	CACNG7	calcium voltage-gated channel auxiliary subunit gamma 7 [Source:HGNC Symbol;Acc:HGNC:13626]	39021	-2.342625617980957	-0.023433814	No	
+row_89	CACNA2D3	calcium voltage-gated channel auxiliary subunit alpha2delta 3 [Source:HGNC Symbol;Acc:HGNC:15460]	39221	-2.8387858867645264	0.008890142	No	

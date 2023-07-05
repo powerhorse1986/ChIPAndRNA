@@ -1,0 +1,84 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	397	2.368464231491089	0.039193224	No	
+row_1	NFYB	nuclear transcription factor Y subunit beta [Source:HGNC Symbol;Acc:HGNC:7805]	733	1.9207860231399536	0.070522815	No	
+row_2	HSPA2	heat shock protein family A (Hsp70) member 2 [Source:HGNC Symbol;Acc:HGNC:5235]	3153	0.8566058874130249	0.0052156886	No	
+row_3	HLA-DOB	major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	3437	0.7984745502471924	0.013218508	No	
+row_4	RFX5	regulatory factor X5 [Source:HGNC Symbol;Acc:HGNC:9986]	3585	0.7658308744430542	0.025240604	No	
+row_5	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	3919	0.6972628831863403	0.029229434	No	
+row_6	KLRD1	killer cell lectin like receptor D1 [Source:HGNC Symbol;Acc:HGNC:6378]	4176	0.6464627385139465	0.034769863	No	
+row_7	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	4228	0.6364978551864624	0.047247868	No	
+row_8	CD4	CD4 molecule [Source:HGNC Symbol;Acc:HGNC:1678]	4665	0.5564520955085754	0.044484235	No	
+row_9	HLA-DRA	major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	5152	0.5132485628128052	0.03900617	No	
+row_10	IFNA8	interferon alpha 8 [Source:HGNC Symbol;Acc:HGNC:5429]	5970	0.42459407448768616	0.01997987	No	
+row_11	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	6295	0.41575708985328674	0.017976496	No	
+row_12	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	6582	0.36546286940574646	0.016173752	No	
+row_13	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	6619	0.3580026924610138	0.022936586	No	
+row_14	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	7013	0.29248353838920593	0.015761284	No	
+row_15	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	7138	0.268533319234848	0.01744582	No	
+row_16	RFXAP	regulatory factor X associated protein [Source:HGNC Symbol;Acc:HGNC:9988]	7769	0.16942322254180908	-7.6501357E-4	No	
+row_17	NFYC	nuclear transcription factor Y subunit gamma [Source:HGNC Symbol;Acc:HGNC:7806]	8699	0.017519639804959297	-0.03282327	No	
+row_18	TAP1	transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	8720	0.013361467979848385	-0.033222545	No	
+row_19	KLRC1	killer cell lectin like receptor C1 [Source:HGNC Symbol;Acc:HGNC:6374]	10954	0.0	-0.1112231	No	
+row_20	KLRC2	killer cell lectin like receptor C2 [Source:HGNC Symbol;Acc:HGNC:6375]	10956	0.0	-0.11125803	No	
+row_21	KLRC3	killer cell lectin like receptor C3 [Source:HGNC Symbol;Acc:HGNC:6376]	10957	0.0	-0.11125803	No	
+row_22	KLRC4	killer cell lectin like receptor C4 [Source:HGNC Symbol;Acc:HGNC:6377]	10958	0.0	-0.11125803	No	
+row_23	IFNA5	interferon alpha 5 [Source:HGNC Symbol;Acc:HGNC:5426]	11328	0.0	-0.12414751	No	
+row_24	IFNA4	interferon alpha 4 [Source:HGNC Symbol;Acc:HGNC:5425]	11329	0.0	-0.12414751	No	
+row_25	IFNA7	interferon alpha 7 [Source:HGNC Symbol;Acc:HGNC:5428]	11330	0.0	-0.12414751	No	
+row_26	IFNA6	interferon alpha 6 [Source:HGNC Symbol;Acc:HGNC:5427]	11331	0.0	-0.12414751	No	
+row_27	IFNA1	interferon alpha 1 [Source:HGNC Symbol;Acc:HGNC:5417]	11332	0.0	-0.12414751	No	
+row_28	IFNA2	interferon alpha 2 [Source:HGNC Symbol;Acc:HGNC:5423]	11334	0.0	-0.12418244	No	
+row_29	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	12183	0.0	-0.1538038	No	
+row_30	HLA-DRB5	major histocompatibility complex, class II, DR beta 5 [Source:HGNC Symbol;Acc:HGNC:4953]	13204	0.0	-0.18943325	No	
+row_31	HLA-DRB4	major histocompatibility complex, class II, DR beta 4 [Source:HGNC Symbol;Acc:HGNC:4952]	13206	0.0	-0.18946818	No	
+row_32	HLA-DRB3	major histocompatibility complex, class II, DR beta 3 [Source:HGNC Symbol;Acc:HGNC:4951]	13218	0.0	-0.18985242	No	
+row_33	IFNA13	interferon alpha 13 [Source:HGNC Symbol;Acc:HGNC:5419]	13254	0.0	-0.191075	No	
+row_34	IFNA14	interferon alpha 14 [Source:HGNC Symbol;Acc:HGNC:5420]	13256	0.0	-0.19110993	No	
+row_35	IFNA16	interferon alpha 16 [Source:HGNC Symbol;Acc:HGNC:5421]	13257	0.0	-0.19110993	No	
+row_36	IFNA17	interferon alpha 17 [Source:HGNC Symbol;Acc:HGNC:5422]	13258	0.0	-0.19110993	No	
+row_37	IFNA10	interferon alpha 10 [Source:HGNC Symbol;Acc:HGNC:5418]	13262	0.0	-0.19121471	No	
+row_38	IFNA21	interferon alpha 21 [Source:HGNC Symbol;Acc:HGNC:5424]	13264	0.0	-0.19124965	No	
+row_39	HLA-DQA2	major histocompatibility complex, class II, DQ alpha 2 [Source:HGNC Symbol;Acc:HGNC:4943]	13373	0.0	-0.19502218	No	
+row_40	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	13462	0.0	-0.1980961	No	
+row_41	LTA	lymphotoxin alpha [Source:HGNC Symbol;Acc:HGNC:6709]	13543	0.0	-0.20089056	No	
+row_42	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	13595	0.0	-0.20267203	No	
+row_43	KIR2DL1	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 1 [Source:HGNC Symbol;Acc:HGNC:6329]	16365	0.0	-0.2993955	No	
+row_44	KIR2DL3	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 3 [Source:HGNC Symbol;Acc:HGNC:6331]	16368	0.0	-0.2994654	No	
+row_45	KIR2DL4	killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6332]	16369	0.0	-0.2994654	No	
+row_46	KIR2DS4	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6336]	16437	0.0	-0.30180573	No	
+row_47	CD8B	CD8b molecule [Source:HGNC Symbol;Acc:HGNC:1707]	17070	0.0	-0.32388204	No	
+row_48	CD8A	CD8a molecule [Source:HGNC Symbol;Acc:HGNC:1706]	17071	0.0	-0.32388204	No	
+row_49	KIR3DL1	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1 [Source:HGNC Symbol;Acc:HGNC:6338]	19052	0.0	-0.3930451	No	
+row_50	KIR3DL2	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 2 [Source:HGNC Symbol;Acc:HGNC:6339]	19053	0.0	-0.3930451	No	
+row_51	KIR3DL3	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 3 [Source:HGNC Symbol;Acc:HGNC:16312]	19054	0.0	-0.3930451	No	
+row_52	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	20868	-0.050444308668375015	-0.45524457	No	
+row_53	HSPA4	heat shock protein family A (Hsp70) member 4 [Source:HGNC Symbol;Acc:HGNC:5237]	21493	-0.1540982574224472	-0.47358915	No	
+row_54	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	21587	-0.17069071531295776	-0.47301373	No	
+row_55	PSME1	proteasome activator subunit 1 [Source:HGNC Symbol;Acc:HGNC:9568]	22027	-0.2413114309310913	-0.48294225	No	
+row_56	HSPA1L	heat shock protein family A (Hsp70) member 1 like [Source:HGNC Symbol;Acc:HGNC:5234]	22104	-0.2565325200557709	-0.4798499	No	
+row_57	PDIA3	protein disulfide isomerase family A member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	22332	-0.2953963875770569	-0.48116145	No	
+row_58	TAPBP	TAP binding protein [Source:HGNC Symbol;Acc:HGNC:11566]	22744	-0.36907339096069336	-0.48724964	No	
+row_59	CIITA	class II major histocompatibility complex transactivator [Source:HGNC Symbol;Acc:HGNC:7067]	22850	-0.38487502932548523	-0.482295	No	
+row_60	HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	23014	-0.4226057529449463	-0.4785211	No	
+row_61	HSP90AB1	heat shock protein 90 alpha family class B member 1 [Source:HGNC Symbol;Acc:HGNC:5258]	23565	-0.47391992807388306	-0.4871158	No	
+row_62	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	24508	-0.5758090615272522	-0.5071208	Yes	
+row_63	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	24625	-0.6010379791259766	-0.4977077	Yes	
+row_64	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	24692	-0.6141584515571594	-0.48625413	Yes	
+row_65	HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	25447	-0.7928180694580078	-0.49483046	Yes	
+row_66	HSPA5	heat shock protein family A (Hsp70) member 5 [Source:HGNC Symbol;Acc:HGNC:5238]	25503	-0.80849689245224	-0.4786389	Yes	
+row_67	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	25592	-0.8301661610603333	-0.46311456	Yes	
+row_68	HSPA6	heat shock protein family A (Hsp70) member 6 [Source:HGNC Symbol;Acc:HGNC:5239]	26249	-0.9881934523582458	-0.46389064	Yes	
+row_69	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	26352	-1.0159456729888916	-0.44469336	Yes	
+row_70	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	26495	-1.0556408166885376	-0.42600396	Yes	
+row_71	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	26644	-1.1042827367782593	-0.40643445	Yes	
+row_72	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	26754	-1.1494033336639404	-0.3844918	Yes	
+row_73	PSME3	proteasome activator subunit 3 [Source:HGNC Symbol;Acc:HGNC:9570]	27076	-1.2800960540771484	-0.36702657	Yes	
+row_74	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	27113	-1.3009872436523438	-0.33913803	Yes	
+row_75	TAP2	transporter 2, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:44]	27175	-1.3317759037017822	-0.31143302	Yes	
+row_76	RFXANK	regulatory factor X associated ankyrin containing protein [Source:HGNC Symbol;Acc:HGNC:9987]	27331	-1.414711833000183	-0.28515345	Yes	
+row_77	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	27473	-1.496991753578186	-0.25654155	Yes	
+row_78	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	27593	-1.5763643980026245	-0.225383	Yes	
+row_79	NFYA	nuclear transcription factor Y subunit alpha [Source:HGNC Symbol;Acc:HGNC:7804]	27925	-1.8660058975219727	-0.19514093	Yes	
+row_80	CTSB	cathepsin B [Source:HGNC Symbol;Acc:HGNC:2527]	28174	-2.223827600479126	-0.1539833	Yes	
+row_81	IFI30	IFI30 lysosomal thiol reductase [Source:HGNC Symbol;Acc:HGNC:5398]	28483	-3.156224012374878	-0.09403303	Yes	
+row_82	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	28658	-4.549715518951416	0.0018164036	Yes	

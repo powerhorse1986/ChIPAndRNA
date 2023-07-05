@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GALNT15	polypeptide N-acetylgalactosaminyltransferase 15 [Source:HGNC Symbol;Acc:HGNC:21531]	21	3.8889682292938232	0.1350382	Yes	
+row_1	GCNT4	glucosaminyl (N-acetyl) transferase 4 [Source:HGNC Symbol;Acc:HGNC:17973]	154	2.9670040607452393	0.23401907	Yes	
+row_2	GALNT5	polypeptide N-acetylgalactosaminyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:4127]	195	2.8451547622680664	0.33195356	Yes	
+row_3	GALNT7	polypeptide N-acetylgalactosaminyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:4129]	739	1.9133079051971436	0.37981862	Yes	
+row_4	GALNT10	polypeptide N-acetylgalactosaminyltransferase 10 [Source:HGNC Symbol;Acc:HGNC:19873]	943	1.747644066810608	0.43375418	Yes	
+row_5	GALNT12	polypeptide N-acetylgalactosaminyltransferase 12 [Source:HGNC Symbol;Acc:HGNC:19877]	1517	1.3927677869796753	0.46240032	Yes	
+row_6	GALNT2	polypeptide N-acetylgalactosaminyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:4124]	1927	1.2165971994400024	0.49061394	Yes	
+row_7	GCNT1	glucosaminyl (N-acetyl) transferase 1 [Source:HGNC Symbol;Acc:HGNC:4203]	2084	1.1623167991638184	0.52575344	Yes	
+row_8	GALNT1	polypeptide N-acetylgalactosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4123]	2430	1.0484235286712646	0.5503272	Yes	
+row_9	GALNT11	polypeptide N-acetylgalactosaminyltransferase 11 [Source:HGNC Symbol;Acc:HGNC:19875]	2992	0.8981980085372925	0.56212544	Yes	
+row_10	GALNT3	polypeptide N-acetylgalactosaminyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:4125]	4671	0.5558651089668274	0.5230281	No	
+row_11	B3GNT6	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:24141]	5957	0.42459407448768616	0.4930497	No	
+row_12	C1GALT1C1	C1GALT1 specific chaperone 1 [Source:HGNC Symbol;Acc:HGNC:24338]	6713	0.3414039611816406	0.47864556	No	
+row_13	C1GALT1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24337]	7746	0.17270801961421967	0.44869435	No	
+row_14	ST6GALNAC1	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:23614]	9125	0.0	0.40065026	No	
+row_15	GCNT3	glucosaminyl (N-acetyl) transferase 3, mucin type [Source:HGNC Symbol;Acc:HGNC:4205]	13770	0.0	0.23873688	No	
+row_16	GALNTL5	polypeptide N-acetylgalactosaminyltransferase like 5 [Source:HGNC Symbol;Acc:HGNC:21725]	14289	0.0	0.22067678	No	
+row_17	GALNTL6	polypeptide N-acetylgalactosaminyltransferase like 6 [Source:HGNC Symbol;Acc:HGNC:33844]	14290	0.0	0.22067678	No	
+row_18	GALNT13	polypeptide N-acetylgalactosaminyltransferase 13 [Source:HGNC Symbol;Acc:HGNC:23242]	14416	0.0	0.21631864	No	
+row_19	GALNT14	polypeptide N-acetylgalactosaminyltransferase 14 [Source:HGNC Symbol;Acc:HGNC:22946]	20880	-0.052428584545850754	-0.007183951	No	
+row_20	B4GALT5	beta-1,4-galactosyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:928]	21298	-0.12214720249176025	-0.017458323	No	
+row_21	GALNT16	polypeptide N-acetylgalactosaminyltransferase 16 [Source:HGNC Symbol;Acc:HGNC:23233]	22153	-0.26506805419921875	-0.037979126	No	
+row_22	GALNT17	polypeptide N-acetylgalactosaminyltransferase 17 [Source:HGNC Symbol;Acc:HGNC:16347]	23319	-0.4421011209487915	-0.063162446	No	
+row_23	GALNT8	polypeptide N-acetylgalactosaminyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:4130]	24037	-0.523923397064209	-0.06986967	No	
+row_24	GALNT6	polypeptide N-acetylgalactosaminyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:4128]	24722	-0.6218456029891968	-0.07200771	No	
+row_25	GALNT18	polypeptide N-acetylgalactosaminyltransferase 18 [Source:HGNC Symbol;Acc:HGNC:30488]	25702	-0.8569657206535339	-0.07622251	No	
+row_26	GALNT4	polypeptide N-acetylgalactosaminyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:4126]	26033	-0.9278082251548767	-0.05533665	No	
+row_27	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10862]	27619	-1.5946134328842163	-0.054927174	No	
+row_28	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10863]	28377	-2.6618638038635254	0.011610073	No	

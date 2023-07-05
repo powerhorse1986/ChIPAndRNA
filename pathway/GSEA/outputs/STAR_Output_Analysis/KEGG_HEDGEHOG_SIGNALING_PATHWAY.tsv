@@ -1,0 +1,57 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RAB23	RAB23, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:14263]	234	2.8558621406555176	0.049739234	No	
+row_1	CSNK1G3	casein kinase 1 gamma 3 [Source:HGNC Symbol;Acc:HGNC:2456]	1401	1.6207994222640991	0.051822316	No	
+row_2	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	1650	1.50287926197052	0.07483764	No	
+row_3	WNT3	Wnt family member 3 [Source:HGNC Symbol;Acc:HGNC:12782]	1812	1.4309778213500977	0.0986532	No	
+row_4	PRKACB	protein kinase cAMP-activated catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9381]	2329	1.2361857891082764	0.10968878	No	
+row_5	SMO	smoothened, frizzled class receptor [Source:HGNC Symbol;Acc:HGNC:11119]	2717	1.1111462116241455	0.12155176	No	
+row_6	WNT16	Wnt family member 16 [Source:HGNC Symbol;Acc:HGNC:16267]	4704	0.7068096995353699	0.085070625	No	
+row_7	CSNK1A1	casein kinase 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2451]	5116	0.631101667881012	0.0869702	No	
+row_8	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	5363	0.5823244452476501	0.09209453	No	
+row_9	BTRC	beta-transducin repeat containing E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:1144]	5397	0.5772225856781006	0.10250951	No	
+row_10	DHH	desert hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:2865]	5773	0.544406533241272	0.10363041	No	
+row_11	HHIP	hedgehog interacting protein [Source:HGNC Symbol;Acc:HGNC:14866]	6407	0.5072761178016663	0.0974988	No	
+row_12	GLI1	GLI family zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:4317]	9292	0.16316740214824677	0.02769768	No	
+row_13	PTCH2	patched 2 [Source:HGNC Symbol;Acc:HGNC:9586]	9317	0.15828904509544373	0.030175399	No	
+row_14	GAS1	growth arrest specific 1 [Source:HGNC Symbol;Acc:HGNC:4165]	9530	0.13073739409446716	0.02735869	No	
+row_15	CSNK1G1	casein kinase 1 gamma 1 [Source:HGNC Symbol;Acc:HGNC:2454]	9635	0.11506903916597366	0.026969606	No	
+row_16	WNT10B	Wnt family member 10B [Source:HGNC Symbol;Acc:HGNC:12775]	9751	0.09872804582118988	0.025983676	No	
+row_17	FBXW11	F-box and WD repeat domain containing 11 [Source:HGNC Symbol;Acc:HGNC:13607]	9790	0.0933930054306984	0.026842294	No	
+row_18	GLI2	GLI family zinc finger 2 [Source:HGNC Symbol;Acc:HGNC:4318]	10297	0.016339987516403198	0.014356145	No	
+row_19	PRKACG	protein kinase cAMP-activated catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9382]	10614	0.0	0.006359586	No	
+row_20	CSNK1A1L	casein kinase 1 alpha 1 like [Source:HGNC Symbol;Acc:HGNC:20289]	11114	0.0	-0.0062678903	No	
+row_21	LRP2	LDL receptor related protein 2 [Source:HGNC Symbol;Acc:HGNC:6694]	11275	0.0	-0.010316781	No	
+row_22	ZIC2	Zic family member 2 [Source:HGNC Symbol;Acc:HGNC:12873]	15273	0.0	-0.11146312	No	
+row_23	IHH	Indian hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:5956]	17150	0.0	-0.15893635	No	
+row_24	WNT10A	Wnt family member 10A [Source:HGNC Symbol;Acc:HGNC:13829]	18569	0.0	-0.19481964	No	
+row_25	WNT9B	Wnt family member 9B [Source:HGNC Symbol;Acc:HGNC:12779]	23686	0.0	-0.3242829	No	
+row_26	WNT8A	Wnt family member 8A [Source:HGNC Symbol;Acc:HGNC:12788]	23693	0.0	-0.32443476	No	
+row_27	WNT8B	Wnt family member 8B [Source:HGNC Symbol;Acc:HGNC:12789]	23694	0.0	-0.32443476	No	
+row_28	WNT7A	Wnt family member 7A [Source:HGNC Symbol;Acc:HGNC:12786]	23715	0.0	-0.32494086	No	
+row_29	WNT3A	Wnt family member 3A [Source:HGNC Symbol;Acc:HGNC:15983]	24285	0.0	-0.33933973	No	
+row_30	WNT6	Wnt family member 6 [Source:HGNC Symbol;Acc:HGNC:12785]	24580	0.0	-0.34677956	No	
+row_31	WNT1	Wnt family member 1 [Source:HGNC Symbol;Acc:HGNC:12774]	24588	0.0	-0.3469567	No	
+row_32	STK36	serine/threonine kinase 36 [Source:HGNC Symbol;Acc:HGNC:17209]	31944	-0.29951727390289307	-0.5272415	No	
+row_33	BMP5	bone morphogenetic protein 5 [Source:HGNC Symbol;Acc:HGNC:1072]	32206	-0.3350277543067932	-0.5273166	No	
+row_34	WNT2B	Wnt family member 2B [Source:HGNC Symbol;Acc:HGNC:12781]	32232	-0.3395530581474304	-0.52133137	No	
+row_35	BMP8B	bone morphogenetic protein 8b [Source:HGNC Symbol;Acc:HGNC:1075]	33252	-0.45593151450157166	-0.5382316	No	
+row_36	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	33453	-0.48914965987205505	-0.5337592	No	
+row_37	WNT11	Wnt family member 11 [Source:HGNC Symbol;Acc:HGNC:12776]	34841	-0.6090499758720398	-0.55698764	Yes	
+row_38	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	35359	-0.7073022723197937	-0.5562853	Yes	
+row_39	PRKX	protein kinase cAMP-dependent X-linked catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9441]	35853	-0.8074310421943665	-0.5530241	Yes	
+row_40	WNT5B	Wnt family member 5B [Source:HGNC Symbol;Acc:HGNC:16265]	36667	-0.9879997372627258	-0.55434144	Yes	
+row_41	BMP6	bone morphogenetic protein 6 [Source:HGNC Symbol;Acc:HGNC:1073]	37091	-1.0895023345947266	-0.5438113	Yes	
+row_42	WNT4	Wnt family member 4 [Source:HGNC Symbol;Acc:HGNC:12783]	37283	-1.1467152833938599	-0.5262952	Yes	
+row_43	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	37359	-1.1719284057617188	-0.5053522	Yes	
+row_44	PRKACA	protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	37436	-1.1992745399475098	-0.4839016	Yes	
+row_45	CSNK1G2	casein kinase 1 gamma 2 [Source:HGNC Symbol;Acc:HGNC:2455]	37654	-1.280329704284668	-0.46443927	Yes	
+row_46	CSNK1D	casein kinase 1 delta [Source:HGNC Symbol;Acc:HGNC:2452]	37802	-1.3440600633621216	-0.44196346	Yes	
+row_47	CSNK1E	casein kinase 1 epsilon [Source:HGNC Symbol;Acc:HGNC:2453]	37988	-1.439459204673767	-0.41858995	Yes	
+row_48	SUFU	SUFU negative regulator of hedgehog signaling [Source:HGNC Symbol;Acc:HGNC:16466]	38268	-1.5766748189926147	-0.39492083	Yes	
+row_49	WNT9A	Wnt family member 9A [Source:HGNC Symbol;Acc:HGNC:12778]	38471	-1.7160298824310303	-0.36658713	Yes	
+row_50	GLI3	GLI family zinc finger 3 [Source:HGNC Symbol;Acc:HGNC:4319]	38864	-2.1102445125579834	-0.33537826	Yes	
+row_51	WNT2	Wnt family member 2 [Source:HGNC Symbol;Acc:HGNC:12780]	39033	-2.360259771347046	-0.29362816	Yes	
+row_52	BMP8A	bone morphogenetic protein 8a [Source:HGNC Symbol;Acc:HGNC:21650]	39330	-3.3157718181610107	-0.23649423	Yes	
+row_53	BMP7	bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074]	39410	-3.737734794616699	-0.16564494	Yes	
+row_54	BMP2	bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	39429	-3.885540008544922	-0.0903713	Yes	
+row_55	WNT7B	Wnt family member 7B [Source:HGNC Symbol;Acc:HGNC:12787]	39540	-4.821168422698975	8.09623E-4	Yes	

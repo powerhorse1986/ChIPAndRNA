@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARSB	arylsulfatase B [Source:HGNC Symbol;Acc:HGNC:714]	3886	0.8475348949432373	-0.045288682	No	
+row_1	HEXB	hexosaminidase subunit beta [Source:HGNC Symbol;Acc:HGNC:4879]	7321	0.4203087091445923	-0.10584637	No	
+row_2	HGSNAT	heparan-alpha-glucosaminide N-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:26527]	8881	0.22809837758541107	-0.13100916	No	
+row_3	IDUA	alpha-L-iduronidase [Source:HGNC Symbol;Acc:HGNC:5391]	9765	0.09713346511125565	-0.14726442	No	
+row_4	HYAL4	hyaluronidase 4 [Source:HGNC Symbol;Acc:HGNC:5323]	15826	0.0	-0.30048046	No	
+row_5	HPSE2	heparanase 2 (inactive) [Source:HGNC Symbol;Acc:HGNC:18374]	19842	0.0	-0.40199238	No	
+row_6	SPAM1	sperm adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:11217]	27320	0.0	-0.59103465	No	
+row_7	GUSB	glucuronidase beta [Source:HGNC Symbol;Acc:HGNC:4696]	30142	-0.03807246685028076	-0.65997934	No	
+row_8	GNS	glucosamine (N-acetyl)-6-sulfatase [Source:HGNC Symbol;Acc:HGNC:4422]	32125	-0.32420289516448975	-0.68983144	No	
+row_9	HS3ST3B1	heparan sulfate-glucosamine 3-sulfotransferase 3B1 [Source:HGNC Symbol;Acc:HGNC:5198]	33292	-0.4630952775478363	-0.6903732	Yes	
+row_10	IDS	iduronate 2-sulfatase [Source:HGNC Symbol;Acc:HGNC:5389]	34414	-0.550129771232605	-0.6843385	Yes	
+row_11	NAGLU	N-acetyl-alpha-glucosaminidase [Source:HGNC Symbol;Acc:HGNC:7632]	34708	-0.5830326080322266	-0.65531325	Yes	
+row_12	GLB1	galactosidase beta 1 [Source:HGNC Symbol;Acc:HGNC:4298]	34901	-0.6180155873298645	-0.6215484	Yes	
+row_13	HYAL1	hyaluronidase 1 [Source:HGNC Symbol;Acc:HGNC:5320]	35482	-0.7300975918769836	-0.59058946	Yes	
+row_14	HYAL2	hyaluronidase 2 [Source:HGNC Symbol;Acc:HGNC:5321]	36324	-0.9073583483695984	-0.55515254	Yes	
+row_15	HYAL3	hyaluronidase 3 [Source:HGNC Symbol;Acc:HGNC:5322]	36825	-1.0182814598083496	-0.5041626	Yes	
+row_16	HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	36866	-1.0302461385726929	-0.44079474	Yes	
+row_17	GALNS	galactosamine (N-acetyl)-6-sulfatase [Source:HGNC Symbol;Acc:HGNC:4122]	37284	-1.1477253437042236	-0.37961745	Yes	
+row_18	SGSH	N-sulfoglucosamine sulfohydrolase [Source:HGNC Symbol;Acc:HGNC:10818]	37981	-1.4327760934829712	-0.30768162	Yes	
+row_19	HS3ST3A1	heparan sulfate-glucosamine 3-sulfotransferase 3A1 [Source:HGNC Symbol;Acc:HGNC:5196]	39166	-2.65169095993042	-0.171915	Yes	
+row_20	HPSE	heparanase [Source:HGNC Symbol;Acc:HGNC:5164]	39237	-2.914980411529541	0.008469787	Yes	

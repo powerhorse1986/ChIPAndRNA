@@ -1,0 +1,55 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	199	2.8268380165100098	0.060935028	Yes	
+row_1	PRKCA	protein kinase C alpha [Source:HGNC Symbol;Acc:HGNC:9393]	576	2.0849947929382324	0.097880095	Yes	
+row_2	ROCK2	Rho associated coiled-coil containing protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:10252]	597	2.0512232780456543	0.14643703	Yes	
+row_3	ROCK1	Rho associated coiled-coil containing protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:10251]	930	1.7532439231872559	0.17695136	Yes	
+row_4	TUBB6	tubulin beta 6 class V [Source:HGNC Symbol;Acc:HGNC:20776]	1185	1.5817590951919556	0.20606977	Yes	
+row_5	NCK1	NCK adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:7664]	1521	1.391588568687439	0.2277952	Yes	
+row_6	NCK2	NCK adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:7665]	2040	1.1772561073303223	0.2379881	Yes	
+row_7	TUBB2A	tubulin beta 2A class IIa [Source:HGNC Symbol;Acc:HGNC:12412]	2398	1.0550898313522339	0.25086567	Yes	
+row_8	TUBA8	tubulin alpha 8 [Source:HGNC Symbol;Acc:HGNC:12410]	2520	1.0236790180206299	0.27122435	Yes	
+row_9	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	2860	0.9341568350791931	0.28182614	Yes	
+row_10	KRT18	keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	2871	0.9298854470252991	0.30380598	Yes	
+row_11	ARPC5	actin related protein 2/3 complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:708]	3364	0.8142932653427124	0.30619055	Yes	
+row_12	WASL	WASP like actin nucleation promoting factor [Source:HGNC Symbol;Acc:HGNC:12735]	3545	0.7737103700637817	0.31848803	Yes	
+row_13	TUBA1B	tubulin alpha 1b [Source:HGNC Symbol;Acc:HGNC:18809]	3627	0.7586144208908081	0.33387765	Yes	
+row_14	TUBB2B	tubulin beta 2B class IIb [Source:HGNC Symbol;Acc:HGNC:30829]	3646	0.7545475959777832	0.35136807	Yes	
+row_15	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta [Source:HGNC Symbol;Acc:HGNC:12855]	3693	0.7441892623901367	0.36763266	Yes	
+row_16	TLR5	toll like receptor 5 [Source:HGNC Symbol;Acc:HGNC:11851]	4195	0.6433359980583191	0.36559808	Yes	
+row_17	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	4293	0.6228342652320862	0.37716895	Yes	
+row_18	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	4525	0.575560986995697	0.38292873	Yes	
+row_19	TUBB8	tubulin beta 8 class VIII [Source:HGNC Symbol;Acc:HGNC:20773]	4721	0.5508348941802979	0.38935098	Yes	
+row_20	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	4907	0.5362496972084045	0.39577198	Yes	
+row_21	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta [Source:HGNC Symbol;Acc:HGNC:12854]	5085	0.5202569365501404	0.4020881	Yes	
+row_22	TLR4	toll like receptor 4 [Source:HGNC Symbol;Acc:HGNC:11850]	5225	0.5116699934005737	0.40952405	Yes	
+row_23	TUBB	tubulin beta class I [Source:HGNC Symbol;Acc:HGNC:20778]	5613	0.4749828577041626	0.407425	Yes	
+row_24	NCL	nucleolin [Source:HGNC Symbol;Acc:HGNC:7667]	5653	0.46900370717048645	0.41732597	Yes	
+row_25	TUBA4A	tubulin alpha 4a [Source:HGNC Symbol;Acc:HGNC:12407]	5674	0.46501967310905457	0.42779434	Yes	
+row_26	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	5682	0.46399375796318054	0.43869168	Yes	
+row_27	TUBA1C	tubulin alpha 1c [Source:HGNC Symbol;Acc:HGNC:20768]	6387	0.39884743094444275	0.42370254	No	
+row_28	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	6415	0.3958764374256134	0.43226632	No	
+row_29	ARPC3	actin related protein 2/3 complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:706]	6834	0.3210667669773102	0.4253896	No	
+row_30	ARPC2	actin related protein 2/3 complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:705]	7160	0.2658458352088928	0.42043215	No	
+row_31	LY96	lymphocyte antigen 96 [Source:HGNC Symbol;Acc:HGNC:17156]	8256	0.09221727401018143	0.38443595	No	
+row_32	ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:76]	8366	0.07422090321779251	0.38241458	No	
+row_33	CTTN	cortactin [Source:HGNC Symbol;Acc:HGNC:3338]	8461	0.05978774279356003	0.38057005	No	
+row_34	TUBA3E	tubulin alpha 3e [Source:HGNC Symbol;Acc:HGNC:20765]	14874	0.0	0.15682016	No	
+row_35	TUBA3C	tubulin alpha 3c [Source:HGNC Symbol;Acc:HGNC:12408]	14877	0.0	0.15675038	No	
+row_36	TUBB4A	tubulin beta 4A class IVa [Source:HGNC Symbol;Acc:HGNC:20774]	16762	0.0	0.09100728	No	
+row_37	TUBB7P	tubulin beta 7 pseudogene [Source:HGNC Symbol;Acc:HGNC:12413]	16780	0.0	0.090414055	No	
+row_38	OCLN	occludin [Source:HGNC Symbol;Acc:HGNC:8104]	21093	-0.08976534754037857	-0.05789981	No	
+row_39	WAS	WASP actin nucleation promoting factor [Source:HGNC Symbol;Acc:HGNC:12731]	21204	-0.10670983791351318	-0.059175953	No	
+row_40	TUBA3D	tubulin alpha 3d [Source:HGNC Symbol;Acc:HGNC:24071]	21528	-0.16005289554595947	-0.066603936	No	
+row_41	ARPC1A	actin related protein 2/3 complex subunit 1A [Source:HGNC Symbol;Acc:HGNC:703]	21575	-0.1685984879732132	-0.064160675	No	
+row_42	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	22675	-0.35730764269828796	-0.09393099	No	
+row_43	TUBB4B	tubulin beta 4B class IVb [Source:HGNC Symbol;Acc:HGNC:20771]	23070	-0.4326859414577484	-0.09728998	No	
+row_44	ARPC4	actin related protein 2/3 complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:707]	23389	-0.4432796835899353	-0.09774253	No	
+row_45	CLDN1	claudin 1 [Source:HGNC Symbol;Acc:HGNC:2032]	25168	-0.7276841402053833	-0.14231324	No	
+row_46	CD14	CD14 molecule [Source:HGNC Symbol;Acc:HGNC:1628]	25345	-0.7709512710571289	-0.12994245	No	
+row_47	ARPC1B	actin related protein 2/3 complex subunit 1B [Source:HGNC Symbol;Acc:HGNC:704]	26122	-0.9514458179473877	-0.13417482	No	
+row_48	ARPC5L	actin related protein 2/3 complex subunit 5 like [Source:HGNC Symbol;Acc:HGNC:23366]	27118	-1.3040438890457153	-0.13758259	No	
+row_49	TUBB1	tubulin beta 1 class VI [Source:HGNC Symbol;Acc:HGNC:16257]	27148	-1.3143963813781738	-0.107032716	No	
+row_50	HCLS1	hematopoietic cell-specific Lyn substrate 1 [Source:HGNC Symbol;Acc:HGNC:4844]	27208	-1.3480268716812134	-0.07672216	No	
+row_51	FYN	FYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4037]	27518	-1.521851658821106	-0.05096152	No	
+row_52	ARHGEF2	Rho/Rac guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:682]	27806	-1.7481787204742432	-0.01899852	No	
+row_53	TUBB3	tubulin beta 3 class III [Source:HGNC Symbol;Acc:HGNC:20772]	28102	-2.1034657955169678	0.021216618	No	

@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHSY1	chondroitin sulfate synthase 1 [Source:HGNC Symbol;Acc:HGNC:17198]	4048	0.8223283886909485	-0.06849249	No	
+row_1	B3GAT2	beta-1,3-glucuronyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:922]	4422	0.7562550902366638	-0.0467873	No	
+row_2	B3GAT1	beta-1,3-glucuronyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:921]	10597	0.0	-0.20288955	No	
+row_3	CHST13	carbohydrate sulfotransferase 13 [Source:HGNC Symbol;Acc:HGNC:21755]	19658	0.0	-0.43196088	No	
+row_4	CHST7	carbohydrate sulfotransferase 7 [Source:HGNC Symbol;Acc:HGNC:13817]	31154	-0.18614138662815094	-0.7149346	No	
+row_5	DSE	dermatan sulfate epimerase [Source:HGNC Symbol;Acc:HGNC:21144]	31959	-0.30112093687057495	-0.7228652	No	
+row_6	CHST3	carbohydrate sulfotransferase 3 [Source:HGNC Symbol;Acc:HGNC:1971]	32023	-0.30979683995246887	-0.71170336	No	
+row_7	CHPF	chondroitin polymerizing factor [Source:HGNC Symbol;Acc:HGNC:24291]	32033	-0.31109896302223206	-0.69912255	No	
+row_8	XYLT1	xylosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15516]	32304	-0.35148704051971436	-0.69147795	No	
+row_9	CHST14	carbohydrate sulfotransferase 14 [Source:HGNC Symbol;Acc:HGNC:24464]	34666	-0.5726678967475891	-0.7275955	Yes	
+row_10	CSGALNACT1	chondroitin sulfate N-acetylgalactosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24290]	34858	-0.6113680005073547	-0.7072539	Yes	
+row_11	CHST15	carbohydrate sulfotransferase 15 [Source:HGNC Symbol;Acc:HGNC:18137]	36149	-0.867092490196228	-0.7041706	Yes	
+row_12	CHSY3	chondroitin sulfate synthase 3 [Source:HGNC Symbol;Acc:HGNC:24293]	36349	-0.9119388461112976	-0.6716563	Yes	
+row_13	CHST12	carbohydrate sulfotransferase 12 [Source:HGNC Symbol;Acc:HGNC:17423]	37365	-1.1732070446014404	-0.64901686	Yes	
+row_14	B4GALT7	beta-1,4-galactosyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:930]	37808	-1.3488078117370605	-0.60466003	Yes	
+row_15	B3GALT6	beta-1,3-galactosyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:17978]	38092	-1.4917024374008179	-0.55039996	Yes	
+row_16	CHPF2	chondroitin polymerizing factor 2 [Source:HGNC Symbol;Acc:HGNC:29270]	38277	-1.5824894905090332	-0.48989892	Yes	
+row_17	UST	uronyl 2-sulfotransferase [Source:HGNC Symbol;Acc:HGNC:17223]	38611	-1.813567876815796	-0.42365137	Yes	
+row_18	XYLT2	xylosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:15517]	38834	-2.0628883838653564	-0.34433246	Yes	
+row_19	CSGALNACT2	chondroitin sulfate N-acetylgalactosaminyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:24292]	38867	-2.112337350845337	-0.25817373	Yes	
+row_20	B3GAT3	beta-1,3-glucuronyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:923]	39007	-2.3183486461639404	-0.16623862	Yes	
+row_21	CHST11	carbohydrate sulfotransferase 11 [Source:HGNC Symbol;Acc:HGNC:17422]	39490	-4.384087085723877	0.0020734046	Yes	

@@ -1,0 +1,51 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RIGI	RNA sensor RIG-I [Source:HGNC Symbol;Acc:HGNC:19102]	788	2.0449531078338623	0.029448569	No	
+row_1	POLR3B	RNA polymerase III subunit B [Source:HGNC Symbol;Acc:HGNC:30348]	1070	1.8091646432876587	0.06603074	No	
+row_2	CASP1	caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	2092	1.3164469003677368	0.07199033	No	
+row_3	POLR3G	RNA polymerase III subunit G [Source:HGNC Symbol;Acc:HGNC:30075]	2299	1.2473589181900024	0.096902326	No	
+row_4	IL18	interleukin 18 [Source:HGNC Symbol;Acc:HGNC:5986]	3717	0.881605863571167	0.082340874	No	
+row_5	CHUK	component of inhibitor of nuclear factor kappa B kinase complex [Source:HGNC Symbol;Acc:HGNC:1974]	3762	0.8728745579719543	0.10230782	No	
+row_6	POLR3F	RNA polymerase III subunit F [Source:HGNC Symbol;Acc:HGNC:15763]	4290	0.7812283039093018	0.10784075	No	
+row_7	POLR3GL	RNA polymerase III subunit GL [Source:HGNC Symbol;Acc:HGNC:28466]	6329	0.5139631628990173	0.06868823	No	
+row_8	IFNA8	interferon alpha 8 [Source:HGNC Symbol;Acc:HGNC:5429]	7254	0.42356348037719727	0.05553864	No	
+row_9	RIPK1	receptor interacting serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:10019]	9267	0.16677150130271912	0.0086591635	No	
+row_10	TBK1	TANK binding kinase 1 [Source:HGNC Symbol;Acc:HGNC:11584]	9492	0.13620799779891968	0.006281048	No	
+row_11	TREX1	three prime repair exonuclease 1 [Source:HGNC Symbol;Acc:HGNC:12269]	10113	0.04407435655593872	-0.008341609	No	
+row_12	IFNA13	interferon alpha 13 [Source:HGNC Symbol;Acc:HGNC:5419]	17635	0.0	-0.19863586	No	
+row_13	IFNA14	interferon alpha 14 [Source:HGNC Symbol;Acc:HGNC:5420]	17637	0.0	-0.19866116	No	
+row_14	IFNA16	interferon alpha 16 [Source:HGNC Symbol;Acc:HGNC:5421]	17638	0.0	-0.19866116	No	
+row_15	IFNA17	interferon alpha 17 [Source:HGNC Symbol;Acc:HGNC:5422]	17639	0.0	-0.19866116	No	
+row_16	IFNA10	interferon alpha 10 [Source:HGNC Symbol;Acc:HGNC:5418]	17645	0.0	-0.19878767	No	
+row_17	IFNA21	interferon alpha 21 [Source:HGNC Symbol;Acc:HGNC:5424]	17652	0.0	-0.19893949	No	
+row_18	AIM2	absent in melanoma 2 [Source:HGNC Symbol;Acc:HGNC:357]	23005	0.0	-0.3343543	No	
+row_19	IFNA5	interferon alpha 5 [Source:HGNC Symbol;Acc:HGNC:5426]	24163	0.0	-0.3636284	No	
+row_20	IFNA4	interferon alpha 4 [Source:HGNC Symbol;Acc:HGNC:5425]	24164	0.0	-0.3636284	No	
+row_21	IFNA7	interferon alpha 7 [Source:HGNC Symbol;Acc:HGNC:5428]	24165	0.0	-0.3636284	No	
+row_22	IFNA6	interferon alpha 6 [Source:HGNC Symbol;Acc:HGNC:5427]	24166	0.0	-0.3636284	No	
+row_23	IFNA1	interferon alpha 1 [Source:HGNC Symbol;Acc:HGNC:5417]	24167	0.0	-0.3636284	No	
+row_24	IFNA2	interferon alpha 2 [Source:HGNC Symbol;Acc:HGNC:5423]	24169	0.0	-0.3636537	No	
+row_25	IFNB1	interferon beta 1 [Source:HGNC Symbol;Acc:HGNC:5434]	24191	0.0	-0.36418504	No	
+row_26	ZBP1	Z-DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:16176]	25891	0.0	-0.40717265	No	
+row_27	POLR3C	RNA polymerase III subunit C [Source:HGNC Symbol;Acc:HGNC:30076]	30144	-0.038140278309583664	-0.5138345	No	
+row_28	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	31241	-0.2012159377336502	-0.53670573	No	
+row_29	POLR3K	RNA polymerase III subunit K [Source:HGNC Symbol;Acc:HGNC:14121]	32163	-0.3297988176345825	-0.55204386	No	
+row_30	IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	32257	-0.34397247433662415	-0.5460899	No	
+row_31	RIPK3	receptor interacting serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:10021]	32762	-0.4255824685096741	-0.54856396	No	
+row_32	POLR1D	RNA polymerase I and III subunit D [Source:HGNC Symbol;Acc:HGNC:20422]	34601	-0.5639649629592896	-0.5814486	Yes	
+row_33	POLR3D	RNA polymerase III subunit D [Source:HGNC Symbol;Acc:HGNC:1080]	34843	-0.609185516834259	-0.57283425	Yes	
+row_34	ADAR	adenosine deaminase RNA specific [Source:HGNC Symbol;Acc:HGNC:225]	35093	-0.6530712842941284	-0.5633625	Yes	
+row_35	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	35667	-0.7647125720977783	-0.55939233	Yes	
+row_36	POLR3A	RNA polymerase III subunit A [Source:HGNC Symbol;Acc:HGNC:30074]	35889	-0.8158660531044006	-0.5452805	Yes	
+row_37	POLR3H	RNA polymerase III subunit H [Source:HGNC Symbol;Acc:HGNC:30349]	36227	-0.8861092925071716	-0.5324074	Yes	
+row_38	MAVS	mitochondrial antiviral signaling protein [Source:HGNC Symbol;Acc:HGNC:29233]	36266	-0.8949670791625977	-0.51175505	Yes	
+row_39	IL33	interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	36808	-1.0158251523971558	-0.50091076	Yes	
+row_40	PYCARD	PYD and CARD domain containing [Source:HGNC Symbol;Acc:HGNC:16608]	36886	-1.0346050262451172	-0.47787294	Yes	
+row_41	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	37045	-1.0746461153030396	-0.45591754	Yes	
+row_42	NFKBIB	NFKB inhibitor beta [Source:HGNC Symbol;Acc:HGNC:7798]	37299	-1.1522018909454346	-0.4344928	Yes	
+row_43	IRF3	interferon regulatory factor 3 [Source:HGNC Symbol;Acc:HGNC:6118]	37747	-1.3236441612243652	-0.4138362	Yes	
+row_44	CXCL10	C-X-C motif chemokine ligand 10 [Source:HGNC Symbol;Acc:HGNC:10637]	38382	-1.6505796909332275	-0.39001542	Yes	
+row_45	POLR1C	RNA polymerase I and III subunit C [Source:HGNC Symbol;Acc:HGNC:20194]	38429	-1.6831860542297363	-0.35052976	Yes	
+row_46	STING1	stimulator of interferon response cGAMP interactor 1 [Source:HGNC Symbol;Acc:HGNC:27962]	39215	-2.8153319358825684	-0.30240038	Yes	
+row_47	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	39283	-3.0774128437042236	-0.229775	Yes	
+row_48	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	39539	-4.816554546356201	-0.11990547	Yes	
+row_49	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	39571	-4.998490810394287	2.5461919E-5	Yes	
