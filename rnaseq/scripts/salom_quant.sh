@@ -18,7 +18,7 @@ then
 fi
 
 # Generate salmon index
-# salmon index -t $REF -i $INDEX_PATH
+salmon index -t $REF -i $INDEX_PATH
 
 # Salmon quantification!!! Faster than STAR
 while read -r LINE;
