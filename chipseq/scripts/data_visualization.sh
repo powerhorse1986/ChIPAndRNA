@@ -12,14 +12,14 @@ BED="/home/mali/NewDrive/Practice/ChIPAndRNA/chipseq/results/macs2/peaks_final.b
 OUTPUT="/home/mali/NewDrive/Practice/ChIPAndRNA/chipseq/results/visualization/matrix.gz"
 
 # Run the command
-#computeMatrix \
-#reference-point --referencePoint center \
-#-b 4000 -a 4000 \
-#-R $BED \
-#-S $CASE_BW $CTRL_BW \
-#--skipZeros \
-#-o $OUTPUT \
-#-p 8
+computeMatrix \
+reference-point --referencePoint center \
+-b 4000 -a 4000 \
+-R $BED \
+-S $CASE_BW $CTRL_BW \
+--skipZeros \
+-o $OUTPUT \
+-p 8
 
 # Create the profile plot
 PLOT_OUT="/home/mali/NewDrive/Practice/ChIPAndRNA/chipseq/results/visualization/encode.png"
