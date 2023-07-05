@@ -27,13 +27,13 @@ then
 fi
 
 # First, simply run callpeak with SRR12490774 as the control, and SRR12490775 as the case
-#macs2 callpeak \
-#-t $CASE_BAM \# define the case bam file
-#-c $CTRL_BAM \# define the control bam file
-#-f BAM \# specify inputs are bam files
-#-g 2.45e9 \# mappable genome size of hg19
-#-n peaks \# output prefix
-#--outdir $COMPARE_OUT
+macs2 callpeak \
+-t $CASE_BAM \# define the case bam file
+-c $CTRL_BAM \# define the control bam file
+-f BAM \# specify inputs are bam files
+-g 2.45e9 \# mappable genome size of hg19
+-n peaks \# output prefix
+--outdir $COMPARE_OUT
 
 # Then, run callpeak with SRR12490774 and SRR12490775 separately
 macs2 callpeak \
