@@ -15,348 +15,86 @@ The structure of the folder rnaseq is shown as the following:
 ├── results
 │   ├── fastqc
 │   │   ├── SRR12492510
-│   │   │   ├── SRR12492510_1_fastqc.html
-│   │   │   ├── SRR12492510_1_fastqc.zip
-│   │   │   ├── SRR12492510_2_fastqc.html
-│   │   │   └── SRR12492510_2_fastqc.zip
 │   │   ├── SRR12492511
-│   │   │   ├── SRR12492511_1_fastqc.html
-│   │   │   ├── SRR12492511_1_fastqc.zip
-│   │   │   ├── SRR12492511_2_fastqc.html
-│   │   │   └── SRR12492511_2_fastqc.zip
 │   │   ├── SRR12492512
-│   │   │   ├── SRR12492512_1_fastqc.html
-│   │   │   ├── SRR12492512_1_fastqc.zip
-│   │   │   ├── SRR12492512_2_fastqc.html
-│   │   │   └── SRR12492512_2_fastqc.zip
 │   │   ├── SRR12492513
-│   │   │   ├── SRR12492513_1_fastqc.html
-│   │   │   ├── SRR12492513_1_fastqc.zip
-│   │   │   ├── SRR12492513_2_fastqc.html
-│   │   │   └── SRR12492513_2_fastqc.zip
 │   │   ├── SRR12492514
-│   │   │   ├── SRR12492514_1_fastqc.html
-│   │   │   ├── SRR12492514_1_fastqc.zip
-│   │   │   ├── SRR12492514_2_fastqc.html
-│   │   │   └── SRR12492514_2_fastqc.zip
 │   │   ├── SRR12492515
-│   │   │   ├── SRR12492515_1_fastqc.html
-│   │   │   ├── SRR12492515_1_fastqc.zip
-│   │   │   ├── SRR12492515_2_fastqc.html
-│   │   │   └── SRR12492515_2_fastqc.zip
 │   │   ├── SRR12492516
-│   │   │   ├── SRR12492516_1_fastqc.html
-│   │   │   ├── SRR12492516_1_fastqc.zip
-│   │   │   ├── SRR12492516_2_fastqc.html
-│   │   │   └── SRR12492516_2_fastqc.zip
 │   │   ├── SRR12492517
-│   │   │   ├── SRR12492517_1_fastqc.html
-│   │   │   ├── SRR12492517_1_fastqc.zip
-│   │   │   ├── SRR12492517_2_fastqc.html
-│   │   │   └── SRR12492517_2_fastqc.zip
 │   │   ├── SRR12492518
-│   │   │   ├── SRR12492518_1_fastqc.html
-│   │   │   ├── SRR12492518_1_fastqc.zip
-│   │   │   ├── SRR12492518_2_fastqc.html
-│   │   │   └── SRR12492518_2_fastqc.zip
 │   │   ├── SRR12492519
-│   │   │   ├── SRR12492519_1_fastqc.html
-│   │   │   ├── SRR12492519_1_fastqc.zip
-│   │   │   ├── SRR12492519_2_fastqc.html
-│   │   │   └── SRR12492519_2_fastqc.zip
 │   │   ├── SRR12492520
-│   │   │   ├── SRR12492520_1_fastqc.html
-│   │   │   ├── SRR12492520_1_fastqc.zip
-│   │   │   ├── SRR12492520_2_fastqc.html
-│   │   │   └── SRR12492520_2_fastqc.zip
 │   │   └── SRR12492521
-│   │       ├── SRR12492521_1_fastqc.html
-│   │       ├── SRR12492521_1_fastqc.zip
-│   │       ├── SRR12492521_2_fastqc.html
-│   │       └── SRR12492521_2_fastqc.zip
 │   ├── reports
 │   │   ├── salmon_DGE
-│   │   │   ├── condition_Group_KD_vs_Group_CT_0.05.xlsx
-│   │   │   ├── condition_Group_OE_vs_Group_CT_0.05.xlsx
-│   │   │   ├── condition_Group_RAS_vs_Group_CT_0.05.xlsx
-│   │   │   ├── GroupKD_Vs_GroupCT_RNA-seq_Salmon_DGE_simple.html
-│   │   │   ├── GroupOE_Vs_GroupCT_RNA-seq_Salmon_DGE_simple.html
-│   │   │   └── GroupRAS_Vs_GroupCT_RNA-seq_Salmon_DGE_simple.html
 │   │   ├── salmon_EDA
-│   │   │   └── RNA-seq_Salmon_EDA_simple.html
 │   │   ├── STAR_DGE
-│   │   │   ├── condition_Group_KD_vs_Group_CT_0.05.xlsx
-│   │   │   ├── condition_Group_OE_vs_Group_CT_0.05.xlsx
-│   │   │   ├── condition_Group_RAS_vs_Group_CT_0.05.xlsx
-│   │   │   ├── GroupKD_Vs_GroupCT_RNA-seq_STAR_DGE_simple.html
-│   │   │   ├── GroupOE_Vs_GroupCT_RNA-seq_STAR_DGE_simple.html
-│   │   │   └── GroupRAS_Vs_GroupCT_RNA-seq_STAR_DGE_simple.html
 │   │   └── STAR_EDA
-│   │       └── RNA-seq_STAR_EDA_simple.html
 │   ├── salmon
-│   │   ├── samples.txt
 │   │   ├── SRR12492510
 │   │   │   ├── aux_info
-│   │   │   │   ├── ambig_info.tsv
-│   │   │   │   ├── expected_bias.gz
-│   │   │   │   ├── fld.gz
-│   │   │   │   ├── meta_info.json
-│   │   │   │   ├── observed_bias_3p.gz
-│   │   │   │   └── observed_bias.gz
-│   │   │   ├── cmd_info.json
-│   │   │   ├── lib_format_counts.json
 │   │   │   ├── libParams
-│   │   │   │   └── flenDist.txt
-│   │   │   ├── logs
-│   │   │   │   └── salmon_quant.log
-│   │   │   └── quant.sf
+│   │   │   └── logs
 │   │   ├── SRR12492511
 │   │   │   ├── aux_info
-│   │   │   │   ├── ambig_info.tsv
-│   │   │   │   ├── expected_bias.gz
-│   │   │   │   ├── fld.gz
-│   │   │   │   ├── meta_info.json
-│   │   │   │   ├── observed_bias_3p.gz
-│   │   │   │   └── observed_bias.gz
-│   │   │   ├── cmd_info.json
-│   │   │   ├── lib_format_counts.json
 │   │   │   ├── libParams
-│   │   │   │   └── flenDist.txt
-│   │   │   ├── logs
-│   │   │   │   └── salmon_quant.log
-│   │   │   └── quant.sf
+│   │   │   └── logs
 │   │   ├── SRR12492512
 │   │   │   ├── aux_info
-│   │   │   │   ├── ambig_info.tsv
-│   │   │   │   ├── expected_bias.gz
-│   │   │   │   ├── fld.gz
-│   │   │   │   ├── meta_info.json
-│   │   │   │   ├── observed_bias_3p.gz
-│   │   │   │   └── observed_bias.gz
-│   │   │   ├── cmd_info.json
-│   │   │   ├── lib_format_counts.json
 │   │   │   ├── libParams
-│   │   │   │   └── flenDist.txt
-│   │   │   ├── logs
-│   │   │   │   └── salmon_quant.log
-│   │   │   └── quant.sf
+│   │   │   └── logs
 │   │   ├── SRR12492513
 │   │   │   ├── aux_info
-│   │   │   │   ├── ambig_info.tsv
-│   │   │   │   ├── expected_bias.gz
-│   │   │   │   ├── fld.gz
-│   │   │   │   ├── meta_info.json
-│   │   │   │   ├── observed_bias_3p.gz
-│   │   │   │   └── observed_bias.gz
-│   │   │   ├── cmd_info.json
-│   │   │   ├── lib_format_counts.json
 │   │   │   ├── libParams
-│   │   │   │   └── flenDist.txt
-│   │   │   ├── logs
-│   │   │   │   └── salmon_quant.log
-│   │   │   └── quant.sf
+│   │   │   └── logs
 │   │   ├── SRR12492514
 │   │   │   ├── aux_info
-│   │   │   │   ├── ambig_info.tsv
-│   │   │   │   ├── expected_bias.gz
-│   │   │   │   ├── fld.gz
-│   │   │   │   ├── meta_info.json
-│   │   │   │   ├── observed_bias_3p.gz
-│   │   │   │   └── observed_bias.gz
-│   │   │   ├── cmd_info.json
-│   │   │   ├── lib_format_counts.json
 │   │   │   ├── libParams
-│   │   │   │   └── flenDist.txt
-│   │   │   ├── logs
-│   │   │   │   └── salmon_quant.log
-│   │   │   └── quant.sf
+│   │   │   └── logs
 │   │   ├── SRR12492515
 │   │   │   ├── aux_info
-│   │   │   │   ├── ambig_info.tsv
-│   │   │   │   ├── expected_bias.gz
-│   │   │   │   ├── fld.gz
-│   │   │   │   ├── meta_info.json
-│   │   │   │   ├── observed_bias_3p.gz
-│   │   │   │   └── observed_bias.gz
-│   │   │   ├── cmd_info.json
-│   │   │   ├── lib_format_counts.json
 │   │   │   ├── libParams
-│   │   │   │   └── flenDist.txt
-│   │   │   ├── logs
-│   │   │   │   └── salmon_quant.log
-│   │   │   └── quant.sf
+│   │   │   └── logs
 │   │   ├── SRR12492516
 │   │   │   ├── aux_info
-│   │   │   │   ├── ambig_info.tsv
-│   │   │   │   ├── expected_bias.gz
-│   │   │   │   ├── fld.gz
-│   │   │   │   ├── meta_info.json
-│   │   │   │   ├── observed_bias_3p.gz
-│   │   │   │   └── observed_bias.gz
-│   │   │   ├── cmd_info.json
-│   │   │   ├── lib_format_counts.json
 │   │   │   ├── libParams
-│   │   │   │   └── flenDist.txt
-│   │   │   ├── logs
-│   │   │   │   └── salmon_quant.log
-│   │   │   └── quant.sf
+│   │   │   └── logs
 │   │   ├── SRR12492517
 │   │   │   ├── aux_info
-│   │   │   │   ├── ambig_info.tsv
-│   │   │   │   ├── expected_bias.gz
-│   │   │   │   ├── fld.gz
-│   │   │   │   ├── meta_info.json
-│   │   │   │   ├── observed_bias_3p.gz
-│   │   │   │   └── observed_bias.gz
-│   │   │   ├── cmd_info.json
-│   │   │   ├── lib_format_counts.json
 │   │   │   ├── libParams
-│   │   │   │   └── flenDist.txt
-│   │   │   ├── logs
-│   │   │   │   └── salmon_quant.log
-│   │   │   └── quant.sf
+│   │   │   └── logs
 │   │   ├── SRR12492518
 │   │   │   ├── aux_info
-│   │   │   │   ├── ambig_info.tsv
-│   │   │   │   ├── expected_bias.gz
-│   │   │   │   ├── fld.gz
-│   │   │   │   ├── meta_info.json
-│   │   │   │   ├── observed_bias_3p.gz
-│   │   │   │   └── observed_bias.gz
-│   │   │   ├── cmd_info.json
-│   │   │   ├── lib_format_counts.json
 │   │   │   ├── libParams
-│   │   │   │   └── flenDist.txt
-│   │   │   ├── logs
-│   │   │   │   └── salmon_quant.log
-│   │   │   └── quant.sf
+│   │   │   └── logs
 │   │   ├── SRR12492519
 │   │   │   ├── aux_info
-│   │   │   │   ├── ambig_info.tsv
-│   │   │   │   ├── expected_bias.gz
-│   │   │   │   ├── fld.gz
-│   │   │   │   ├── meta_info.json
-│   │   │   │   ├── observed_bias_3p.gz
-│   │   │   │   └── observed_bias.gz
-│   │   │   ├── cmd_info.json
-│   │   │   ├── lib_format_counts.json
 │   │   │   ├── libParams
-│   │   │   │   └── flenDist.txt
-│   │   │   ├── logs
-│   │   │   │   └── salmon_quant.log
-│   │   │   └── quant.sf
+│   │   │   └── logs
 │   │   ├── SRR12492520
 │   │   │   ├── aux_info
-│   │   │   │   ├── ambig_info.tsv
-│   │   │   │   ├── expected_bias.gz
-│   │   │   │   ├── fld.gz
-│   │   │   │   ├── meta_info.json
-│   │   │   │   ├── observed_bias_3p.gz
-│   │   │   │   └── observed_bias.gz
-│   │   │   ├── cmd_info.json
-│   │   │   ├── lib_format_counts.json
 │   │   │   ├── libParams
-│   │   │   │   └── flenDist.txt
-│   │   │   ├── logs
-│   │   │   │   └── salmon_quant.log
-│   │   │   └── quant.sf
+│   │   │   └── logs
 │   │   └── SRR12492521
 │   │       ├── aux_info
-│   │       │   ├── ambig_info.tsv
-│   │       │   ├── expected_bias.gz
-│   │       │   ├── fld.gz
-│   │       │   ├── meta_info.json
-│   │       │   ├── observed_bias_3p.gz
-│   │       │   └── observed_bias.gz
-│   │       ├── cmd_info.json
-│   │       ├── lib_format_counts.json
 │   │       ├── libParams
-│   │       │   └── flenDist.txt
-│   │       ├── logs
-│   │       │   └── salmon_quant.log
-│   │       └── quant.sf
+│   │       └── logs
 │   └── STAR
 │       ├── counts
-│       │   ├── samples.txt
-│       │   ├── SRR12492510.count
-│       │   ├── SRR12492511.count
-│       │   ├── SRR12492512.count
-│       │   ├── SRR12492513.count
-│       │   ├── SRR12492514.count
-│       │   ├── SRR12492515.count
-│       │   ├── SRR12492516.count
-│       │   ├── SRR12492517.count
-│       │   ├── SRR12492518.count
-│       │   ├── SRR12492519.count
-│       │   ├── SRR12492520.count
-│       │   └── SRR12492521.count
 │       ├── SRR12492510
-│       │   ├── Log.final.out
-│       │   ├── Log.out
-│       │   ├── Log.progress.out
-│       │   └── SJ.out.tab
 │       ├── SRR12492511
-│       │   ├── Log.final.out
-│       │   ├── Log.out
-│       │   ├── Log.progress.out
-│       │   └── SJ.out.tab
 │       ├── SRR12492512
-│       │   ├── Log.final.out
-│       │   ├── Log.out
-│       │   ├── Log.progress.out
-│       │   └── SJ.out.tab
 │       ├── SRR12492513
-│       │   ├── Log.final.out
-│       │   ├── Log.out
-│       │   ├── Log.progress.out
-│       │   └── SJ.out.tab
 │       ├── SRR12492514
-│       │   ├── Log.final.out
-│       │   ├── Log.out
-│       │   ├── Log.progress.out
-│       │   └── SJ.out.tab
 │       ├── SRR12492515
-│       │   ├── Log.final.out
-│       │   ├── Log.out
-│       │   ├── Log.progress.out
-│       │   └── SJ.out.tab
 │       ├── SRR12492516
-│       │   ├── Log.final.out
-│       │   ├── Log.out
-│       │   ├── Log.progress.out
-│       │   └── SJ.out.tab
 │       ├── SRR12492517
-│       │   ├── Log.final.out
-│       │   ├── Log.out
-│       │   ├── Log.progress.out
-│       │   └── SJ.out.tab
 │       ├── SRR12492518
-│       │   ├── Log.final.out
-│       │   ├── Log.out
-│       │   ├── Log.progress.out
-│       │   └── SJ.out.tab
 │       ├── SRR12492519
-│       │   ├── Log.final.out
-│       │   ├── Log.out
-│       │   ├── Log.progress.out
-│       │   └── SJ.out.tab
 │       ├── SRR12492520
-│       │   ├── Log.final.out
-│       │   ├── Log.out
-│       │   ├── Log.progress.out
-│       │   └── SJ.out.tab
 │       └── SRR12492521
-│           ├── Log.final.out
-│           ├── Log.out
-│           ├── Log.progress.out
-│           └── SJ.out.tab
 └── scripts
-    ├── automation_one.sh
-    ├── create_star_index.sh
-    ├── FastQDumpConcurrency.py
-    ├── generateDecoyTranscriptome.sh
-    ├── salom_quant.sh
-    └── sra_files.txt
 </pre>
 
 For the RNA-Seq analysis, the following software are used:
@@ -411,106 +149,17 @@ The directory tree of chipseq is shown as follow
 │   │   └── SRR12490775
 │   ├── HOMER
 │   │   ├── peaks
-│   │   │   └── peaks
 │   │   └── Tags
 │   │       ├── SRR12490774
-│   │       │   ├── 10.tags.tsv
-│   │       │   ├── 11.tags.tsv
-│   │       │   ├── 12.tags.tsv
-│   │       │   ├── 13.tags.tsv
-│   │       │   ├── 14.tags.tsv
-│   │       │   ├── 15.tags.tsv
-│   │       │   ├── 16.tags.tsv
-│   │       │   ├── 17.tags.tsv
-│   │       │   ├── 18.tags.tsv
-│   │       │   ├── 19.tags.tsv
-│   │       │   ├── 1.tags.tsv
-│   │       │   ├── 20.tags.tsv
-│   │       │   ├── 21.tags.tsv
-│   │       │   ├── 22.tags.tsv
-│   │       │   ├── 2.tags.tsv
-│   │       │   ├── 3.tags.tsv
-│   │       │   ├── 4.tags.tsv
-│   │       │   ├── 5.tags.tsv
-│   │       │   ├── 6.tags.tsv
-│   │       │   ├── 7.tags.tsv
-│   │       │   ├── 8.tags.tsv
-│   │       │   ├── 9.tags.tsv
-│   │       │   ├── MT.tags.tsv
-│   │       │   ├── tagAutocorrelation.txt
-│   │       │   ├── tagCountDistribution.txt
-│   │       │   ├── tagInfo.txt
-│   │       │   ├── tagLengthDistribution.txt
-│   │       │   ├── X.tags.tsv
-│   │       │   └── Y.tags.tsv
 │   │       └── SRR12490775
-│   │           ├── 10.tags.tsv
-│   │           ├── 11.tags.tsv
-│   │           ├── 12.tags.tsv
-│   │           ├── 13.tags.tsv
-│   │           ├── 14.tags.tsv
-│   │           ├── 15.tags.tsv
-│   │           ├── 16.tags.tsv
-│   │           ├── 17.tags.tsv
-│   │           ├── 18.tags.tsv
-│   │           ├── 19.tags.tsv
-│   │           ├── 1.tags.tsv
-│   │           ├── 20.tags.tsv
-│   │           ├── 21.tags.tsv
-│   │           ├── 22.tags.tsv
-│   │           ├── 2.tags.tsv
-│   │           ├── 3.tags.tsv
-│   │           ├── 4.tags.tsv
-│   │           ├── 5.tags.tsv
-│   │           ├── 6.tags.tsv
-│   │           ├── 7.tags.tsv
-│   │           ├── 8.tags.tsv
-│   │           ├── 9.tags.tsv
-│   │           ├── MT.tags.tsv
-│   │           ├── tagAutocorrelation.txt
-│   │           ├── tagCountDistribution.txt
-│   │           ├── tagInfo.txt
-│   │           ├── tagLengthDistribution.txt
-│   │           ├── X.tags.tsv
-│   │           └── Y.tags.tsv
 │   ├── macs2
 │   │   ├── CaseVsCtrl
-│   │   │   ├── compare_peaks_filtered.bed
-│   │   │   ├── peaks_model.pdf
-│   │   │   ├── peaks_model.r
-│   │   │   ├── peaks_peaks.narrowPeak
-│   │   │   ├── peaks_peaks.xls
-│   │   │   └── peaks_summits.bed
-│   │   ├── peaks_final.bed
 │   │   ├── SRR12490774
-│   │   │   ├── ctrl_peaks_filtered.bed
-│   │   │   ├── ctrl_peaks_model.pdf
-│   │   │   ├── ctrl_peaks_model.r
-│   │   │   ├── ctrl_peaks_peaks.narrowPeak
-│   │   │   ├── ctrl_peaks_peaks.xls
-│   │   │   └── ctrl_peaks_summits.bed
 │   │   └── SRR12490775
-│   │       ├── case_peaks_filtered.bed
-│   │       ├── case_peaks_model.pdf
-│   │       ├── case_peaks_model.r
-│   │       ├── case_peaks_peaks.narrowPeak
-│   │       ├── case_peaks_peaks.xls
-│   │       └── case_peaks_summits.bed
 │   └── visualization
-│       ├── bigwigs
-│       │   └── generatedByDeepTools
-│       │       ├── compare.bw
-│       │       ├── SRR12490774.bw
-│       │       └── SRR12490775.bw
-│       ├── encode.png
-│       └── matrix.gz
+│       └── bigwigs
+│           └── generatedByDeepTools
 └── scripts
-    ├── automation.sh
-    ├── chipseq.Rmd
-    ├── data_visualization.sh
-    ├── handle_peaks.sh
-    ├── peak_call.sh
-    └── sra_files.txt
 </pre>
 To perform the analysis, the following software were used:
 1. bowtie-1.3.1
